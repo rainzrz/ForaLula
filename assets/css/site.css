@@ -130,6 +130,19 @@ dialog textarea { border-radius: 12px; }
 .situacao { font: 500 1.15rem/1 var(--mao); color: var(--tinta-suave); }
 .publicado .situacao { color: var(--fato); }
 
+/* Números em destaque e chamada para o resumo por governo */
+.grade-numeros { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1.8rem 1.4rem; margin: 1rem 0 2.6rem; }
+.cartao-numero { background: var(--papel); padding: 1.1rem 1.1rem 1rem; box-shadow: 6px 6px 0 var(--sombra-rosa); border-top: 6px solid var(--acento); }
+.cartao-numero:nth-child(odd) { transform: rotate(-.6deg); }
+.cartao-numero:nth-child(even) { transform: rotate(.5deg); }
+.cartao-numero .numero { display: block; font: 400 clamp(2rem, 4.5vw, 2.7rem)/1.05 var(--titulo); color: var(--acento); text-decoration: none; }
+.cartao-numero .numero:hover { text-decoration: underline; }
+.cartao-numero p { margin: .4rem 0 .7rem; font-size: .88rem; }
+.faixa-pior { position: relative; display: block; background: var(--acento); color: #fff; text-decoration: none; padding: 1.6rem 1.5rem 1.4rem; box-shadow: 8px 8px 0 var(--acento-escuro); transform: rotate(-.5deg); transition: transform .15s ease; }
+.faixa-pior:hover, .faixa-pior:focus-visible { transform: rotate(0) translateY(-3px); }
+.faixa-pior strong { display: block; font: 400 clamp(2rem, 5.5vw, 3.4rem)/1.05 var(--titulo); text-transform: uppercase; letter-spacing: .02em; text-shadow: 3px 3px 0 var(--acento-escuro); margin-bottom: .5rem; }
+.faixa-pior .rabisco { display: block; color: #ffe1dd; }
+
 /* Rodapé: bloco vermelho com a borda de cima rasgada; as fontes ficam numa folha presa com fita */
 .rodape { position: relative; background: var(--acento); color: #fff; padding: 4.5rem 0 2.5rem; margin-top: 2rem; }
 .rodape::before { top: -1px; transform: scaleY(-1); }

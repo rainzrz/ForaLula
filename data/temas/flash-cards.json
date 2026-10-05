@@ -156,7 +156,7 @@
     "fonte_data": "2025-04-23",
     "verificado_em": "2026-10-04",
     "titulo": "Qual o tamanho e o período da fraude do INSS?",
-    "texto": "Cerca de R$ 6,3 bilhões em descontos associativos entre 2019 e 2024, período que abrange os governos Bolsonaro (2019–2022) e Lula (2023–2024).",
+    "texto": "Cerca de R$ 6,3 bilhões em descontos associativos entre 2019 e 2024.",
     "destaque": false
   },
   {
@@ -179,17 +179,6 @@
     "verificado_em": "2026-10-04",
     "titulo": "Quanto Venezuela, Cuba e Moçambique deixaram de pagar ao BNDES?",
     "texto": "US$ 1,2 bilhão até dezembro de 2024. O banco foi ressarcido pelo seguro lastreado no Fundo de Garantia à Exportação.",
-    "destaque": false
-  },
-  {
-    "id": "fc-16",
-    "classificacao": "fato",
-    "fonte_nome": "Presidência da República – Lei nº 13.756, de 12 de dezembro de 2018",
-    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
-    "fonte_data": "2018-12-12",
-    "verificado_em": "2026-10-04",
-    "titulo": "Quem legalizou as bets?",
-    "texto": "A Lei 13.756, de 12 de dezembro de 2018, sancionada no governo Temer, criou as apostas de quota fixa.",
     "destaque": false
   },
   {
@@ -241,7 +230,7 @@
     "fonte_data": "2017-03-07",
     "verificado_em": "2026-10-04",
     "titulo": "Quanto o PIB caiu na recessão de 2015–2016?",
-    "texto": "3,8% em 2015 e 3,6% em 2016, no governo Dilma Rousseff e, depois de 31 de agosto de 2016, no governo Temer.",
+    "texto": "3,8% em 2015 e 3,6% em 2016, no governo Dilma Rousseff (até 31 de agosto de 2016).",
     "destaque": false
   },
   {

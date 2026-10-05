@@ -151,5 +151,90 @@
     "fonte_url": "https://www.cnnbrasil.com.br/politica/lula-ja-decidiu-convidar-fufuca-e-costa-filho-para-ministerios-diz-padilha/",
     "fonte_data": "2023-08-04",
     "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-joao-paulo-cunha",
+    "data": "2012",
+    "titulo": "João Paulo Cunha (ex-presidente da Câmara, PT) – mensalão",
+    "texto": "Presidente da Câmara dos Deputados no primeiro mandato de Lula, foi condenado na Ação Penal 470 por corrupção passiva, peculato e lavagem de dinheiro a 9 anos e 4 meses de prisão e multa de R$ 260 mil; a pena foi depois reduzida para 6 anos e 4 meses. Começou a cumprir a pena no Complexo Penitenciário da Papuda e foi solto em 2016, após indulto. Em 4 de outubro de 2026, foi eleito deputado federal pelo PT com 109.548 votos; segundo a CNN Brasil, foi o único dos condenados petistas do mensalão a se eleger nesse pleito.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado pelo STF. Pena extinta por indulto em 2016.",
+    "fonte_nome": "CNN Brasil – \"Ex-presidente, João Paulo Cunha voltará à Câmara dos Deputados após 13 anos\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/ex-presidente-joao-paulo-cunha-voltara-a-camara-dos-deputados-apos-13-anos/",
+    "fonte_data": "2026-10-05",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Mensalão: 20 anos depois todos os condenados estão soltos\"",
+        "url": "https://www.cnnbrasil.com.br/politica/mensalao-20-anos-depois-todos-os-condenados-estao-soltos/",
+        "data": "2025-06-07"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-delcidio",
+    "data": "2015-11-25",
+    "titulo": "Delcídio do Amaral (senador do PT e líder do governo Dilma) – preso no exercício do mandato",
+    "texto": "Em 25 de novembro de 2015, o senador Delcídio do Amaral (PT-MS), líder do governo no Senado, foi preso por decisão unânime da Segunda Turma do STF, na 21ª fase da Lava Jato. Segundo a denúncia, ele negociou a fuga do ex-diretor da Petrobras Nestor Cerveró para evitar uma delação; as conversas foram gravadas pelo filho de Cerveró. O Senado manteve a prisão por 59 votos a 13. Segundo a Agência Senado, foi o primeiro senador preso no exercício do mandato sob regime democrático. Solto em fevereiro de 2016, após fazer delação premiada, desfiliou-se do PT e teve o mandato cassado em 10 de maio de 2016, por 74 votos a zero.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Prisão preventiva por obstrução da Justiça (2015) e mandato cassado pelo Senado (2016). Desfecho da ação penal não verificado por este site.",
+    "fonte_nome": "Agência Senado – \"Senado cassa o mandato de Delcídio do Amaral\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2016/05/10/senado-cassa-o-mandato-de-delcidio-do-amaral",
+    "fonte_data": "2016-05-10",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Senado decide manter prisão de Delcídio do Amaral por 59 votos a 13\"",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-11/senado-decide-manter-prisao-do-senador-delcidio-amaral",
+        "data": "2015-11-25"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-vargas",
+    "data": "2018-10-19",
+    "titulo": "André Vargas (ex-deputado e ex-líder parlamentar do PT) – Lava Jato",
+    "texto": "Teve o mandato cassado pela Câmara em dezembro de 2014, por envolvimento em negócios com o doleiro Alberto Youssef. Foi condenado pelo juiz Sérgio Moro a 13 anos e dez meses de prisão e ficou preso de 2015 até 19 de outubro de 2018, quando obteve liberdade condicional. Segundo a Agência Brasil, a condenação está entre as que foram posteriormente anuladas.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA (informação de março de 2024). Anulação processual não é absolvição.",
+    "fonte_nome": "Agência Brasil – \"Preso na Lava Jato, ex-deputado André Vargas tem liberdade condicional\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2018-10/preso-na-lava-jato-ex-deputado-andre-vargas-tem-liberdade-condicional",
+    "fonte_data": "2018-10-19",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Lava Jato completa 10 anos com resultados em xeque e prestígio abalado\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+        "data": "2024-03-17"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-pizzolato",
+    "data": "2017-12-27",
+    "titulo": "Henrique Pizzolato (ex-diretor de Marketing do Banco do Brasil) – mensalão",
+    "texto": "Condenado na Ação Penal 470 a 12 anos e 7 meses de prisão, além de multa, por corrupção passiva, peculato e lavagem de dinheiro. Fugiu para a Itália depois da condenação, foi extraditado e começou a cumprir a pena em regime fechado em 2015. Obteve liberdade condicional em 27 de dezembro de 2017, por decisão do ministro Luís Roberto Barroso.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Condenado pelo STF; em liberdade condicional desde dezembro de 2017.",
+    "fonte_nome": "Agência Brasil – \"Condenado do mensalão, Pizzolato consegue liberdade condicional pelo STF\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-12/condenado-do-mensalao-pizzolato-consegue-liberdade-condicional-pelo-stf",
+    "fonte_data": "2017-12-27",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-mensalao-soltos",
+    "data": "2025-06-07",
+    "titulo": "Vinte anos depois: nenhum condenado do mensalão continua preso",
+    "texto": "Levantamento da CNN Brasil de junho de 2025: nenhum dos condenados do mensalão permanecia preso. Em 2021 todos já haviam deixado o regime fechado, e 17 tiveram as penas extintas por indultos presidenciais. Entre os beneficiados estão José Dirceu, Roberto Jefferson, Delúbio Soares e João Paulo Cunha.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Mensalão: 20 anos depois todos os condenados estão soltos\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/mensalao-20-anos-depois-todos-os-condenados-estao-soltos/",
+    "fonte_data": "2025-06-07",
+    "verificado_em": "2026-10-05"
   }
 ]

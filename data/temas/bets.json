@@ -1,17 +1,5 @@
 [
   {
-    "id": "be-2018-legalizacao",
-    "data": "2018-12-12",
-    "titulo": "Legalização: Lei 13.756, de 12 de dezembro de 2018 (governo Temer)",
-    "texto": "A Lei 13.756/2018 criou no artigo 29 a modalidade lotérica \"apostas de quota fixa\". A lei foi sancionada no governo Michel Temer; não é uma medida do governo Lula.",
-    "destaque": false,
-    "classificacao": "fato",
-    "fonte_nome": "Presidência da República – Lei nº 13.756, de 12 de dezembro de 2018",
-    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
-    "fonte_data": "2018-12-12",
-    "verificado_em": "2026-10-04"
-  },
-  {
     "id": "be-2023-regulamentacao",
     "data": "2023-12-30",
     "titulo": "Regulamentação: Lei 14.790, sancionada em 30 de dezembro de 2023 (governo Lula)",

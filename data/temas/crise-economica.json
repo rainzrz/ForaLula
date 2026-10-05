@@ -3,24 +3,12 @@
     "id": "ce-pib",
     "data": "2017-03-07",
     "titulo": "PIB: quedas de 3,8% (2015) e 3,6% (2016)",
-    "texto": "Dados do IBGE: o PIB recuou 3,8% em 2015 e 3,6% em 2016, quando somou R$ 6,3 trilhões. Atribuição: o período é do governo Dilma Rousseff, que perdeu o mandato em 31 de agosto de 2016, e, a partir daí, do governo Temer. Não são anos do governo Lula.",
+    "texto": "Dados do IBGE: o PIB recuou 3,8% em 2015 e 3,6% em 2016, quando somou R$ 6,3 trilhões. Dilma Rousseff governou até 31 de agosto de 2016.",
     "destaque": true,
     "classificacao": "fato",
     "fonte_nome": "Agência Brasil – \"PIB fecha 2016 com queda de 3,6%\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2017-03/pib-fecha-2016-com-uma-queda-de-36",
     "fonte_data": "2017-03-07",
-    "verificado_em": "2026-10-04"
-  },
-  {
-    "id": "ce-desemprego",
-    "data": "2018-01-31",
-    "titulo": "Desemprego: média de 12,7% em 2017, a maior da série iniciada em 2012",
-    "texto": "A taxa média de desemprego de 2017 ficou em 12,7%, segundo a PNAD Contínua do IBGE, o maior índice da série histórica iniciada em 2012. O ano de 2017 é do governo Temer; o pico ocorre depois da recessão de 2015–2016.",
-    "destaque": true,
-    "classificacao": "fato",
-    "fonte_nome": "Agência Brasil – \"Taxa de desemprego no país fecha 2017 em 12,7%; população desocupada cai 5%\"",
-    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-01/taxa-de-desemprego-no-pais-fecha-2017-em-127",
-    "fonte_data": "2018-01-31",
     "verificado_em": "2026-10-04"
   },
   {

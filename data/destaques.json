@@ -1,0 +1,56 @@
+[
+  {
+    "tema": "mensalao",
+    "id": "ms-numeros",
+    "numero": "25",
+    "rotulo": "condenados pelo STF no mensalão, entre eles o ministro da Casa Civil e a cúpula do PT"
+  },
+  {
+    "tema": "petrolao-lava-jato",
+    "id": "lj-petrobras-balanco-2014",
+    "numero": "R$ 6,2 bi",
+    "rotulo": "de perdas com desvios reconhecidas pela Petrobras no balanço de 2014"
+  },
+  {
+    "tema": "petrolao-lava-jato",
+    "id": "lj-tcu-cartel",
+    "numero": "R$ 12,3 bi",
+    "rotulo": "de prejuízo do cartel em contratos da Petrobras entre 2004 e 2012, segundo o TCU"
+  },
+  {
+    "tema": "governo-dilma",
+    "id": "di-recessao",
+    "numero": "−3,8% e −3,6%",
+    "rotulo": "de queda do PIB em 2015 e 2016; Dilma governou até agosto de 2016"
+  },
+  {
+    "tema": "crise-economica",
+    "id": "ce-ipca-2015",
+    "numero": "10,67%",
+    "rotulo": "de inflação em 2015, a maior desde 2002"
+  },
+  {
+    "tema": "gastos-do-governo",
+    "id": "gg-deficit-2023",
+    "numero": "R$ 230,5 bi",
+    "rotulo": "de déficit primário do governo central em 2023"
+  },
+  {
+    "tema": "estatais-deficitarias",
+    "id": "ed-deficit-2024",
+    "numero": "R$ 8,07 bi",
+    "rotulo": "de déficit das estatais em 2024, o pior da série do Banco Central"
+  },
+  {
+    "tema": "gastos-do-governo",
+    "id": "gg-divida-2025",
+    "numero": "79%",
+    "rotulo": "do PIB de dívida bruta em novembro de 2025"
+  },
+  {
+    "tema": "indicacoes-stf",
+    "id": "st-messias",
+    "numero": "42 a 34",
+    "rotulo": "o Senado rejeita um indicado de Lula ao STF, a primeira rejeição em 132 anos"
+  }
+]

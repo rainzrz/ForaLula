@@ -1,4 +1,4 @@
-import { $, esc, carregarJSON, separarValidos, seloClassificacao, formatarData, textoBuscavel, normalizarBusca, montarMoldura, CLASSIFICACOES } from './core.js';
+import { $, esc, carregarJSON, separarValidos, seloClassificacao, formatarData, textoBuscavel, normalizarBusca, montarMoldura, CLASSIFICACOES, RegistroFontes, htmlRodapeFontes } from './core.js';
 
 await montarMoldura('index.html');
 const temas = await carregarJSON('data/temas.json');
@@ -14,6 +14,17 @@ async function indexar(arquivo, pagina, origem) {
 const totalLinha = await indexar('data/linha-do-tempo.json', 'linha-do-tempo.html', 'Linha do tempo');
 await Promise.all(temas.filter(t => t.arquivo).map(async t =>
   contagem.set(t.id, await indexar(t.arquivo, `tema.html?id=${t.id}`, t.titulo))));
+
+// Números em destaque: só aparecem se o item de origem existir e estiver válido; a fonte e o selo vêm dele.
+const registro = new RegistroFontes();
+$('#destaques').innerHTML = (await carregarJSON('data/destaques.json')).map(d => {
+  const achado = indice.find(({ item }) => item.id === d.id);
+  if (!achado) return '';
+  const refs = registro.doItem(achado.item).map(f => `<a class="ref" href="#fonte-${f.n}">[${f.n}]</a>`).join(' ');
+  return `<div class="cartao-numero"><a class="numero" href="tema.html?id=${esc(d.tema)}#${esc(d.id)}">${esc(d.numero)}</a>
+    <p>${esc(d.rotulo)} ${refs}</p>${seloClassificacao(achado.item.classificacao)}</div>`;
+}).join('');
+$('#rodape-fontes').innerHTML = htmlRodapeFontes(registro, 0);
 
 $('#legenda').innerHTML = Object.entries(CLASSIFICACOES).map(([chave, c]) =>
   `<li>${seloClassificacao(chave)} <span>${esc(c.descricao)}</span></li>`).join('');

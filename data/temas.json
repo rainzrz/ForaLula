@@ -27,5 +27,6 @@
   { "numero": 27, "id":"maquina-publica-2026", "titulo":"Uso da máquina pública na eleição de 2026", "escopo":"Medidas lançadas ou ampliadas perto da eleição, com datas e custo fiscal; questionamentos no TSE e no TCU.", "arquivo":"data/temas/maquina-publica-2026.json" },
   { "numero": 28, "id":"meio-ambiente", "titulo":"Meio ambiente: discurso vs. prática", "escopo":"Queimadas de 2024, Foz do Amazonas, crise Yanomami, BR-319 e Ferrogrão.", "arquivo":"data/temas/meio-ambiente.json" },
   { "numero": 29, "id":"mst", "titulo":"MST, invasões e relação com movimentos", "escopo":"Invasões de terra, CPI do MST (2023), cargos e repasses.", "arquivo":"data/temas/mst.json" },
-  { "numero": 30, "id":"flash-cards", "titulo":"Flash cards", "escopo":"Perguntas e respostas curtas sobre todo o conteúdo, cada uma com fonte e classificação.", "arquivo":"data/temas/flash-cards.json" }
+  { "numero": 30, "id":"flash-cards", "titulo":"Flash cards", "escopo":"Perguntas e respostas curtas sobre todo o conteúdo, cada uma com fonte e classificação.", "arquivo":"data/temas/flash-cards.json" },
+  { "numero": 31, "id":"pior-de-cada-governo", "titulo":"O pior de cada governo", "escopo":"Os fatos mais graves documentados em cada mandato do PT, de 2003 a 2026. Resumo feito só com itens já publicados nas outras seções, com as mesmas fontes.", "arquivo":"data/temas/pior-de-cada-governo.json" }
 ]
