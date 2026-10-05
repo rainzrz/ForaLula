@@ -625,5 +625,18 @@
     "fonte_data": "2026-10-05",
     "verificado_em": "2026-10-05",
     "categoria": "eleicoes"
+  },
+  {
+    "id": "lt-2026-doze-anos",
+    "data": "2026",
+    "titulo": "Fim de 2026: Lula completa 12 anos como presidente da República",
+    "texto": "Lula governou de 1º de janeiro de 2003 a 31 de dezembro de 2010, em dois mandatos, e iniciou o terceiro em 1º de janeiro de 2023. Ao fim deste mandato, em 31 de dezembro de 2026, soma 12 anos na Presidência (8 + 4). A conta é deste site, feita a partir das datas de posse registradas pela fonte.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Lula entra para a história da redemocratização com 3º mandato\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/lula-entra-para-historia-da-redemocratizacao-com-3o-mandato",
+    "fonte_data": "2023-01-01",
+    "verificado_em": "2026-10-05",
+    "categoria": "trajetoria"
   }
 ]

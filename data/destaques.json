@@ -52,5 +52,29 @@
     "id": "st-messias",
     "numero": "42 a 34",
     "rotulo": "o Senado rejeita um indicado de Lula ao STF, a primeira rejeição em 132 anos"
+  },
+  {
+    "tema": "linha-do-tempo",
+    "id": "lt-2026-doze-anos",
+    "numero": "12 anos",
+    "rotulo": "de Lula na Presidência ao fim de 2026, somados os três mandatos"
+  },
+  {
+    "tema": "nordeste",
+    "id": "ne-bahia-pt-20-anos",
+    "numero": "20 anos",
+    "rotulo": "seguidos de governo do PT na Bahia, completados no fim de 2026"
+  },
+  {
+    "tema": "nordeste",
+    "id": "ne-bahia-cidades-violentas",
+    "numero": "5 das 10",
+    "rotulo": "cidades mais violentas do país ficam na Bahia, segundo o Anuário de Segurança Pública"
+  },
+  {
+    "tema": "nordeste",
+    "id": "ne-bahia-criancas",
+    "numero": "1.890",
+    "rotulo": "crianças e adolescentes mortos de forma violenta na Bahia em 2022 e 2023, o maior número do país"
   }
 ]

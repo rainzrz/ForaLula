@@ -21,7 +21,8 @@ $('#destaques').innerHTML = (await carregarJSON('data/destaques.json')).map(d =>
   const achado = indice.find(({ item }) => item.id === d.id);
   if (!achado) return '';
   const refs = registro.doItem(achado.item).map(f => `<a class="ref" href="#fonte-${f.n}">[${f.n}]</a>`).join(' ');
-  return `<div class="cartao-numero"><a class="numero" href="tema.html?id=${esc(d.tema)}#${esc(d.id)}">${esc(d.numero)}</a>
+  const pagina = d.tema === 'linha-do-tempo' ? 'linha-do-tempo.html' : `tema.html?id=${esc(d.tema)}`;
+  return `<div class="cartao-numero"><a class="numero" href="${pagina}#${esc(d.id)}">${esc(d.numero)}</a>
     <p>${esc(d.rotulo)} ${refs}</p>${seloClassificacao(achado.item.classificacao)}</div>`;
 }).join('');
 $('#rodape-fontes').innerHTML = htmlRodapeFontes(registro, 0);
@@ -38,6 +39,9 @@ $('#temas').innerHTML =
     return `<a class="cartao-tema${n ? ' publicado' : ''}" href="tema.html?id=${esc(t.id)}"><span class="numero">${t.numero}</span><h3>${esc(t.titulo)}</h3>
       <p>${esc(t.escopo)}</p><span class="situacao">${n ? `${n} itens verificados` : 'Em verificação de fontes'}</span></a>`;
   }).join('');
+
+// Letreiro decorativo: a lista vai duas vezes para o laço emendar sem salto.
+$('#letreiro').innerHTML = temas.map(t => `<span>${esc(t.titulo)}</span>`).join('').repeat(2);
 
 const filtroClasse = $('#busca-classificacao');
 filtroClasse.innerHTML = '<option value="">Todas as classificações</option>' +

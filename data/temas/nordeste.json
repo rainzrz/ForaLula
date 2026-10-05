@@ -70,5 +70,62 @@
     "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dezenove-estados-e-df-tem-em-2025-o-menor-desemprego-ja-registrado",
     "fonte_data": "2026-02-20",
     "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-bahia-pt-20-anos",
+    "data": "2026-10-04",
+    "titulo": "Bahia: o PT governa o estado desde 2007 e completa 20 anos seguidos no fim de 2026",
+    "texto": "O PT governa a Bahia desde a posse de Jaques Wagner, em janeiro de 2007, após a vitória de 2006. Vieram depois Rui Costa e Jerônimo Rodrigues. Em outubro de 2022, a CNN Brasil registrou que a hegemonia do partido no estado \"já dura 16 anos\"; com o mandato de Jerônimo, que termina em 31 de dezembro de 2026, são 20 anos seguidos. Em 4 de outubro de 2026, Jerônimo foi reeleito no primeiro turno, com 55,80% dos votos, para mais quatro anos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Jerônimo Rodrigues é eleito governador da BA no 2º turno - Eleições 2022\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/jeronimo-rodrigues-e-eleito-governador-da-ba-no-2o-turno-eleicoes-2022/",
+    "fonte_data": "2022-10-30",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Jerônimo Rodrigues é reeleito governador da Bahia no 1º turno\"",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/jeronimo-rodrigues-e-reeleito-governador-da-bahia-no-1o-turno/",
+        "data": "2026-10-04"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-bahia-cidades-violentas",
+    "data": "2026-07-23",
+    "titulo": "Bahia tem cinco das dez cidades mais violentas do país",
+    "texto": "Segundo o 20º Anuário Brasileiro de Segurança Pública, com dados de 2025, cinco das dez cidades com as maiores taxas de mortes violentas intencionais do Brasil ficam na Bahia: Eunápolis (85,1 mortes por 100 mil habitantes, a segunda maior taxa do país), Porto Seguro, Simões Filho, Jequié e Juazeiro. As dez cidades da lista ficam no Nordeste, e oito delas em estados governados pelo PT (Bahia e Ceará). A Secretaria de Segurança Pública da Bahia respondeu que as mortes violentas no estado caíram em 2023, 2024 e 2025.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Oito das dez cidades mais violentas ficam em estados governados pelo PT\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/nacional/nordeste/oito-das-dez-cidades-mais-violentas-ficam-em-estados-governados-pelo-pt/",
+    "fonte_data": "2026-07-23",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Dez cidades mais violentas do país estão no Nordeste, aponta estudo\"",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/dez-cidades-mais-violentas-do-pais-estao-no-nordeste-aponta-estudo",
+        "data": "2026-07-23"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-bahia-criancas",
+    "data": "2024-08-16",
+    "titulo": "Bahia: 1.890 crianças e adolescentes mortos de forma violenta em dois anos, o maior número do país",
+    "texto": "Segundo levantamento do Unicef e do Fórum Brasileiro de Segurança Pública, a Bahia registrou 1.890 mortes violentas intencionais de crianças e adolescentes de até 19 anos em 2022 e 2023, o maior número entre os estados e mais do que São Paulo (572) e Rio de Janeiro (785) somados. Em 2023, a taxa baiana foi de 23,5 por 100 mil, mais que o dobro da média nacional (9,1) e abaixo apenas da do Amapá (33,9). Em 2024, segundo o 19º Anuário Brasileiro de Segurança Pública, a Bahia teve o segundo maior número do país na faixa de 0 a 17 anos, com taxa de 12,2 por 100 mil, quase o triplo da média nacional (4,6).",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Correio – \"Bahia tem mais mortes violentas de crianças e adolescentes do que SP e RJ juntos\"",
+    "fonte_url": "https://www.correio24horas.com.br/minha-bahia/bahia-tem-mais-mortes-violentas-de-criancas-e-adolescentes-do-que-sp-e-rj-juntos-0824",
+    "fonte_data": "2024-08-16",
+    "fontes_adicionais": [
+      {
+        "nome": "BNews – \"Número de mortes violentas contra crianças e adolescentes dispara na Bahia\"",
+        "url": "https://www.bnews.com.br/noticias/politica/numero-de-mortes-violentas-contra-criancas-e-adolescentes-dispara-na-bahia.html",
+        "data": "2025-08-06"
+      }
+    ],
+    "verificado_em": "2026-10-05"
   }
 ]
