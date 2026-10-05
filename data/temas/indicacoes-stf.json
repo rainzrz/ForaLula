@@ -1,0 +1,71 @@
+[
+  {
+    "id": "st-zanin",
+    "data": "2023-06-21",
+    "titulo": "Cristiano Zanin, advogado de Lula na Lava Jato, é aprovado para o STF por 58 a 18",
+    "texto": "O Plenário do Senado aprovou em votação secreta, por 58 votos a 18, a indicação de Cristiano Zanin Martins para o Supremo Tribunal Federal. Entre os senadores que anunciaram voto contrário estão Sergio Moro (União-PR), Magno Malta (PL-ES), Eduardo Girão (Novo-CE) e Jaime Bagattoli (PL-RO). Zanin atuou como advogado de Lula nos processos da Lava Jato.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Por 58 votos a 18, Senado aprova Zanin para o STF\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2023/06/21/senado-aprova-zanin-para-o-stf-com-58-votos-a-favor-e-18-contrarios",
+    "fonte_data": "2023-06-21",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Lula é condenado a 12 anos de prisão em processo sobre sítio\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-02/lula-e-condenado-12-anos-de-prisao-em-processo-sobre-sitio",
+        "data": "2019-02-06"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "st-dino",
+    "data": "2023-12-13",
+    "titulo": "Flávio Dino, ministro da Justiça do governo, é aprovado para o STF por 47 a 31",
+    "texto": "O Plenário do Senado aprovou a indicação de Flávio Dino, senador licenciado e então ministro da Justiça do governo Lula, por 47 votos a favor, 31 contrários e 2 abstenções. Dino ocupou a vaga de Rosa Weber.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Com 47 votos favoráveis, Senado aprova Dino para o STF\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2023/12/13/com-47-votos-favoraveis-senado-aprova-dino-para-o-stf",
+    "fonte_data": "2023-12-13",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "st-messias",
+    "data": "2026-04-29",
+    "titulo": "Jorge Messias, advogado-geral da União, é rejeitado pelo Senado por 42 a 34",
+    "texto": "O plenário do Senado rejeitou em 29 de abril de 2026, por 42 votos contrários e 34 favoráveis, a indicação de Jorge Messias, advogado-geral da União do governo Lula, para a vaga aberta no STF com a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025. Eram necessários 41 votos favoráveis. Na CCJ, Messias havia sido aprovado por 16 a 11. Segundo a Agência Senado, foi a primeira rejeição de um indicado ao STF em 132 anos: as anteriores, cinco, ocorreram em 1894, no governo Floriano Peixoto. O nome foi anunciado em novembro de 2025, mas a mensagem formal só chegou ao Senado em abril de 2026, demora criticada pelo presidente da Casa, Davi Alcolumbre.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Indicação de Jorge Messias ao STF é rejeitada pelo Senado\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "fonte_data": "2026-04-29",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Senado rejeita Messias e impõe derrota histórica do governo Lula\"",
+        "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-messias-e-impoe-derrota-historica-do-governo-lula/",
+        "data": "2026-04-29"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "st-gonet",
+    "data": "2023-12-13",
+    "titulo": "PGR: Paulo Gonet, escolhido fora da lista tríplice, é aprovado por 65 a 11",
+    "texto": "O Senado aprovou em 13 de dezembro de 2023 a indicação de Paulo Gonet para procurador-geral da República, por 65 votos a 11 e uma abstenção. Gonet não estava na lista tríplice votada pelos procuradores. Segundo a CNN Brasil, a lista foi respeitada nos dois primeiros mandatos de Lula e nos governos Dilma e Temer; Jair Bolsonaro não a seguiu, e Lula, no terceiro mandato, também não.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Indicação de Paulo Gonet à PGR é aprovada pelo Senado\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-12/indicacao-de-paulo-gonet-pgr-e-aprovada-pelo-senado",
+    "fonte_data": "2023-12-13",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Procuradores devem insistir em lista tríplice ao fim deste mandato de Gonet\"",
+        "url": "https://www.cnnbrasil.com.br/politica/procuradores-devem-insistir-em-lista-triplice-ao-fim-deste-mandato-de-gonet/",
+        "data": "2025-03-20"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  }
+]

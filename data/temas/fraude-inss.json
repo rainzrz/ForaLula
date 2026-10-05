@@ -1,0 +1,64 @@
+[
+  {
+    "id": "in-operacao",
+    "data": "2025-04-23",
+    "titulo": "Operação Sem Desconto: cerca de R$ 6,3 bilhões em descontos entre 2019 e 2024",
+    "texto": "A Polícia Federal e a Controladoria-Geral da União deflagraram operação contra um suposto esquema nacional de cobrança de mensalidades associativas não autorizadas, que teria descontado cerca de R$ 6,3 bilhões de aposentados e pensionistas entre 2019 e 2024. O período abrange os governos Bolsonaro (2019–2022) e Lula (2023–2024). A Justiça determinou o afastamento cautelar do presidente do INSS, Alessandro Stefanutto, e de outros cinco servidores.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Em investigação na data da fonte (23/04/2025).",
+    "fonte_nome": "Agência Brasil – \"Lula determina demissão do presidente do INSS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-04/lula-determina-demissao-do-presidente-do-inss",
+    "fonte_data": "2025-04-23",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "in-auditoria-inss-2024",
+    "data": "2024-09",
+    "titulo": "A auditoria do próprio INSS já havia apontado irregularidades ao menos 8 meses antes",
+    "texto": "Ao menos oito meses antes da operação da PF e da CGU, a Auditoria-Geral do INSS já tinha identificado inconsistências e irregularidades em parte dos acordos de cooperação técnica assinados com entidades, o instrumento pelo qual o INSS autoriza o desconto das mensalidades diretamente nos benefícios. Os descontos só foram suspensos após a operação, em abril de 2025.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"INSS identificou descontos irregulares em setembro de 2024\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-04/inss-identificou-descontos-irregulares-em-setembro-de-2024",
+    "fonte_data": "2025-04-29",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "in-cgu-recomendacao",
+    "data": "2024-12",
+    "titulo": "CGU recomendou que o INSS deixasse de intermediar os descontos",
+    "texto": "Após auditoria feita entre abril e julho de 2024, a CGU recomendou que o INSS deixasse de intermediar a cobrança de mensalidades associativas. O relatório, concluído em dezembro de 2024, apontou fragilidade dos mecanismos de controle no processamento dos descontos; só foi tornado público em 6 de maio de 2025, depois da operação policial.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"CGU recomendou suspensão de descontos em folha de aposentados\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/cgu-recomendou-suspensao-de-descontos-em-folha-de-aposentados",
+    "fonte_data": "2025-05-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "in-reacao-governo",
+    "data": "2025-04-23",
+    "titulo": "Reação do governo: demissão do presidente do INSS e suspensão dos acordos",
+    "texto": "No dia da operação, Lula determinou a demissão de Alessandro Stefanutto, e o governo anunciou a suspensão de todos os acordos de cooperação técnica que permitiam o desconto de mensalidades associativas nos benefícios.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Lula determina demissão do presidente do INSS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-04/lula-determina-demissao-do-presidente-do-inss",
+    "fonte_data": "2025-04-23",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "in-lupi",
+    "data": "2025-05-02",
+    "titulo": "Ministro Carlos Lupi deixa a Previdência nove dias após a operação",
+    "texto": "O ministro da Previdência, Carlos Lupi, presidente nacional do PDT, acertou a saída do cargo em 2 de maio de 2025, após reunião com Lula. Foi substituído por Wolney Queiroz, então secretário-executivo da pasta. Segundo a Agência Brasil, as irregularidades investigadas começaram em 2019, na gestão Bolsonaro, e prosseguiram nos anos seguintes; a CGU e o INSS tornaram públicas auditorias feitas desde 2023 que já apontavam inconsistências.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "A notícia da fonte não aponta Lupi como investigado; ele deixou o cargo em 02/05/2025.",
+    "fonte_nome": "Agência Brasil – \"Após fraude no INSS, Lupi pede demissão do Ministério da Previdência\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-05/apos-fraude-no-inss-lupi-pede-demissao-do-ministerio-da-previdencia",
+    "fonte_data": "2025-05-02",
+    "verificado_em": "2026-10-04"
+  }
+]

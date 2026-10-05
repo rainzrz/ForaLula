@@ -1,0 +1,629 @@
+[
+  {
+    "id": "lt-1975-sindicato",
+    "data": "1975",
+    "titulo": "Eleito presidente do Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema",
+    "texto": "Lula foi eleito presidente do sindicato com 92% dos votos, passando a representar 100 mil trabalhadores. Havia sido suplente da diretoria em 1969 e primeiro-secretário em 1972.",
+    "categoria": "trajetoria",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+    "fonte_url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+    "fonte_data": "2026-08-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1980-fundacao-pt",
+    "data": "1980-02-10",
+    "titulo": "Fundação do Partido dos Trabalhadores (PT)",
+    "texto": "Lula fundou o PT em 10 de fevereiro de 1980, com outros sindicalistas, intelectuais, políticos e representantes de movimentos sociais.",
+    "categoria": "trajetoria",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+    "fonte_url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+    "fonte_data": "2026-08-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1980-prisao-lsn",
+    "data": "1980",
+    "titulo": "Preso durante greve dos metalúrgicos, com base na Lei de Segurança Nacional",
+    "texto": "Uma nova greve dos metalúrgicos levou à intervenção do governo federal (regime militar) no sindicato e à prisão de Lula e de outros dirigentes sindicais, com base na Lei de Segurança Nacional.",
+    "categoria": "trajetoria",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+    "fonte_url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+    "fonte_data": "2026-08-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1986-constituinte",
+    "data": "1986",
+    "titulo": "Eleito deputado federal constituinte por São Paulo",
+    "texto": "Lula foi eleito em 1986 o deputado federal mais votado do país, para a Assembleia Nacional Constituinte. Consta na lista oficial de deputados constituintes como PT/SP.",
+    "categoria": "trajetoria",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+    "fonte_url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+    "fonte_data": "2026-08-28",
+    "fontes_adicionais": [
+      {
+        "nome": "Câmara dos Deputados – Lista de deputados constituintes",
+        "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/parlamentaresconstituintes/deputados-constituintes",
+        "data": "s.d."
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1989-derrota-collor",
+    "data": "1989",
+    "titulo": "Derrota para Fernando Collor no segundo turno da eleição presidencial",
+    "texto": "Na primeira eleição direta para presidente após o regime militar, Lula perdeu no segundo turno. Fernando Collor de Mello recebeu 35.089.998 votos e foi eleito.",
+    "categoria": "eleicoes",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+        "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+        "data": "2026-08-28"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1994-derrota-fhc",
+    "data": "1994",
+    "titulo": "Derrota para Fernando Henrique Cardoso na eleição presidencial",
+    "texto": "Lula voltou a se candidatar a presidente e foi derrotado por Fernando Henrique Cardoso, eleito com 34.377.829 votos.",
+    "categoria": "eleicoes",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+        "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+        "data": "2026-08-28"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-1998-derrota-fhc",
+    "data": "1998",
+    "titulo": "Nova derrota para Fernando Henrique Cardoso",
+    "texto": "Lula foi derrotado pela terceira vez em eleições presidenciais. Fernando Henrique Cardoso foi reeleito com 35.936.916 votos.",
+    "categoria": "eleicoes",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+        "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+        "data": "2026-08-28"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2002-eleito",
+    "data": "2002-10-27",
+    "titulo": "Eleito presidente da República (primeiro mandato, 2003–2006)",
+    "texto": "Lula foi eleito em 27 de outubro de 2002 com 52.793.364 votos. O vice na chapa foi o senador José Alencar, do PL de Minas Gerais, em aliança formada por PT, PL, PCdoB, PCB e PMN.",
+    "categoria": "eleicoes",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+        "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+        "data": "2026-08-28"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2005-jefferson-mensalao",
+    "data": "2005-06-06",
+    "titulo": "Roberto Jefferson denuncia o \"mensalão\" em entrevista à Folha",
+    "texto": "O deputado Roberto Jefferson, presidente do PTB, afirmou em entrevista à Folha de S.Paulo que congressistas aliados recebiam uma mesada de R$ 30 mil distribuída pelo tesoureiro do PT, Delúbio Soares. Segundo Jefferson, a prática durou até o começo de 2005, quando ele próprio teria informado o presidente Lula; os ministros José Dirceu e Antonio Palocci teriam sido alertados antes. Trata-se do relato do deputado na data da entrevista.",
+    "categoria": "mensalao",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Acusação pública feita em 2005. O caso foi julgado pelo STF na Ação Penal 470 (ver 28/08/2007 e 17/12/2012).",
+    "fonte_nome": "Folha de S.Paulo – \"Jefferson denuncia mesada paga pelo tesoureiro do PT\" (Renata Lo Prete)",
+    "fonte_url": "https://www1.folha.uol.com.br/fsp/brasil/fc0606200502.htm",
+    "fonte_data": "2005-06-06",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2006-reeleito",
+    "data": "2006-10-29",
+    "titulo": "Reeleito presidente da República (segundo mandato, 2007–2010)",
+    "texto": "Lula foi reeleito em 29 de outubro de 2006 com 58.295.042 votos, novamente com José Alencar como vice.",
+    "categoria": "eleicoes",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+        "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+        "data": "2026-08-28"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2007-stf-recebe-denuncia-mensalao",
+    "data": "2007-08-28",
+    "titulo": "STF recebe a denúncia do mensalão e torna réus os 40 acusados",
+    "texto": "O Plenário do Supremo Tribunal Federal aceitou, em 28 de agosto de 2007, a denúncia contra os 40 indiciados no Inquérito 2245, conhecido como inquérito do mensalão. Em 12 de novembro de 2007 o inquérito foi reautuado como Ação Penal 470, relatada pelo ministro Joaquim Barbosa.",
+    "categoria": "mensalao",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Denúncia recebida em 2007; ação penal julgada em 2012.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Inquérito do mensalão é convertido na Ação Penal 470\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/inquerito-do-mensalao-e-convertido-na-acao-penal-470/",
+    "fonte_data": "2007-11-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2010-dilma-eleita",
+    "data": "2010",
+    "titulo": "Dilma Rousseff (PT) é eleita presidente",
+    "texto": "Na eleição presidencial de 2010, Dilma Rousseff recebeu 55.752.529 votos e sucedeu Lula na Presidência. Foi reeleita em 2014 e ocupou o cargo até 2016, quando o deixou após processo de impeachment.",
+    "categoria": "dilma",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – 90 anos da Justiça Eleitoral: 12 eleições presidenciais",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/90-anos-da-justica-eleitoral-12-eleicoes-presidenciais-ja-foram-realizadas-no-brasil-desde-1945",
+    "fonte_data": "2022-02-16",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2012-ap470-julgamento",
+    "data": "2012-12-17",
+    "titulo": "STF conclui o julgamento da Ação Penal 470 (mensalão)",
+    "texto": "O julgamento começou em 2 de agosto e terminou em 17 de dezembro de 2012. Foram 53 sessões para um processo com 38 réus, 234 volumes e 495 apensos, num total de 50.199 páginas. O STF o descreve como o maior julgamento da história do Tribunal.",
+    "categoria": "mensalao",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Julgado pelo STF em 2012.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Julgamentos relevantes marcaram a pauta do STF em 2012\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=227869&ori=1",
+    "fonte_data": "2013-01-04",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2014-lava-jato-inicio",
+    "data": "2014-03-17",
+    "titulo": "Deflagrada a primeira fase da Operação Lava Jato",
+    "texto": "A primeira fase cumpriu mandados de busca e apreensão, prisão preventiva e temporária e condução coercitiva contra membros de quatro organizações criminosas. Em 20 de março de 2014, Paulo Roberto Costa, diretor da Petrobras, foi preso.",
+    "categoria": "lava-jato",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Ministério Público Federal – Linha do Tempo: Operação Lava Jato (2014)",
+    "fonte_url": "https://linhadotempo.mpf.mp.br/www/linha-do-tempo/2014",
+    "fonte_data": "s.d.",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2016-conducao-coercitiva",
+    "data": "2016-03-04",
+    "titulo": "Lula é alvo de condução coercitiva na Operação Aletheia",
+    "texto": "O juiz federal Sérgio Moro autorizou a condução coercitiva de Lula para depor à Polícia Federal e buscas e apreensões em endereços de três filhos do ex-presidente, da assessora Clara Ant, do presidente do Instituto Lula, Paulo Okamotto, do ex-tesoureiro de campanha José de Filippi Júnior e dos empresários Fernando Bittar e Jonas Suassuna, donos de um sítio em Atibaia (SP).",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Medida de investigação. As ações penais que se seguiram foram anuladas pelo STF em 2021 (ver 08/03/2021 e 23/06/2021).",
+    "fonte_nome": "Agência Brasil – \"Operação Aletheia teve busca e apreensão em casas e empresas de oito pessoas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/juiz-sergio-moro-autoriza-busca-e-apreensao-que-envolvem-oito-pessoas",
+    "fonte_data": "2016-03-04",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2016-nomeacao-casa-civil-suspensa",
+    "data": "2016-03-18",
+    "titulo": "STF suspende a nomeação de Lula para a Casa Civil",
+    "texto": "O ministro Gilmar Mendes deferiu liminar nos Mandados de Segurança 34070 (PPS) e 34071 (PSDB) para suspender a eficácia da nomeação de Lula como ministro-chefe da Casa Civil pela presidente Dilma Rousseff e manter os procedimentos criminais na primeira instância. Os partidos alegaram desvio de finalidade: a nomeação retiraria o caso da 13ª Vara Federal de Curitiba, já que ministros de Estado têm foro no STF.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Decisão liminar (monocrática) de 18/03/2016.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Ministro suspende nomeação de Lula para Casa Civil e mantém processo na 1ª instância\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ministro-suspende-nomeacao-de-lula-para-casa-civil-e-mantem-processo-na-1a-instancia/",
+    "fonte_data": "2016-03-18",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2016-impeachment-dilma",
+    "data": "2016-08-31",
+    "titulo": "Senado aprova o impeachment de Dilma Rousseff",
+    "texto": "Por 61 votos a 20, o Senado condenou Dilma Rousseff por crime de responsabilidade e retirou seu mandato. Em uma segunda votação, seus direitos políticos foram mantidos. Michel Temer tomou posse definitiva no mesmo dia.",
+    "categoria": "dilma",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenada pelo Senado por crime de responsabilidade (perda do mandato); direitos políticos mantidos.",
+    "fonte_nome": "Agência Senado – \"Dilma Rousseff perde o mandato e Temer é confirmado presidente\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-e-temer-e-confirmado-presidente",
+    "fonte_data": "2016-08-31",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2017-condenacao-triplex",
+    "data": "2017-07-12",
+    "titulo": "Condenado em primeira instância no caso do triplex do Guarujá",
+    "texto": "O juiz federal Sérgio Moro condenou Lula a nove anos e seis meses de prisão por corrupção passiva e lavagem de dinheiro, no processo sobre a compra e a reforma de um apartamento triplex no Guarujá (SP). A sentença permitia recorrer em liberdade.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021 (incompetência da 13ª Vara de Curitiba e suspeição do juiz). Caso arquivado por prescrição em 27/01/2022. Não houve absolvição no mérito.",
+    "fonte_nome": "Agência Brasil – \"Moro condena Lula a nove anos e seis meses de prisão no caso triplex\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-07/ex-presidente-lula-e-condenado-nove-anos-e-seis-meses-de-prisao",
+    "fonte_data": "2017-07-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2018-trf4-triplex",
+    "data": "2018-01-24",
+    "titulo": "TRF-4 confirma a condenação e aumenta a pena para 12 anos e 1 mês",
+    "texto": "A 8ª Turma do Tribunal Regional Federal da 4ª Região confirmou por unanimidade a condenação por corrupção passiva e lavagem de dinheiro e elevou a pena de nove anos e seis meses para 12 anos e um mês de reclusão em regime fechado, mais 280 dias-multa.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021. Caso arquivado por prescrição em 27/01/2022. Não houve absolvição no mérito.",
+    "fonte_nome": "Tribunal Regional Federal da 4ª Região – \"TRF4 confirma condenação do ex-presidente Luiz Inácio Lula da Silva\"",
+    "fonte_url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13418",
+    "fonte_data": "2018-01-24",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2018-prisao",
+    "data": "2018-04-07",
+    "titulo": "Lula é preso e levado à Superintendência da PF em Curitiba",
+    "texto": "Condenado em segunda instância a 12 anos e um mês por corrupção e lavagem de dinheiro, Lula passou a cumprir a pena em uma sala especial da Superintendência da Polícia Federal em Curitiba. Foi o primeiro ex-presidente da República preso por crime comum no país.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Prisão para execução da pena após condenação em segunda instância. Solto em 08/11/2019; condenação anulada em 2021.",
+    "fonte_nome": "Agência Brasil – \"Lula é o primeiro ex-presidente da República preso por crime comum no país\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-04/lula-e-o-primeiro-ex-presidente-da-republica-preso-por-crime-comum-no-pais",
+    "fonte_data": "2018-04-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2018-tse-ficha-limpa",
+    "data": "2018-09-01",
+    "titulo": "TSE indefere o registro da candidatura de Lula com base na Lei da Ficha Limpa",
+    "texto": "Por 6 votos a 1, o Plenário do Tribunal Superior Eleitoral indeferiu o registro da candidatura de Lula à Presidência, seguindo o relator, ministro Luís Roberto Barroso, que declarou a inelegibilidade com base na Lei da Ficha Limpa. Por 5 a 2, a coligação (PT/PCdoB/Pros) foi autorizada a substituir o candidato em 10 dias, e Lula foi proibido de praticar atos de campanha.",
+    "categoria": "eleicoes",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Registro indeferido em 2018. A inelegibilidade decorria de condenação posteriormente anulada pelo STF (2021).",
+    "fonte_nome": "Tribunal Superior Eleitoral – \"TSE indefere pedido de registro de candidatura de Lula à Presidência da República\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2018/Setembro/tse-indefere-pedido-de-registro-de-candidatura-de-lula-a-presidencia-da-republica",
+    "fonte_data": "2018-09-01",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2019-condenacao-atibaia",
+    "data": "2019-02-06",
+    "titulo": "Condenado em primeira instância no caso do sítio de Atibaia",
+    "texto": "A juíza federal Gabriela Hardt condenou Lula a 12 anos e 11 meses de prisão na ação penal sobre as reformas no Sítio Santa Bárbara, em Atibaia (SP). Foi a segunda sentença contra o ex-presidente na Operação Lava Jato. A defesa alegou que a propriedade não pertencia a Lula.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021. Denúncia rejeitada pela Justiça Federal do DF em 21/08/2021. Não houve absolvição no mérito.",
+    "fonte_nome": "Agência Brasil – \"Lula é condenado a 12 anos de prisão em processo sobre sítio\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-02/lula-e-condenado-12-anos-de-prisao-em-processo-sobre-sitio",
+    "fonte_data": "2019-02-06",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2019-stj-triplex",
+    "data": "2019-04-23",
+    "titulo": "STJ mantém a condenação do triplex e reduz a pena para 8 anos, 10 meses e 20 dias",
+    "texto": "A Quinta Turma do Superior Tribunal de Justiça, por unanimidade, manteve a condenação por corrupção passiva e lavagem de dinheiro e fixou a pena em oito anos, dez meses e 20 dias. O tribunal entendeu que o TRF-4 havia elevado as penas-base com motivação genérica. A reparação de danos foi reduzida de R$ 16 milhões para R$ 2,4 milhões.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021. Caso arquivado por prescrição em 27/01/2022. Não houve absolvição no mérito.",
+    "fonte_nome": "Superior Tribunal de Justiça – \"Quinta Turma reduz pena do ex-presidente Lula para oito anos e dez meses\"",
+    "fonte_url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2019/Quinta-Turma-reduz-pena-do-ex-presidente-Lula-para-oito-anos-e-dez-meses.aspx",
+    "fonte_data": "2019-04-23",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2019-stf-segunda-instancia",
+    "data": "2019-11-07",
+    "titulo": "STF decide que a pena só pode ser cumprida após o trânsito em julgado",
+    "texto": "Por 6 votos a 5, o Plenário julgou procedentes as ADCs 43, 44 e 54 e declarou constitucional a regra do Código de Processo Penal que exige o esgotamento dos recursos para o início do cumprimento da pena. Votaram com a maioria Marco Aurélio (relator), Rosa Weber, Ricardo Lewandowski, Gilmar Mendes, Celso de Mello e Dias Toffoli; ficaram vencidos Alexandre de Moraes, Edson Fachin, Luís Roberto Barroso, Luiz Fux e Cármen Lúcia. A decisão trata do momento de início da pena, não do mérito de condenações.",
+    "categoria": "processos",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Julgado pelo Plenário do STF em 07/11/2019.",
+    "fonte_nome": "Supremo Tribunal Federal – \"STF decide que cumprimento da pena deve começar após esgotamento de recursos\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=429359&ori=1",
+    "fonte_data": "2019-11-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2019-soltura",
+    "data": "2019-11-08",
+    "titulo": "Lula deixa a prisão após 580 dias",
+    "texto": "Preso desde 7 de abril de 2018, Lula deixou a carceragem da Polícia Federal em Curitiba em 8 de novembro de 2019. A soltura foi determinada pelo juiz Danilo Pereira Júnior, a pedido da defesa, com base na decisão do STF da véspera sobre a prisão após segunda instância. Em discurso, Lula citou os 580 dias de prisão.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Solto por mudança de entendimento do STF sobre a execução da pena. Na data da soltura, as condenações continuavam válidas; foram anuladas em 2021.",
+    "fonte_nome": "Agência Brasil – \"Lula deixa carceragem da PF em Curitiba\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-11/lula-deixa-carceragem-da-pf-em-curitiba",
+    "fonte_data": "2019-11-08",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2019-trf4-atibaia",
+    "data": "2019-11-27",
+    "titulo": "TRF-4 confirma a condenação de Atibaia e aumenta a pena para 17 anos, 1 mês e 10 dias",
+    "texto": "A 8ª Turma do TRF-4 confirmou por unanimidade a condenação por corrupção passiva e lavagem de dinheiro no caso do sítio de Atibaia e elevou a pena de 12 anos e 11 meses para 17 anos, 1 mês e 10 dias de reclusão em regime inicial fechado, mais 422 dias-multa.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021. Denúncia rejeitada pela Justiça Federal do DF em 21/08/2021. Não houve absolvição no mérito.",
+    "fonte_nome": "Tribunal Regional Federal da 4ª Região – \"TRF4 confirma condenação do ex-presidente Lula\"",
+    "fonte_url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914",
+    "fonte_data": "2019-11-27",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2021-fachin-anula",
+    "data": "2021-03-08",
+    "titulo": "Fachin anula as condenações de Lula por incompetência da 13ª Vara de Curitiba",
+    "texto": "No HC 193726, o ministro Edson Fachin anulou todas as decisões da 13ª Vara Federal de Curitiba em quatro processos contra Lula, incluindo o do triplex do Guarujá e o do sítio de Atibaia. Motivo: os fatos não tinham relação direta com os desvios na Petrobras e, por isso, as ações não poderiam ter tramitado em Curitiba. O ministro determinou que os casos fossem reiniciados na Justiça Federal do Distrito Federal. A decisão é sobre competência do juízo: não examinou se Lula era culpado ou inocente.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Anulação processual por incompetência do juízo, confirmada pelo Plenário em 15/04/2021. Não é absolvição no mérito.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Fachin anula condenações de Lula e manda ações penais para Justiça Federal do DF\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&ori=1",
+    "fonte_data": "2021-03-08",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2021-segunda-turma-suspeicao",
+    "data": "2021-03-23",
+    "titulo": "Segunda Turma do STF declara a suspeição de Sérgio Moro no caso do triplex",
+    "texto": "Por maioria, a Segunda Turma concedeu o HC 164493 e reconheceu que o ex-juiz demonstrou parcialidade na condução do processo, anulando todas as suas decisões no caso do triplex, inclusive na fase pré-processual. Votaram pela suspeição Gilmar Mendes, Ricardo Lewandowski e Cármen Lúcia (que reajustou o voto); votaram contra Edson Fachin (relator) e Nunes Marques.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Anulação processual por suspeição do juiz, mantida pelo Plenário em 23/06/2021. Não é absolvição no mérito.",
+    "fonte_nome": "Supremo Tribunal Federal – \"2ª Turma reconhece parcialidade de ex-juiz Sérgio Moro na condenação de Lula no caso Triplex\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=462854&ori=1",
+    "fonte_data": "2021-03-23",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2021-plenario-confirma-anulacao",
+    "data": "2021-04-15",
+    "titulo": "Plenário do STF confirma a anulação por 8 votos a 3",
+    "texto": "O Plenário rejeitou o recurso (agravo regimental) da Procuradoria-Geral da República no HC 193726 e manteve a decisão de Fachin que declarou a incompetência da 13ª Vara Federal de Curitiba nas ações do triplex do Guarujá, do sítio de Atibaia e do Instituto Lula (sede e doações).",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Anulação processual confirmada pelo Plenário do STF. Não é absolvição no mérito.",
+    "fonte_nome": "Supremo Tribunal Federal – \"STF confirma anulação de condenações do ex-presidente Lula na Lava Jato\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1",
+    "fonte_data": "2021-04-15",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2021-plenario-mantem-suspeicao",
+    "data": "2021-06-23",
+    "titulo": "Plenário do STF mantém a suspeição de Moro por 7 votos a 4",
+    "texto": "O Plenário manteve a decisão da Segunda Turma que declarou a suspeição do ex-juiz Sérgio Moro na ação do triplex, preservando a anulação de todas as suas decisões no caso. No dia seguinte, 24 de junho de 2021, o ministro Gilmar Mendes estendeu a suspeição às ações do sítio de Atibaia e dos imóveis do Instituto Lula, anulando os atos decisórios de Moro também nesses processos.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Anulação processual por suspeição do juiz. Não é absolvição no mérito.",
+    "fonte_nome": "Supremo Tribunal Federal – \"STF confirma suspeição de Sergio Moro na ação do triplex do Guarujá\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468086&ori=1",
+    "fonte_data": "2021-06-23",
+    "fontes_adicionais": [
+      {
+        "nome": "Supremo Tribunal Federal – \"Ministro Gilmar Mendes estende suspeição de Moro em relação a Lula a mais duas ações penais\"",
+        "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468184&ori=1",
+        "data": "2021-06-24"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2021-atibaia-denuncia-rejeitada",
+    "data": "2021-08-21",
+    "titulo": "Justiça Federal do DF rejeita a denúncia do sítio de Atibaia",
+    "texto": "A juíza Pollyanna Kelly Maciel Martins Alves, da 12ª Vara Federal de Brasília, negou o pedido do Ministério Público Federal para reiniciar a ação penal. Trecho da decisão: \"A justa causa não foi demonstrada na ratificação acusatória porque não foram apontadas as provas que subsistiram à anulação procedida pelo Supremo Tribunal Federal\". A decisão não julgou se os fatos ocorreram.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Denúncia rejeitada por falta de justa causa após a anulação das provas. Não é absolvição no mérito.",
+    "fonte_nome": "CNN Brasil – \"Juíza de Brasília rejeita denúncia contra Lula no caso do sítio de Atibaia\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/juiza-de-brasilia-rejeita-denuncia-contra-lula-sobre-sitio-de-atibaia/",
+    "fonte_data": "2021-08-22",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2022-triplex-prescricao",
+    "data": "2022-01-27",
+    "titulo": "Caso do triplex é arquivado por prescrição",
+    "texto": "A 12ª Vara Federal de Brasília acolheu pedido da Procuradoria da República no DF e arquivou o caso do triplex por prescrição da pretensão punitiva em relação a Lula e a outros investigados. A juíza registrou: \"a prescrição ora reconhecida decorre da anulação promovida pelo Supremo Tribunal Federal de todos os atos praticados pelo então juiz federal Sérgio Fernando Moro\", o que tornou sem efeito os marcos que interrompiam o prazo.",
+    "categoria": "processos",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Arquivado por prescrição (extinção da punibilidade). Não houve julgamento de mérito: Lula não foi condenado nem absolvido neste caso.",
+    "fonte_nome": "CNN Brasil – \"Justiça do DF arquiva caso do tríplex envolvendo o ex-presidente Lula\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/justica-do-df-arquiva-caso-do-triplex-envolvendo-o-ex-presidente-lula/",
+    "fonte_data": "2022-01-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2022-eleito",
+    "data": "2022-10-30",
+    "titulo": "Eleito presidente pela terceira vez",
+    "texto": "No segundo turno, Lula obteve 60.345.999 votos (50,90% dos votos válidos) e Jair Bolsonaro, 58.206.354 votos (49,10%). Compareceram 124.252.796 dos 156.454.011 eleitores aptos (79,41%).",
+    "categoria": "eleicoes",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal Superior Eleitoral – \"100% das seções totalizadas: confira como ficou o quadro eleitoral após o 2º turno\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+    "fonte_data": "2022-10-31",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2023-posse",
+    "data": "2023-01-01",
+    "titulo": "Posse no terceiro mandato",
+    "texto": "O Congresso Nacional empossou Luiz Inácio Lula da Silva e o vice Geraldo Alckmin na Presidência da República em 1º de janeiro de 2023.",
+    "categoria": "eleicoes",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Congresso empossa Lula e Alckmin na Presidência da República\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2023/01/01/congresso-empossa-lula-e-alckmin-na-presidencia-da-republica",
+    "fonte_data": "2023-01-01",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2025-operacao-sem-desconto",
+    "data": "2025-04-23",
+    "titulo": "Operação Sem Desconto investiga descontos não autorizados em benefícios do INSS",
+    "texto": "A Polícia Federal e a Controladoria-Geral da União deflagraram operação sobre um suposto esquema nacional de cobrança de mensalidades associativas não autorizadas, que teria descontado cerca de R$ 6,3 bilhões de aposentados e pensionistas entre 2019 e 2024. O período investigado abrange os governos Bolsonaro (2019–2022) e Lula (2023–2024). A Justiça determinou o afastamento cautelar do presidente do INSS, Alessandro Stefanutto, e de outros cinco servidores; no mesmo dia, Lula determinou a demissão de Stefanutto e o governo anunciou a suspensão dos acordos que permitiam os descontos.",
+    "categoria": "inss",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Em investigação na data da fonte (23/04/2025). Sem condenações registradas neste item.",
+    "fonte_nome": "Agência Brasil – \"Lula determina demissão do presidente do INSS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-04/lula-determina-demissao-do-presidente-do-inss",
+    "fonte_data": "2025-04-23",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lt-2026-mp-bets",
+    "data": "2026-09-25",
+    "titulo": "Proibição por medida provisória, nove dias antes do primeiro turno",
+    "texto": "Em 25 de setembro de 2026, Lula assinou a Medida Provisória 1.394/2026, que altera a Lei 14.790/2023 e proíbe a exploração, oferta, intermediação e publicidade de apostas de quota fixa, com extinção das autorizações em 30 dias. O primeiro turno da eleição ocorreu em 4 de outubro de 2026, nove dias depois. Na exposição de motivos, o governo afirma que a experiência desde o início do mercado regulado mostrou que os mecanismos de controle não seriam suficientes para proteger a saúde, os consumidores e a estabilidade financeira das famílias; o próprio texto reconhece impacto negativo na arrecadação federal. A MP precisa ser aprovada pelo Congresso para virar lei em definitivo.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Medida provisória em vigor, pendente de votação no Congresso na data da fonte (28/09/2026).",
+    "fonte_nome": "Agência Senado – \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
+    "fonte_data": "2026-09-28",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"MP das Bets: veja o que muda e saiba datas para devolução de valores\"",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entenda-medida-provisoria-e-projeto-que-proibem-bets-no-brasil",
+        "data": "2026-09-26"
+      }
+    ],
+    "verificado_em": "2026-10-04",
+    "categoria": "eleicoes"
+  },
+  {
+    "id": "lt-2024-persona-non-grata",
+    "data": "2024-02",
+    "titulo": "Israel: comparação com Hitler e declaração de \"persona non grata\"",
+    "texto": "Em entrevista coletiva na Etiópia, Lula classificou as mortes de civis em Gaza como genocídio e disse: \"O que está acontecendo na Faixa de Gaza com o povo palestino não existe em nenhum outro momento histórico. Aliás, existiu quando Hitler resolveu matar os judeus\". O ministro das Relações Exteriores de Israel, Israel Katz, declarou Lula persona non grata no país. O governo brasileiro chamou seu embaixador em Israel para consultas.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Governo chama embaixador do Brasil em Israel para consultas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2024-02/governo-chama-embaixador-do-brasil-em-israel-para-consultas",
+    "fonte_data": "2024-02-19",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Entenda o que Lula falou sobre Holocausto e Israel\"",
+        "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-lula-falou-sobre-holocausto-e-israel/",
+        "data": "2024-02-20"
+      }
+    ],
+    "verificado_em": "2026-10-05",
+    "categoria": "politica-externa"
+  },
+  {
+    "id": "lt-2025-selic-15",
+    "data": "2025-06-18",
+    "titulo": "Selic chega a 15% ao ano, maior nível desde maio de 2006",
+    "texto": "O Copom elevou a Selic em 0,25 ponto percentual, para 15% ao ano, em 18 de junho de 2025, por decisão unânime dos diretores. É o patamar mais alto desde maio de 2006, quando a taxa foi fixada em 15,25%.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"BC sobe juros para 15% ao ano e sinaliza fim do ciclo de alta\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/copom-junho-2025/",
+    "fonte_data": "2025-06-18",
+    "verificado_em": "2026-10-04",
+    "categoria": "economia"
+  },
+  {
+    "id": "lt-2026-messias-rejeitado",
+    "data": "2026-04-29",
+    "titulo": "Jorge Messias, advogado-geral da União, é rejeitado pelo Senado por 42 a 34",
+    "texto": "O plenário do Senado rejeitou em 29 de abril de 2026, por 42 votos contrários e 34 favoráveis, a indicação de Jorge Messias, advogado-geral da União do governo Lula, para a vaga aberta no STF com a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025. Eram necessários 41 votos favoráveis. Na CCJ, Messias havia sido aprovado por 16 a 11. Segundo a Agência Senado, foi a primeira rejeição de um indicado ao STF em 132 anos: as anteriores, cinco, ocorreram em 1894, no governo Floriano Peixoto. O nome foi anunciado em novembro de 2025, mas a mensagem formal só chegou ao Senado em abril de 2026, demora criticada pelo presidente da Casa, Davi Alcolumbre.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Indicação de Jorge Messias ao STF é rejeitada pelo Senado\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "fonte_data": "2026-04-29",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Senado rejeita Messias e impõe derrota histórica do governo Lula\"",
+        "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-messias-e-impoe-derrota-historica-do-governo-lula/",
+        "data": "2026-04-29"
+      }
+    ],
+    "verificado_em": "2026-10-05",
+    "categoria": "trajetoria"
+  },
+  {
+    "id": "lt-2026-aije-admitida",
+    "data": "2026-09-28",
+    "titulo": "TSE admite ação que acusa Lula e Alckmin de abuso de poder político",
+    "texto": "O ministro Ricardo Villas Bôas Cueva, corregedor-geral da Justiça Eleitoral em exercício, admitiu em 28 de setembro de 2026 a Ação de Investigação Judicial Eleitoral (Aije) ajuizada pelo senador e candidato Flávio Bolsonaro (PL) contra Lula e o vice Geraldo Alckmin, candidatos à reeleição. A ação aponta suposto abuso de poder político e de autoridade pelo uso da estrutura administrativa e institucional do governo federal em benefício eleitoral, com episódios entre março e setembro: eventos oficiais, entrevistas nos palácios presidenciais e conteúdos de canais institucionais, além do pronunciamento na Assembleia Geral da ONU. O ministro afirmou que os pedidos de liminar não especificavam quais conteúdos deveriam ser retirados e deu 72 horas para o autor complementar as informações. Lula e Alckmin receberam prazo de cinco dias para apresentar defesa.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Aije 0602230-49.2026.6.00.0000 admitida para tramitação em 28/09/2026. Admitir a ação não é julgar o mérito: não há condenação. Liminares não analisadas até essa data. Andamento posterior não verificado por este site.",
+    "fonte_nome": "TSE – \"TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
+    "fonte_data": "2026-09-28",
+    "verificado_em": "2026-10-05",
+    "categoria": "eleicoes"
+  },
+  {
+    "id": "lt-2026-primeiro-turno",
+    "data": "2026-10-05",
+    "titulo": "Primeiro turno: Lula tem 45,16% dos votos válidos e vai ao segundo turno contra Flávio Bolsonaro",
+    "texto": "Com 99,99% das urnas apuradas à 0h11 de 5 de outubro de 2026, o TSE informou que Flávio Bolsonaro (PL) recebeu 56.104.268 votos (47,03% dos válidos) e Lula (PT), 53.876.617 votos (45,16%). Os dois disputam o segundo turno. Houve 2.300.781 votos brancos (1,84%) e 3.674.149 nulos (2,93%); os votos válidos somaram 125.272.513.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "TSE – \"Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+    "fonte_data": "2026-10-05",
+    "verificado_em": "2026-10-05",
+    "categoria": "eleicoes"
+  }
+]

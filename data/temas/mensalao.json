@@ -1,0 +1,166 @@
+[
+  {
+    "id": "ms-jefferson-denuncia",
+    "data": "2005-06-06",
+    "titulo": "A denúncia: mesada de R$ 30 mil a congressistas aliados",
+    "texto": "Em entrevista à Folha de S.Paulo, o deputado Roberto Jefferson, presidente do PTB, afirmou que congressistas aliados recebiam uma mesada de R$ 30 mil, o \"mensalão\", distribuída pelo tesoureiro do PT, Delúbio Soares, e que o esquema beneficiaria pelo menos PP e PL. Segundo Jefferson, a prática durou até o começo de 2005, quando ele próprio teria informado o presidente Lula; os ministros José Dirceu (Casa Civil) e Antonio Palocci (Fazenda) teriam sido alertados antes.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Acusação pública de 2005. Os fatos foram julgados pelo STF na Ação Penal 470 (2012).",
+    "fonte_nome": "Folha de S.Paulo – \"Jefferson denuncia mesada paga pelo tesoureiro do PT\" (Renata Lo Prete)",
+    "fonte_url": "https://www1.folha.uol.com.br/fsp/brasil/fc0606200502.htm",
+    "fonte_data": "2005-06-06",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-cpmi-correios",
+    "data": "2006-04-05",
+    "titulo": "CPI Mista dos Correios aprova relatório final por 17 votos a 4",
+    "texto": "O relatório do deputado Osmar Serraglio (PMDB-PR) foi aprovado em 5 de abril de 2006 por 17 votos a 4, sob reclamações de parlamentares petistas, que queriam modificar trechos como a conceituação do \"mensalão\"; o PT apresentou voto em separado que substituiria todo o relatório. Sobre Lula, o texto o isenta de \"responsabilidade objetiva\" no conjunto de ações chamado de mensalão, mas afirma que dele poderia ser cobrada \"responsabilidade subjetiva\", pois não teria dificuldades em perceber que havia \"anormalidade\" na formação da maioria parlamentar.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Relatório de CPI (não é decisão judicial). O texto isentou Lula de \"responsabilidade objetiva\".",
+    "fonte_nome": "Agência Senado – \"Veja os principais pontos do relatório final da CPI dos Correios\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2006/04/07/veja-os-principais-pontos-do-relatorio-final-da-cpi-dos-correios",
+    "fonte_data": "2006-04-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-stf-recebe-denuncia",
+    "data": "2007-08-28",
+    "titulo": "STF recebe a denúncia e torna réus os 40 acusados",
+    "texto": "O Plenário do Supremo Tribunal Federal aceitou a denúncia contra os 40 indiciados no Inquérito 2245. Em 12 de novembro de 2007 o inquérito foi reautuado como Ação Penal 470, com relatoria do ministro Joaquim Barbosa.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Denúncia recebida em 2007; ação penal julgada em 2012.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Inquérito do mensalão é convertido na Ação Penal 470\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/inquerito-do-mensalao-e-convertido-na-acao-penal-470/",
+    "fonte_data": "2007-11-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-julgamento-2012",
+    "data": "2012-12-17",
+    "titulo": "O julgamento: 53 sessões, de 2 de agosto a 17 de dezembro de 2012",
+    "texto": "O STF descreve a Ação Penal 470 como o maior julgamento da história do Tribunal: 53 sessões para um processo com 38 réus, 234 volumes e 495 apensos, em 50.199 páginas.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Julgado pelo Plenário do STF em 2012.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Julgamentos relevantes marcaram a pauta do STF em 2012\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=227869&ori=1",
+    "fonte_data": "2013-01-04",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-pena-dirceu",
+    "data": "2012-11-12",
+    "titulo": "José Dirceu, ex-ministro da Casa Civil: condenado por corrupção ativa e formação de quadrilha",
+    "texto": "O Plenário fixou as penas de José Dirceu em 7 anos e 11 meses de reclusão, mais 260 dias-multa de 10 salários mínimos cada, por corrupção ativa praticada em relação a nove deputados federais, e em 2 anos e 11 meses por formação de quadrilha. O relator, ministro Joaquim Barbosa, considerou o papel de liderança de Dirceu no grupo.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado por corrupção ativa (7 anos e 11 meses). Absolvido do crime de quadrilha nos embargos infringentes (27/02/2014). Punibilidade extinta por indulto em 17/10/2016.",
+    "fonte_nome": "Supremo Tribunal Federal – \"AP 470: Plenário fixa penas de José Dirceu\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-plenario-fixa-penas-de-jose-dirceu/",
+    "fonte_data": "2012-11-12",
+    "fontes_adicionais": [
+      {
+        "nome": "Supremo Tribunal Federal – \"Indulto extingue a punibilidade de José Dirceu na AP 470\"",
+        "url": "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/",
+        "data": "2016-10-17"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-pena-genoino",
+    "data": "2012-11-12",
+    "titulo": "José Genoino, ex-presidente do PT: condenado por corrupção ativa e formação de quadrilha",
+    "texto": "A maioria dos ministros fixou a pena de José Genoino em 4 anos e 8 meses por corrupção ativa, mais 180 dias-multa de 10 salários mínimos cada, e em 2 anos e 3 meses por formação de quadrilha.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado por corrupção ativa. Está entre os oito réus absolvidos do crime de quadrilha nos embargos infringentes (27/02/2014).",
+    "fonte_nome": "Supremo Tribunal Federal – \"STF fixa pena de Genoino por formação de quadrilha e corrupção ativa\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-pena-de-genoino-por-formacao-de-quadrilha-e-corrupcao-ativa/",
+    "fonte_data": "2012-11-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-delubio",
+    "data": "2016-03-10",
+    "titulo": "Delúbio Soares, ex-tesoureiro do PT: condenado a 6 anos e 8 meses; pena perdoada em 2016",
+    "texto": "Delúbio Soares cumpria pena de seis anos e oito meses em regime semiaberto na Ação Penal 470. Em 10 de março de 2016, o ministro Luís Roberto Barroso concedeu a ele o perdão da pena (indulto).",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado; pena extinta por indulto em 10/03/2016.",
+    "fonte_nome": "Agência Brasil – \"STF concede perdão de pena ao ex-tesoureiro do PT Delúbio Soares\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/stf-concede-perdao-de-pena-ao-ex-tesoureiro-do-pt-delubio-soares",
+    "fonte_data": "2016-03-10",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-quadrilha-absolvicao",
+    "data": "2014-02-27",
+    "titulo": "STF absolve oito réus do crime de formação de quadrilha",
+    "texto": "No julgamento dos embargos infringentes, a maioria dos ministros absolveu oito réus que haviam sido condenados por formação de quadrilha, entre eles José Dirceu. A ministra Rosa Weber afirmou que as provas não demonstraram vínculo associativo estável entre os condenados. As condenações pelos demais crimes foram mantidas.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Absolvição apenas quanto ao crime de quadrilha; as condenações por corrupção e outros crimes permaneceram.",
+    "fonte_nome": "Agência Brasil – \"Maioria do STF absolve condenados no mensalão do crime de quadrilha\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2014-02/maioria-do-stf-absolve-condenados-no-mensalao-de-quadrilha",
+    "fonte_data": "2014-02-27",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-lula-declaracoes",
+    "data": "2005-08",
+    "titulo": "O que Lula disse: \"me sinto traído\" e \"facada nas costas\"",
+    "texto": "Em pronunciamento em agosto de 2005, Lula declarou: \"eu me sinto traído. Traído por práticas inaceitáveis das quais nunca tive conhecimento\", e pediu desculpas à população. Em entrevista exibida em julho de 2005, tratou o caso como \"caixa 2\": \"O que o PT fez do ponto de vista eleitoral é o que é feito no Brasil sistematicamente\". Em 1º de janeiro de 2006, ao Fantástico, disse que não tinha conhecimento do esquema e chamou as denúncias de \"facada nas costas\". Segundo a CNN Brasil, Lula nunca afirmou que houve compra de votos no Congresso.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Declarações públicas documentadas. Sobre a responsabilização de Lula, ver o item da CPI dos Correios.",
+    "fonte_nome": "CNN Brasil – \"Mensalão completa 20 anos: saiba como Lula reagiu ao escândalo\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/mensalao-completa-20-anos-saiba-como-lula-reagiu-ao-escandalo/",
+    "fonte_data": "2025-06-06",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "ms-numeros",
+    "data": "2012",
+    "titulo": "Os números do julgamento: 38 réus, 25 condenados, 12 absolvidos",
+    "texto": "Segundo o STF, a Ação Penal 470 foi o julgamento mais longo da história do tribunal: 53 sessões plenárias para julgar 38 réus. Vinte e cinco foram condenados e 12, absolvidos; em relação a um réu, Carlos Alberto Quaglia, o processo foi anulado e enviado à primeira instância. Em 13 de novembro de 2013, o STF determinou o início do cumprimento das penas de 22 condenados.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Julgamento concluído pelo STF em 2012; cumprimento das penas determinado a partir de 13/11/2013.",
+    "fonte_nome": "STF – \"AP 470: baixe a íntegra do acórdão\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-baixe-a-integra-do-acordao/",
+    "fonte_data": "s.d.",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Câmara – \"STF determina cumprimento de penas de 22 condenados no processo do mensalão\"",
+        "url": "https://www.camara.leg.br/noticias/420868-stf-determina-cumprimento-de-penas-de-22-condenados-no-processo-do-mensalao/",
+        "data": "2013-11-13"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ms-denuncia-40",
+    "data": "2006-04-11",
+    "titulo": "A denúncia: 40 acusados; Lula não foi denunciado",
+    "texto": "O procurador-geral da República, Antonio Fernando de Souza, formalizou em 30 de março de 2006 a denúncia ao STF contra 40 pessoas, entre ex-ministros, políticos, funcionários públicos, empresários e publicitários; o documento foi divulgado em 11 de abril. Segundo a Agência Câmara, a denúncia não faz referência ao presidente Luiz Inácio Lula da Silva nem ao filho dele, Fábio Luis da Silva, porque, de acordo com o procurador, não havia indícios que justificassem a inclusão.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Lula não foi denunciado nem réu na Ação Penal 470.",
+    "fonte_nome": "Agência Câmara – \"Ministério Público denuncia 40 envolvidos com mensalão\"",
+    "fonte_url": "https://www.camara.leg.br/noticias/83476-ministerio-publico-denuncia-40-envolvidos-com-mensalao/",
+    "fonte_data": "2006-04-11",
+    "fontes_adicionais": [
+      {
+        "nome": "STF – \"Cronologia do inquérito do mensalão no STF\"",
+        "url": "https://noticias.stf.jus.br/postsnoticias/cronologia-do-inquerito-do-mensalao-no-stf/",
+        "data": "s.d."
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  }
+]

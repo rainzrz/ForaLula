@@ -1,0 +1,93 @@
+[
+  {
+    "id": "mp-bets",
+    "data": "2026-09-25",
+    "titulo": "Proibição das bets por medida provisória, nove dias antes do primeiro turno",
+    "texto": "Lula assinou em 25 de setembro de 2026 a Medida Provisória 1.394/2026, que proíbe as apostas de quota fixa. O primeiro turno ocorreu em 4 de outubro de 2026. O mercado havia sido regulamentado pelo próprio governo em dezembro de 2023 (Lei 14.790/2023) e rendeu R$ 9 bilhões em tributos em 2025. A exposição de motivos da MP reconhece impacto negativo na arrecadação federal.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Medida provisória em vigor, pendente de votação no Congresso na data da fonte (28/09/2026).",
+    "fonte_nome": "Agência Senado – \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
+    "fonte_data": "2026-09-28",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Câmara – \"Receita Federal informa que arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025\"",
+        "url": "https://www.camara.leg.br/noticias/1274502-receita-federal-informa-que-arrecadacao-com-apostas-esportivas-foi-de-r$-9-bilhoes-em-2025",
+        "data": "2026-05-20"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mp-aije-admitida",
+    "data": "2026-09-28",
+    "titulo": "TSE admite ação que acusa Lula e Alckmin de abuso de poder político",
+    "texto": "O ministro Ricardo Villas Bôas Cueva, corregedor-geral da Justiça Eleitoral em exercício, admitiu em 28 de setembro de 2026 a Ação de Investigação Judicial Eleitoral (Aije) ajuizada pelo senador e candidato Flávio Bolsonaro (PL) contra Lula e o vice Geraldo Alckmin, candidatos à reeleição. A ação aponta suposto abuso de poder político e de autoridade pelo uso da estrutura administrativa e institucional do governo federal em benefício eleitoral, com episódios entre março e setembro: eventos oficiais, entrevistas nos palácios presidenciais e conteúdos de canais institucionais, além do pronunciamento na Assembleia Geral da ONU. O ministro afirmou que os pedidos de liminar não especificavam quais conteúdos deveriam ser retirados e deu 72 horas para o autor complementar as informações. Lula e Alckmin receberam prazo de cinco dias para apresentar defesa.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Aije 0602230-49.2026.6.00.0000 admitida para tramitação em 28/09/2026. Admitir a ação não é julgar o mérito: não há condenação. Liminares não analisadas até essa data. Andamento posterior não verificado por este site.",
+    "fonte_nome": "TSE – \"TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
+    "fonte_data": "2026-09-28",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mp-aije-cultura",
+    "data": "2026-09-28",
+    "titulo": "Segunda ação pede cassação da chapa por atos ligados ao Ministério da Cultura",
+    "texto": "A campanha de Flávio Bolsonaro (PL) protocolou no TSE, em 28 de setembro de 2026, outra Aije com pedido de cassação contra Lula, Geraldo Alckmin, a primeira-dama Rosângela \"Janja\" da Silva, a ministra da Cultura, Margareth Menezes, e integrantes da cúpula do ministério. Segundo a petição, recursos, servidores, canais oficiais e a estrutura da pasta teriam sido usados em benefício da campanha. A peça cita o ato virtual \"Movimento Cultura com Lula\", de 14 de setembro, com a participação da ministra, do secretário-executivo e de Janja, e questiona a manutenção de publicidade institucional no período de defeso eleitoral. O conteúdo é a versão do autor da ação, adversário de Lula na eleição.",
+    "destaque": false,
+    "classificacao": "acusacao",
+    "status_juridico": "Ação protocolada em 28/09/2026. Nenhuma decisão do TSE sobre ela foi verificada por este site.",
+    "fonte_nome": "CNN Brasil – \"Flávio pede cassação de Lula por abuso de poder por atos ligados à Cultura\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-cassacao-de-lula-por-abuso-de-poder-por-atos-ligados-a-cultura/",
+    "fonte_data": "2026-09-28",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mp-primeiro-turno",
+    "data": "2026-10-05",
+    "titulo": "Contexto: Lula fica em segundo no primeiro turno, com 45,16% dos votos válidos",
+    "texto": "Com 99,99% das urnas apuradas à 0h11 de 5 de outubro de 2026, o TSE informou que Flávio Bolsonaro (PL) recebeu 56.104.268 votos (47,03% dos válidos) e Lula (PT), 53.876.617 votos (45,16%). Os dois disputam o segundo turno. Houve 2.300.781 votos brancos (1,84%) e 3.674.149 nulos (2,93%); os votos válidos somaram 125.272.513.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "TSE – \"Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+    "fonte_data": "2026-10-05",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mp-carnaval-liminar",
+    "data": "2026-02-12",
+    "titulo": "Desfile sobre Lula no Carnaval: TSE nega liminares por unanimidade",
+    "texto": "A escola Acadêmicos de Niterói desfilou no Carnaval de 2026 com enredo sobre a trajetória de Lula. Parlamentares do Novo, do PL e do Republicanos acionaram a PGR e o TCU: a Embratur tem contrato de R$ 12 milhões com a liga das escolas, que repassa R$ 1 milhão a cada agremiação do Grupo Especial. Em 12 de fevereiro de 2026, o TSE negou por unanimidade liminares em duas representações por propaganda antecipada. A relatora, ministra Estela Aranha, afirmou que restringir previamente manifestações artísticas por eventual conteúdo político configura censura prévia.",
+    "destaque": false,
+    "classificacao": "acusacao",
+    "status_juridico": "Liminares NEGADAS pelo TSE em 12/02/2026, por unanimidade. Julgamento de mérito das representações não verificado por este site.",
+    "fonte_nome": "TSE – \"TSE nega liminares em ações sobre desfile de escola de samba em homenagem ao presidente Lula\"",
+    "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Fevereiro/tse-nega-liminares-em-acoes-sobre-desfile-de-escola-de-samba-em-homenagem-ao-presidente-lula",
+    "fonte_data": "2026-02-12",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"PL e Novo acionam PGR e TCU para barrar homenagem a Lula no Carnaval\"",
+        "url": "https://www.cnnbrasil.com.br/politica/pl-e-novo-acionam-justica-para-barrar-homenagem-a-lula-no-carnaval/",
+        "data": "2026-02-03"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mp-carnaval-aije",
+    "data": "2026-09-18",
+    "titulo": "TSE admite ação sobre o desfile, por suposto abuso de poder",
+    "texto": "Em 18 de setembro de 2026, o corregedor-geral da Justiça Eleitoral, ministro Antonio Carlos Ferreira, admitiu ação de Flávio Bolsonaro (PL) contra Lula e Geraldo Alckmin por supostos abuso de poder político e econômico e uso indevido dos meios de comunicação no desfile da Acadêmicos de Niterói.",
+    "destaque": false,
+    "classificacao": "acusacao",
+    "status_juridico": "Ação admitida para tramitação em 18/09/2026. Admitir a ação não é julgar o mérito. Andamento posterior não verificado por este site.",
+    "fonte_nome": "CNN Brasil – \"TSE aceita abrir ação contra Lula por desfile no Carnaval do Rio de Janeiro\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/tse-aceita-abrir-acao-contra-lula-por-desfile-no-carnaval-do-rio-de-janeiro/",
+    "fonte_data": "2026-09-18",
+    "verificado_em": "2026-10-05"
+  }
+]

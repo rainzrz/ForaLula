@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linha do tempo – Dossiê Lula e PT</title>
+  <meta name="description" content="Linha do tempo da vida política de Lula, de 1975 ao terceiro mandato, com fonte e status jurídico em cada evento.">
+  <link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+  <header id="cabecalho"></header>
+  <section class="capa"><div class="largura">
+    <h1>Linha do tempo</h1>
+    <p class="lide">A vida política de Lula por ano. A barra vermelha à esquerda marca os eventos negativos. Condenações anuladas aparecem com a anulação e o motivo no campo “Status jurídico atual”.</p>
+  </div></section>
+  <main class="largura">
+
+    <div class="filtros">
+      <div class="filtros-linha">
+        <input type="search" id="busca" placeholder="Buscar na linha do tempo" aria-label="Buscar na linha do tempo">
+        <select id="filtro-categoria" aria-label="Filtrar por categoria"></select>
+        <label class="caixa"><input type="checkbox" id="filtro-destaques"> Só eventos negativos</label>
+      </div>
+      <div class="filtros-linha" id="filtro-classificacao" role="group" aria-label="Filtrar por classificação"></div>
+      <nav class="anos" id="anos" aria-label="Ir para o ano"></nav>
+      <span class="fonte-data" id="contagem" aria-live="polite"></span>
+    </div>
+
+    <div id="linha"></div>
+  </main>
+  <footer class="rodape"><div class="largura">
+    <div id="rodape-fontes"></div>
+    <div id="rodape"></div>
+  </div></footer>
+  <script type="module" src="assets/js/linha-do-tempo.js"></script>
+</body>
+</html>

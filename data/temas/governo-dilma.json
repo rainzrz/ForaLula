@@ -1,0 +1,65 @@
+[
+  {
+    "id": "di-petrobras-2014",
+    "data": "2015-04-22",
+    "titulo": "Petrobras fecha 2014 com prejuízo de R$ 21,6 bilhões",
+    "texto": "No balanço de 2014, a Petrobras reconheceu R$ 6,2 bilhões de perdas com os desvios investigados pela Lava Jato e R$ 44,6 bilhões de desvalorização de ativos; o resultado líquido ficou negativo em R$ 21,6 bilhões.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Petrobras perde R$ 6,2 bi com corrupção e prejuízo soma R$ 21,6 bi em 2014\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2015-04/petrobras-teve-prejuizo-de-r-216-bilhoes-no-ano-passado",
+    "fonte_data": "2015-04-22",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "di-tcu-contas-2014",
+    "data": "2015-10-07",
+    "titulo": "TCU recomenda, por unanimidade, a rejeição das contas de 2014",
+    "texto": "Em sessão extraordinária em 7 de outubro de 2015, o Tribunal de Contas da União recomendou por unanimidade a rejeição das contas de 2014 do governo Dilma Rousseff, acompanhando o relator, ministro Augusto Nardes. A recomendação seguiu para o Congresso, a quem cabe aprovar ou não as contas.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Parecer prévio do TCU pela rejeição (07/10/2015). O julgamento das contas cabe ao Congresso Nacional.",
+    "fonte_nome": "Agência Brasil – \"TCU recomenda rejeição das contas de 2014 do governo Dilma\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-10/tcu-recomenda-rejeicao-das-contas-de-2014-do-governo-dilma",
+    "fonte_data": "2015-10-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "di-recessao",
+    "data": "2017-03-07",
+    "titulo": "Recessão: PIB caiu 3,8% em 2015 e 3,6% em 2016",
+    "texto": "Segundo o IBGE, o PIB recuou 3,8% em 2015 e 3,6% em 2016. Dilma Rousseff perdeu o mandato em 31 de agosto de 2016, quando Michel Temer assumiu em definitivo.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"PIB fecha 2016 com queda de 3,6%\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2017-03/pib-fecha-2016-com-uma-queda-de-36",
+    "fonte_data": "2017-03-07",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "di-impeachment",
+    "data": "2016-08-31",
+    "titulo": "Impeachment: Senado condena por 61 votos a 20",
+    "texto": "O Senado condenou Dilma Rousseff por crime de responsabilidade e retirou seu mandato por 61 votos a 20. Em segunda votação, os direitos políticos foram mantidos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenada pelo Senado por crime de responsabilidade (perda do mandato); direitos políticos mantidos.",
+    "fonte_nome": "Agência Senado – \"Dilma Rousseff perde o mandato e Temer é confirmado presidente\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-e-temer-e-confirmado-presidente",
+    "fonte_data": "2016-08-31",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "di-pasadena",
+    "data": "2014-07-23",
+    "titulo": "Pasadena: TCU aponta prejuízo de US$ 792,3 milhões e isenta o conselho presidido por Dilma",
+    "texto": "O TCU determinou a devolução de US$ 792,3 milhões à Petrobras pela compra da refinaria de Pasadena e responsabilizou ex-diretores. O Conselho de Administração, presidido na época da compra pela então ministra Dilma Rousseff, foi isentado: segundo o relator, o conselho decidiu com base em documento que omitiu informações e cláusulas.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Ex-diretores responsabilizados pelo TCU; Conselho de Administração (incluindo Dilma Rousseff) isentado.",
+    "fonte_nome": "Agência Senado – \"TCU responsabiliza diretores da Petrobras por compra da refinaria de Pasadena\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2014/07/23/tcu-responsabiliza-diretores-da-petrobras-por-compra-da-refinaria-de-pasadena",
+    "fonte_data": "2014-07-23",
+    "verificado_em": "2026-10-04"
+  }
+]

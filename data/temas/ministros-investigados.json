@@ -1,0 +1,53 @@
+[
+  {
+    "id": "mi-juscelino",
+    "data": "2025-04-08",
+    "titulo": "Juscelino Filho (Comunicações): denunciado pela PGR, pediu demissão",
+    "texto": "O ministro das Comunicações pediu demissão em 8 de abril de 2025, depois que a Procuradoria-Geral da República o denunciou por suposto envolvimento em desvio de emendas parlamentares por meio da Codevasf. Segundo as investigações, quando era deputado federal ele teria direcionado recursos para Vitorino Freire (MA), cidade em que sua irmã era prefeita. Ele já havia sido indiciado pela Polícia Federal no ano anterior (2024) e permaneceu no cargo até a denúncia.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Denunciado pela PGR ao STF em abril de 2025; cabe à Primeira Turma (relator: ministro Flávio Dino) decidir se ele vira réu. Este site não localizou notícia do julgamento da denúncia até a última verificação.",
+    "fonte_nome": "CNN Brasil – \"Juscelino Filho pede demissão após denúncia da PGR sobre desvio de emendas\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/juscelino-filho-oficializa-demissao-de-ministerio-das-comunicacoes/",
+    "fonte_data": "2025-04-08",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "mi-juscelino-lula",
+    "data": "2025-04-09",
+    "titulo": "Reação de Lula: saída de Juscelino é \"saudável\"",
+    "texto": "No dia seguinte ao pedido de demissão, Lula disse ser \"saudável\" a saída de Juscelino Filho do Ministério das Comunicações.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Lula diz ser saudável saída de Juscelino e sinaliza Pedro Lucas ministro\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/lula-diz-ser-saudavel-saida-de-juscelino-e-sinaliza-pedro-lucas-ministro/",
+    "fonte_data": "2025-04-09",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "mi-lupi",
+    "data": "2025-05-02",
+    "titulo": "Carlos Lupi (Previdência): saiu após o escândalo dos descontos no INSS",
+    "texto": "Carlos Lupi deixou o Ministério da Previdência em 2 de maio de 2025, nove dias depois da Operação Sem Desconto, que investiga descontos não autorizados em benefícios do INSS. O presidente do INSS, Alessandro Stefanutto, havia sido afastado pela Justiça e demitido em 23 de abril.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "A notícia da fonte não aponta Lupi como investigado.",
+    "fonte_nome": "Agência Brasil – \"Após fraude no INSS, Lupi pede demissão do Ministério da Previdência\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-05/apos-fraude-no-inss-lupi-pede-demissao-do-ministerio-da-previdencia",
+    "fonte_data": "2025-05-02",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "mi-dirceu-direitos",
+    "data": "2024-12-17",
+    "titulo": "José Dirceu: condenações anuladas, pode voltar a disputar eleições",
+    "texto": "Com a anulação das condenações da Lava Jato pelo ministro Gilmar Mendes (28/10/2024) e o encerramento dos processos no STJ (17/12/2024), o ex-ministro José Dirceu, condenado no mensalão e indultado em 2016, pode recuperar os direitos políticos e se candidatar.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Condenações da Lava Jato ANULADAS (2024). Pena do mensalão extinta por indulto (2016).",
+    "fonte_nome": "Agência Brasil – \"STJ encerra processos da Lava Jato contra ex-ministro José Dirceu\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-12/stj-encerra-processos-da-lava-jato-contra-ex-ministro-jose-dirceu",
+    "fonte_data": "2024-12-17",
+    "verificado_em": "2026-10-04"
+  }
+]

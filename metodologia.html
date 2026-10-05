@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metodologia – Dossiê Lula e PT</title>
+  <meta name="description" content="Regras de fonte, classificação e status jurídico usadas no site.">
+  <link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+  <header id="cabecalho"></header>
+  <section class="capa"><div class="largura">
+    <h1>Metodologia</h1>
+    <p class="lide">O site é crítico por escolha editorial: trata só de problemas, escândalos, falhas e polêmicas. A seleção é parcial; os fatos de cada item não podem ser. Por isso valem as regras abaixo.</p>
+  </div></section>
+  <main class="largura">
+
+    <h2>Regra nº 1: fonte em tudo</h2>
+    <p>Cada item precisa ter link direto para a fonte, nome e data da fonte, classificação, status jurídico (quando houver processo) e data da última verificação. Item sem esses campos não é exibido: o próprio código do site o oculta.</p>
+
+    <h2>Classificação</h2>
+    <table>
+      <tr><th>Selo</th><th>Quando é usado</th></tr>
+      <tr><td><span class="selo selo-fato">🟢 Fato comprovado</span></td><td>Documento oficial, decisão judicial ou dado estatístico. Uma condenação posteriormente anulada continua sendo um fato histórico (a decisão existiu), e o status jurídico informa a anulação.</td></tr>
+      <tr><td><span class="selo selo-acusacao">🟡 Acusação / delação / investigação</span></td><td>Ainda não julgado, ou anulado. Inclui denúncias públicas, delações e operações policiais em curso.</td></tr>
+      <tr><td><span class="selo selo-analise">🔵 Análise / opinião</span></td><td>Avaliação de economistas, juristas ou jornalistas, sempre com o nome do autor.</td></tr>
+    </table>
+
+    <h2>Status jurídico</h2>
+    <p>Cada caso informa a situação atual: investigado, denunciado, réu, condenado, absolvido, anulado, prescrito ou arquivado. Decisões que mudaram o status de um caso nunca são omitidas e trazem o motivo exato.</p>
+    <p>Anulação processual não é absolvição. Quando um tribunal anula um processo por incompetência do juízo ou suspeição do juiz, ele não examina se o réu é culpado ou inocente. Nos itens em que isso ocorreu, o site escreve “não houve absolvição no mérito” e também não afirma culpa: o caso ficou sem julgamento válido.</p>
+
+    <h2>Hierarquia de fontes</h2>
+    <ol>
+      <li>Órgãos oficiais e Judiciário: STF, STJ, TSE, TRF-4, MPF, PF, PGR, TCU, CGU, Receita Federal, Tesouro Nacional, Banco Central, IBGE, IPEA, BNDES, Itamaraty, Portal da Transparência, Diário Oficial da União, Câmara, Senado e IFI.</li>
+      <li>Organismos internacionais: FAO/ONU, OCDE, FMI, Banco Mundial.</li>
+      <li>Institutos de pesquisa: Atlas da Violência, Fórum Brasileiro de Segurança Pública, Rede PENSSAN, CPT, INEP.</li>
+      <li>Imprensa de referência e agências de checagem: Folha, Estadão, O Globo, Valor, G1, CNN Brasil, BBC, Reuters, Agência Brasil, Lupa, Aos Fatos, Estadão Verifica.</li>
+    </ol>
+
+    <h2>O que não entra</h2>
+    <ul>
+      <li>Blogs anônimos, grupos de WhatsApp, posts de redes sociais sem confirmação e sites partidários.</li>
+      <li>Medidas de outros governos atribuídas a Lula. Cada item indica o governo e a data.</li>
+      <li>Números arredondados ou exagerados. Os valores são os da fonte.</li>
+      <li>Qualquer informação que não possa ser verificada. Sem fonte, o item fica de fora.</li>
+    </ul>
+
+    <h2>Datas</h2>
+    <p>Quando a fonte só informa o ano, o site mostra só o ano. “Sem data de publicação” indica página institucional que não traz data própria (por exemplo, uma página de acervo). “Última verificação” é o dia em que o link foi aberto e o texto conferido.</p>
+
+    <h2>Correções</h2>
+    <p>Todo item e toda página têm o botão “Encontrou um erro? Envie a fonte”. Correções exigem link para a fonte.</p>
+  </main>
+  <footer class="rodape"><div class="largura">
+    <div id="rodape-fontes">
+      <h2>Fontes desta página</h2>
+      <p>Esta página descreve regras editoriais e não faz afirmações factuais sobre pessoas ou casos.</p>
+    </div>
+    <div id="rodape"></div>
+  </div></footer>
+  <script type="module">
+    import { montarMoldura } from './assets/js/core.js';
+    montarMoldura('metodologia.html');
+  </script>
+</body>
+</html>

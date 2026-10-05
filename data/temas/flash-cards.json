@@ -1,0 +1,584 @@
+[
+  {
+    "id": "fc-01",
+    "classificacao": "acusacao",
+    "status_juridico": "Acusação pública de 2005. Os fatos foram julgados pelo STF na Ação Penal 470 (2012).",
+    "fonte_nome": "Folha de S.Paulo – \"Jefferson denuncia mesada paga pelo tesoureiro do PT\" (Renata Lo Prete)",
+    "fonte_url": "https://www1.folha.uol.com.br/fsp/brasil/fc0606200502.htm",
+    "fonte_data": "2005-06-06",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quem denunciou o mensalão e quando?",
+    "texto": "O deputado Roberto Jefferson (PTB), em entrevista à Folha de S.Paulo publicada em 6 de junho de 2005. Ele falou em mesada de R$ 30 mil a congressistas aliados, paga pelo tesoureiro do PT, Delúbio Soares.",
+    "destaque": false
+  },
+  {
+    "id": "fc-02",
+    "classificacao": "fato",
+    "status_juridico": "Relatório de CPI (não é decisão judicial). O texto isentou Lula de \"responsabilidade objetiva\".",
+    "fonte_nome": "Agência Senado – \"Veja os principais pontos do relatório final da CPI dos Correios\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2006/04/07/veja-os-principais-pontos-do-relatorio-final-da-cpi-dos-correios",
+    "fonte_data": "2006-04-07",
+    "verificado_em": "2026-10-04",
+    "titulo": "O que a CPI dos Correios concluiu sobre Lula?",
+    "texto": "O relatório, aprovado por 17 a 4 em 5 de abril de 2006, isentou Lula de \"responsabilidade objetiva\", mas disse que dele poderia ser cobrada \"responsabilidade subjetiva\".",
+    "destaque": false
+  },
+  {
+    "id": "fc-03",
+    "classificacao": "fato",
+    "status_juridico": "Condenado por corrupção ativa (7 anos e 11 meses). Absolvido do crime de quadrilha nos embargos infringentes (27/02/2014). Punibilidade extinta por indulto em 17/10/2016.",
+    "fonte_nome": "Supremo Tribunal Federal – \"AP 470: Plenário fixa penas de José Dirceu\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-plenario-fixa-penas-de-jose-dirceu/",
+    "fonte_data": "2012-11-12",
+    "fontes_adicionais": [
+      {
+        "nome": "Supremo Tribunal Federal – \"Indulto extingue a punibilidade de José Dirceu na AP 470\"",
+        "url": "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/",
+        "data": "2016-10-17"
+      }
+    ],
+    "verificado_em": "2026-10-04",
+    "titulo": "Qual foi a pena de José Dirceu no mensalão?",
+    "texto": "7 anos e 11 meses por corrupção ativa e 2 anos e 11 meses por formação de quadrilha. A punibilidade foi extinta por indulto em 17 de outubro de 2016.",
+    "destaque": false
+  },
+  {
+    "id": "fc-04",
+    "classificacao": "fato",
+    "status_juridico": "Condenação ANULADA pelo STF em 2021 (incompetência da 13ª Vara de Curitiba e suspeição do juiz). Caso arquivado por prescrição em 27/01/2022. Não houve absolvição no mérito.",
+    "fonte_nome": "Agência Brasil – \"Moro condena Lula a nove anos e seis meses de prisão no caso triplex\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-07/ex-presidente-lula-e-condenado-nove-anos-e-seis-meses-de-prisao",
+    "fonte_data": "2017-07-12",
+    "verificado_em": "2026-10-04",
+    "titulo": "Lula foi condenado no caso do triplex?",
+    "texto": "Sim, em primeira instância: 9 anos e 6 meses, em 12 de julho de 2017, por corrupção passiva e lavagem de dinheiro. Veja abaixo o status jurídico atual dessa condenação.",
+    "destaque": false
+  },
+  {
+    "id": "fc-05",
+    "classificacao": "fato",
+    "status_juridico": "Solto por mudança de entendimento do STF sobre a execução da pena. Na data da soltura, as condenações continuavam válidas; foram anuladas em 2021.",
+    "fonte_nome": "Agência Brasil – \"Lula deixa carceragem da PF em Curitiba\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-11/lula-deixa-carceragem-da-pf-em-curitiba",
+    "fonte_data": "2019-11-08",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto tempo Lula ficou preso?",
+    "texto": "580 dias: de 7 de abril de 2018 a 8 de novembro de 2019, na carceragem da Polícia Federal em Curitiba.",
+    "destaque": false
+  },
+  {
+    "id": "fc-06",
+    "classificacao": "fato",
+    "status_juridico": "Anulação processual por incompetência do juízo, confirmada pelo Plenário em 15/04/2021. Não é absolvição no mérito.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Fachin anula condenações de Lula e manda ações penais para Justiça Federal do DF\"",
+    "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&ori=1",
+    "fonte_data": "2021-03-08",
+    "verificado_em": "2026-10-04",
+    "titulo": "Por que as condenações foram anuladas?",
+    "texto": "Na decisão de 8 de março de 2021, o ministro Edson Fachin entendeu que a 13ª Vara Federal de Curitiba era incompetente: os fatos não tinham relação direta com os desvios na Petrobras. Os casos deveriam recomeçar na Justiça Federal do DF.",
+    "destaque": false
+  },
+  {
+    "id": "fc-07",
+    "classificacao": "fato",
+    "status_juridico": "Arquivado por prescrição (extinção da punibilidade). Não houve julgamento de mérito: Lula não foi condenado nem absolvido neste caso.",
+    "fonte_nome": "CNN Brasil – \"Justiça do DF arquiva caso do tríplex envolvendo o ex-presidente Lula\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/justica-do-df-arquiva-caso-do-triplex-envolvendo-o-ex-presidente-lula/",
+    "fonte_data": "2022-01-28",
+    "verificado_em": "2026-10-04",
+    "titulo": "Lula foi absolvido no caso do triplex?",
+    "texto": "Não. O caso foi arquivado por prescrição em 27 de janeiro de 2022, sem julgamento de mérito: ele não foi condenado nem absolvido.",
+    "destaque": false
+  },
+  {
+    "id": "fc-08",
+    "classificacao": "fato",
+    "status_juridico": "ABSOLVIDO em 12/07/2018, por falta de provas.",
+    "fonte_nome": "Agência Brasil – \"Juiz absolve Lula e outros acusados em caso de obstrução de Justiça\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2018-07/justica-absolve-lula-e-outros-acusados-em-caso-de-obstrucao-de-justica",
+    "fonte_data": "2018-07-12",
+    "verificado_em": "2026-10-04",
+    "titulo": "Lula foi absolvido no caso de obstrução de Justiça?",
+    "texto": "Sim. Em 12 de julho de 2018 a 10ª Vara Federal de Brasília o absolveu por falta de provas; o próprio MPF havia pedido a absolvição.",
+    "destaque": false
+  },
+  {
+    "id": "fc-09",
+    "classificacao": "fato",
+    "status_juridico": "ABSOLVIDO (absolvição sumária) em 04/12/2019.",
+    "fonte_nome": "Agência Brasil – \"Vara Federal absolve ex-presidentes por crime de organização criminosa\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-12/vara-federal-absolve-ex-presidentes-por-crime-de-organiza%C3%A7%C3%A3o-criminosa",
+    "fonte_data": "2019-12-04",
+    "verificado_em": "2026-10-04",
+    "titulo": "E no caso do \"quadrilhão do PT\"?",
+    "texto": "Lula, Dilma, Palocci, Mantega e Vaccari foram absolvidos sumariamente da acusação de organização criminosa em 4 de dezembro de 2019.",
+    "destaque": false
+  },
+  {
+    "id": "fc-10",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Petrobras perde R$ 6,2 bi com corrupção e prejuízo soma R$ 21,6 bi em 2014\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2015-04/petrobras-teve-prejuizo-de-r-216-bilhoes-no-ano-passado",
+    "fonte_data": "2015-04-22",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto a Petrobras reconheceu de perdas com os desvios?",
+    "texto": "R$ 6,2 bilhões no balanço de 2014, calculados como 3% do valor dos contratos envolvidos. O prejuízo total do ano foi de R$ 21,6 bilhões.",
+    "destaque": false
+  },
+  {
+    "id": "fc-11",
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal de Contas da União – \"TCU aponta que cartel causou prejuízos de R$ 18 bilhões à Petrobras\"",
+    "fonte_url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-aponta-que-cartel-causou-prejuizos-de-r-18-bilhoes-a-petrobras",
+    "fonte_data": "2020-06",
+    "verificado_em": "2026-10-04",
+    "titulo": "Qual foi o prejuízo do cartel na Petrobras, segundo o TCU?",
+    "texto": "R$ 12,3 bilhões em contratações de 2004 a 2012; mais de R$ 18 bilhões em valores atualizados e com juros.",
+    "destaque": false
+  },
+  {
+    "id": "fc-12",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Petrobras supera R$ 6 bilhões em recursos recuperados da Lava Jato\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/petrobras-supera-r-6-bilhoes-em-recursos-recuperados-da-lava-jato",
+    "fonte_data": "2021-12-28",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto a Petrobras recuperou?",
+    "texto": "Cerca de R$ 6,17 bilhões até o fim de 2021, por acordos de leniência, repatriações e delações.",
+    "destaque": false
+  },
+  {
+    "id": "fc-13",
+    "classificacao": "acusacao",
+    "status_juridico": "Em investigação na data da fonte (23/04/2025).",
+    "fonte_nome": "Agência Brasil – \"Lula determina demissão do presidente do INSS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-04/lula-determina-demissao-do-presidente-do-inss",
+    "fonte_data": "2025-04-23",
+    "verificado_em": "2026-10-04",
+    "titulo": "Qual o tamanho e o período da fraude do INSS?",
+    "texto": "Cerca de R$ 6,3 bilhões em descontos associativos entre 2019 e 2024, período que abrange os governos Bolsonaro (2019–2022) e Lula (2023–2024).",
+    "destaque": false
+  },
+  {
+    "id": "fc-14",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"CGU recomendou suspensão de descontos em folha de aposentados\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/cgu-recomendou-suspensao-de-descontos-em-folha-de-aposentados",
+    "fonte_data": "2025-05-07",
+    "verificado_em": "2026-10-04",
+    "titulo": "O governo foi alertado antes da operação?",
+    "texto": "Sim. Um relatório da CGU, concluído em dezembro de 2024 após auditoria feita entre abril e julho daquele ano, recomendou que o INSS deixasse de intermediar os descontos. O relatório só veio a público em maio de 2025.",
+    "destaque": false
+  },
+  {
+    "id": "fc-15",
+    "classificacao": "fato",
+    "fonte_nome": "BNDES – Perguntas e respostas sobre apoio à exportação",
+    "fonte_url": "https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/exportacao/perguntas-e-respostas-apoio-exportacao",
+    "fonte_data": "s.d.",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto Venezuela, Cuba e Moçambique deixaram de pagar ao BNDES?",
+    "texto": "US$ 1,2 bilhão até dezembro de 2024. O banco foi ressarcido pelo seguro lastreado no Fundo de Garantia à Exportação.",
+    "destaque": false
+  },
+  {
+    "id": "fc-16",
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República – Lei nº 13.756, de 12 de dezembro de 2018",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
+    "fonte_data": "2018-12-12",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quem legalizou as bets?",
+    "texto": "A Lei 13.756, de 12 de dezembro de 2018, sancionada no governo Temer, criou as apostas de quota fixa.",
+    "destaque": false
+  },
+  {
+    "id": "fc-17",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Regras para apostas: veja o que muda com a nova lei\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2024/01/05/regras-para-apostas-veja-o-que-muda-com-a-nova-lei",
+    "fonte_data": "2024-01-05",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quem regulamentou as bets?",
+    "texto": "O governo Lula: a Lei 14.790 foi sancionada em 30 de dezembro de 2023, a partir de projeto do Executivo (PL 3.626/2023).",
+    "destaque": false
+  },
+  {
+    "id": "fc-18",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Beneficiários do Bolsa Família gastaram R$ 3 bi em bets em agosto\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-09/beneficiarios-do-bolsa-familia-gastaram-r-3-bi-em-bets-em-agosto",
+    "fonte_data": "2024-09-24",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto beneficiários do Bolsa Família enviaram a bets?",
+    "texto": "R$ 3 bilhões via Pix só em agosto de 2024, segundo nota técnica do Banco Central: cerca de 5 milhões de beneficiários.",
+    "destaque": false
+  },
+  {
+    "id": "fc-19",
+    "classificacao": "fato",
+    "status_juridico": "Medida provisória em vigor, pendente de votação no Congresso na data da fonte (28/09/2026).",
+    "fonte_nome": "Agência Senado – \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
+    "fonte_data": "2026-09-28",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"MP das Bets: veja o que muda e saiba datas para devolução de valores\"",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entenda-medida-provisoria-e-projeto-que-proibem-bets-no-brasil",
+        "data": "2026-09-26"
+      }
+    ],
+    "verificado_em": "2026-10-04",
+    "titulo": "Quando as bets foram proibidas?",
+    "texto": "Por medida provisória (MP 1.394/2026) assinada em 25 de setembro de 2026, nove dias antes do primeiro turno da eleição.",
+    "destaque": false
+  },
+  {
+    "id": "fc-20",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"PIB fecha 2016 com queda de 3,6%\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2017-03/pib-fecha-2016-com-uma-queda-de-36",
+    "fonte_data": "2017-03-07",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto o PIB caiu na recessão de 2015–2016?",
+    "texto": "3,8% em 2015 e 3,6% em 2016, no governo Dilma Rousseff e, depois de 31 de agosto de 2016, no governo Temer.",
+    "destaque": false
+  },
+  {
+    "id": "fc-21",
+    "classificacao": "fato",
+    "status_juridico": "Parecer prévio do TCU pela rejeição (07/10/2015). O julgamento das contas cabe ao Congresso Nacional.",
+    "fonte_nome": "Agência Brasil – \"TCU recomenda rejeição das contas de 2014 do governo Dilma\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-10/tcu-recomenda-rejeicao-das-contas-de-2014-do-governo-dilma",
+    "fonte_data": "2015-10-07",
+    "verificado_em": "2026-10-04",
+    "titulo": "O que o TCU decidiu sobre as contas de 2014 de Dilma?",
+    "texto": "Recomendou por unanimidade a rejeição, em 7 de outubro de 2015.",
+    "destaque": false
+  },
+  {
+    "id": "fc-22",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Prévia da carga tributária sobe para 32,32% do PIB em 2024\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-03/previa-da-carga-tributaria-sobe-para-3232-do-pib-em-2024",
+    "fonte_data": "2025-03-28",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto subiu a carga tributária em 2024?",
+    "texto": "De 30,26% para 32,32% do PIB, alta de 2,06 pontos percentuais, segundo a prévia do Tesouro Nacional.",
+    "destaque": false
+  },
+  {
+    "id": "fc-23",
+    "classificacao": "fato",
+    "fonte_nome": "Rádio Senado – \"Lula sanciona taxação de 20% nas compras internacionais de até 50 dólares\"",
+    "fonte_url": "https://www12.senado.leg.br/radio/1/noticia/2024/06/28/lula-sanciona-taxacao-de-20-nas-compras-internacionais-de-ate-50-dolares",
+    "fonte_data": "2024-06-28",
+    "verificado_em": "2026-10-04",
+    "titulo": "O que é a \"taxa das blusinhas\"?",
+    "texto": "Imposto de Importação de 20% sobre compras internacionais de até US$ 50, criado pela Lei 14.902/2024 e cobrado a partir de 1º de agosto de 2024.",
+    "destaque": false
+  },
+  {
+    "id": "fc-24",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Projeto da LDO prevê déficit zero para 2025 e salário-mínimo de R$ 1.502\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/projeto-da-ldo-preve-deficit-zero-para-2025-e-salario-minimo-de-r-1.502",
+    "fonte_data": "2024-04-16",
+    "verificado_em": "2026-10-04",
+    "titulo": "O governo manteve a meta de superávit de 2025?",
+    "texto": "Não. Em abril de 2024 trocou a meta de superávit de 0,5% do PIB por déficit zero, e a de 2026 caiu de 1% para 0,25%.",
+    "destaque": false
+  },
+  {
+    "id": "fc-25",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"BC sobe juros para 15% ao ano e sinaliza fim do ciclo de alta\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/copom-junho-2025/",
+    "fonte_data": "2025-06-18",
+    "verificado_em": "2026-10-04",
+    "titulo": "Qual foi o pico da Selic no terceiro mandato?",
+    "texto": "15% ao ano, a partir de 18 de junho de 2025, o maior nível desde maio de 2006.",
+    "destaque": false
+  },
+  {
+    "id": "fc-26",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Dólar sobe 27,3% em 2024 e fecha ano em R$ 6,18; Ibovespa cai 10%\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-hoje-ibovespa-dolar-30-dezembro-2024/",
+    "fonte_data": "2024-12-30",
+    "verificado_em": "2026-10-04",
+    "titulo": "Quanto o dólar subiu em 2024?",
+    "texto": "27,36%, fechando o ano em R$ 6,179.",
+    "destaque": false
+  },
+  {
+    "id": "fc-27",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Lula diz que Venezuela é 'vítima de narrativa de antidemocracia e autoritarismo'\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/internacional/lula-diz-que-venezuela-e-vitima-de-narrativa-de-antidemocracia-e-autoritarismo/",
+    "fonte_data": "2023-05-29",
+    "verificado_em": "2026-10-05",
+    "titulo": "O que Lula disse ao receber Maduro em 2023?",
+    "texto": "Que a Venezuela é \"vítima de uma narrativa de antidemocracia e autoritarismo\".",
+    "destaque": false
+  },
+  {
+    "id": "fc-28",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Governo chama embaixador do Brasil em Israel para consultas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2024-02/governo-chama-embaixador-do-brasil-em-israel-para-consultas",
+    "fonte_data": "2024-02-19",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Entenda o que Lula falou sobre Holocausto e Israel\"",
+        "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-lula-falou-sobre-holocausto-e-israel/",
+        "data": "2024-02-20"
+      }
+    ],
+    "verificado_em": "2026-10-05",
+    "titulo": "Por que Israel declarou Lula persona non grata?",
+    "texto": "Por ele ter dito, em fevereiro de 2024, que o que ocorria em Gaza \"existiu quando Hitler resolveu matar os judeus\".",
+    "destaque": false
+  },
+  {
+    "id": "fc-29",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"CGU estuda mudar lei que autoriza 100 anos de sigilo sobre informações confidenciais\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/cgu-estuda-mudar-lei-que-autoriza-100-anos-de-sigilo-sobre-informacoes-confidenciais/",
+    "fonte_data": "2024-06-05",
+    "verificado_em": "2026-10-05",
+    "titulo": "O governo Lula usou o sigilo de 100 anos?",
+    "texto": "Sim: em 1.339 pedidos de informação feitos em 2023, segundo levantamento do Estadão citado pela CNN Brasil. Na campanha, Lula havia prometido revogar os sigilos do antecessor.",
+    "destaque": false
+  },
+  {
+    "id": "fc-30",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Por 58 votos a 18, Senado aprova Zanin para o STF\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2023/06/21/senado-aprova-zanin-para-o-stf-com-58-votos-a-favor-e-18-contrarios",
+    "fonte_data": "2023-06-21",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Lula é condenado a 12 anos de prisão em processo sobre sítio\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-02/lula-e-condenado-12-anos-de-prisao-em-processo-sobre-sitio",
+        "data": "2019-02-06"
+      }
+    ],
+    "verificado_em": "2026-10-05",
+    "titulo": "Lula indicou o próprio advogado ao STF?",
+    "texto": "Sim. Cristiano Zanin, que o defendeu na Lava Jato, foi aprovado pelo Senado por 58 votos a 18 em 21 de junho de 2023.",
+    "destaque": false
+  },
+  {
+    "id": "fc-31",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Com 47 votos favoráveis, Senado aprova Dino para o STF\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2023/12/13/com-47-votos-favoraveis-senado-aprova-dino-para-o-stf",
+    "fonte_data": "2023-12-13",
+    "verificado_em": "2026-10-05",
+    "titulo": "E o ministro da Justiça?",
+    "texto": "Flávio Dino, então ministro da Justiça do governo Lula, foi aprovado para o STF por 47 votos a 31, com 2 abstenções, em 13 de dezembro de 2023.",
+    "destaque": false
+  },
+  {
+    "id": "fc-32",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Correios triplicam prejuízo em 2025, 4º ano seguido de resultado negativo\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/negocios/com-resultado-de-2025-correios-registram-prejuizo-pelo-4o-ano-seguido/",
+    "fonte_data": "2026-04-23",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual foi o resultado dos Correios em 2025?",
+    "texto": "Prejuízo de R$ 8,5 bilhões, o quarto ano seguido no vermelho (2022: R$ 767,58 milhões; 2023: R$ 596,6 milhões; 2024: R$ 2,6 bilhões).",
+    "destaque": false
+  },
+  {
+    "id": "fc-33",
+    "classificacao": "fato",
+    "status_juridico": "Julgado pelo Plenário do STF em 09/05/2024.",
+    "fonte_nome": "Agência Brasil – \"STF mantém proibição de políticos em diretorias de estatais\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-05/stf-mantem-proibicao-de-politicos-em-diretorias-de-estatais",
+    "fonte_data": "2024-05-09",
+    "verificado_em": "2026-10-05",
+    "titulo": "O que o STF decidiu sobre a Lei das Estatais?",
+    "texto": "Em 9 de maio de 2024, por 8 a 3, manteve a proibição de indicações políticas, mas deixou nos cargos quem foi nomeado durante a liminar de março de 2023.",
+    "destaque": false
+  },
+  {
+    "id": "fc-34",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Brasil registrou 278,3 mil focos de incêndio em 2024, diz Inpe\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/nacional/brasil-registrou-2783-mil-focos-de-incendio-em-2024-diz-inpe/",
+    "fonte_data": "2025-01-02",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quantos focos de queimada houve em 2024?",
+    "texto": "278.299, segundo o Inpe: alta de 46,5% sobre 2023 e o maior número desde 2010.",
+    "destaque": false
+  },
+  {
+    "id": "fc-35",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Brasil registra número recorde de conflitos no campo em 2023, diz relatório\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/nacional/brasil-registra-numero-recorde-de-conflitos-no-campo-em-2023-diz-relatorio/",
+    "fonte_data": "2024-04-22",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quantos conflitos no campo houve em 2023?",
+    "texto": "2.203, recorde da década segundo a Comissão Pastoral da Terra.",
+    "destaque": false
+  },
+  {
+    "id": "fc-36",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Brasil ultrapassa a marca de 62 mil homicídios por ano\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2018-06/brasil-ultrapassa-marca-de-62-mil-homicidios-por-ano",
+    "fonte_data": "2018-06-05",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quantos homicídios o Brasil teve em 2016?",
+    "texto": "62.517, taxa de 30,3 por 100 mil habitantes, segundo o Atlas da Violência 2018.",
+    "destaque": false
+  },
+  {
+    "id": "fc-37",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Brasil continua fora do Mapa da Fome, aponta relatório da ONU\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+    "fonte_data": "2026-07-22",
+    "verificado_em": "2026-10-05",
+    "titulo": "O Brasil saiu do Mapa da Fome?",
+    "texto": "Sim, segundo a FAO: saiu em 2025 (triênio 2022–2024) e continuava fora no relatório de 2026.",
+    "destaque": false
+  },
+  {
+    "id": "fc-38",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Renda média das famílias chega a R$ 2.264 e é recorde em 2025\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/renda-media-das-familias-chega-r-2264-e-e-recorde-em-2025",
+    "fonte_data": "2026-05-08",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual região tem a menor renda do país?",
+    "texto": "O Nordeste: R$ 1.470 de rendimento domiciliar per capita em 2025, segundo o IBGE.",
+    "destaque": false
+  },
+  {
+    "id": "fc-39",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Governo fecha 2023 com déficit de R$ 230,5 bi, segundo pior da história, diz Tesouro Nacional\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/governo-fecha-2023-com-deficit-de-r-2305-bi-segundo-pior-da-historia-diz-tesouro-nacional/",
+    "fonte_data": "2024-01-29",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual foi o déficit primário de 2023?",
+    "texto": "R$ 230,5 bilhões, 2,1% do PIB, incluindo R$ 92,4 bilhões de precatórios pagos em dezembro.",
+    "destaque": false
+  },
+  {
+    "id": "fc-40",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Entenda o que muda após Congresso aprovar fim da taxa das blusinhas\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-o-que-muda-apos-camara-aprovar-fim-da-taxa-das-blusinhas/",
+    "fonte_data": "2026-09-03",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quem criou e quem acabou com a \"taxa das blusinhas\"?",
+    "texto": "A cobrança de 20% sobre compras internacionais de até US$ 50 foi sancionada por Lula em 2024. O próprio Lula assinou, em 12 de maio de 2026, a MP 1.357, que permitiu zerar o imposto; o Congresso aprovou a MP em 3 de setembro de 2026.",
+    "destaque": false
+  },
+  {
+    "id": "fc-41",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Brasil terá maior alíquota do mundo após reforma tributária no Senado\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-12/reforma-tributaria-pode-elevar-iva-para-28-estima-relator",
+    "fonte_data": "2024-12-15",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual a alíquota estimada do IVA da reforma tributária?",
+    "texto": "Cálculo preliminar do relator no Senado, em dezembro de 2024: 28,55%, acima dos 27% da Hungria. O texto prevê uma trava para forçar corte de incentivos se a alíquota de referência passar de 26,5%.",
+    "destaque": false
+  },
+  {
+    "id": "fc-42",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Endividamento das famílias sobe para 49,9% e bate recorde, aponta BC\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/endividamento-das-familias-sobe-para-499-e-bate-recorde-aponta-bc/",
+    "fonte_data": "2026-04-27",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual o nível de endividamento das famílias em 2026?",
+    "texto": "Recorde nas duas séries: 49,9% em fevereiro de 2026, segundo o Banco Central, e 80,4% das famílias com dívidas em março de 2026, segundo a CNC.",
+    "destaque": false
+  },
+  {
+    "id": "fc-43",
+    "classificacao": "fato",
+    "status_juridico": "Julgamento concluído pelo STF em 2012; cumprimento das penas determinado a partir de 13/11/2013.",
+    "fonte_nome": "STF – \"AP 470: baixe a íntegra do acórdão\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-baixe-a-integra-do-acordao/",
+    "fonte_data": "s.d.",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quantos réus foram condenados no mensalão?",
+    "texto": "Dos 38 réus da Ação Penal 470, 25 foram condenados e 12 absolvidos; o processo de um réu foi anulado e enviado à primeira instância. Foram 53 sessões plenárias, o julgamento mais longo da história do STF.",
+    "destaque": false
+  },
+  {
+    "id": "fc-44",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"TCU quer mais fiscalização sobre pagamento de bolsas do Mais Médicos\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2017-03/tcu-quer-mais-fiscalizacao-sobre-pagamento-de-bolsas-do-mais-medicos",
+    "fonte_data": "2017-03-08",
+    "verificado_em": "2026-10-05",
+    "titulo": "Quanto do pagamento do Mais Médicos ficava com o governo de Cuba?",
+    "texto": "Segundo relatório do TCU de 2017, o governo cubano retinha 75% do valor pago pelo Brasil por meio da Opas. O mesmo tribunal avaliou o programa como eficaz.",
+    "destaque": false
+  },
+  {
+    "id": "fc-45",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Lula diz no G20 que Putin não será preso no Brasil se vier ao país\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/lula-diz-no-g20-que-putin-nao-sera-preso-no-brasil-se-vier-ao-pais/",
+    "fonte_data": "2023-09-09",
+    "verificado_em": "2026-10-05",
+    "titulo": "O que Lula disse sobre uma eventual prisão de Putin no Brasil?",
+    "texto": "\"Se eu for presidente do Brasil e se ele for para o Brasil, não há porque ele ser preso\", em setembro de 2023. O Tribunal Penal Internacional, do qual o Brasil faz parte, havia expedido ordem de prisão contra Putin.",
+    "destaque": false
+  },
+  {
+    "id": "fc-46",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Estatais registram em 2024 pior déficit da história\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/estatais-registram-em-2024-pior-deficit-da-historia/",
+    "fonte_data": "2025-01-31",
+    "verificado_em": "2026-10-05",
+    "titulo": "Qual foi o resultado das estatais em 2024?",
+    "texto": "Déficit primário de R$ 8,073 bilhões, o pior da série do Banco Central. Em 2022 houve superávit de R$ 6,1 bilhões; em 2023, déficit de R$ 2,2 bilhões.",
+    "destaque": false
+  },
+  {
+    "id": "fc-47",
+    "classificacao": "fato",
+    "status_juridico": "ABSOLVIDOS em primeira instância em 16/03/2023 (12ª Vara Federal de Brasília), por falta de provas. Eventual recurso não verificado por este site.",
+    "fonte_nome": "Agência Brasil – \"Mantega e Coutinho são absolvidos em processo de empréstimos do BNDES\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/mantega-e-coutinho-sao-absolvidos-em-processo-de-emprestimos-do-bndes",
+    "fonte_data": "2023-03-16",
+    "verificado_em": "2026-10-05",
+    "titulo": "O que aconteceu com a acusação contra Mantega e Coutinho no caso JBS/BNDES?",
+    "texto": "Foram absolvidos em 16 de março de 2023 pela 12ª Vara Federal de Brasília. O juiz afirmou que o pagamento de propina não foi provado e que a acusação se apoiava só na delação de Joesley Batista.",
+    "destaque": false
+  },
+  {
+    "id": "fc-48",
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Indicação de Jorge Messias ao STF é rejeitada pelo Senado\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "fonte_data": "2026-04-29",
+    "verificado_em": "2026-10-05",
+    "titulo": "Algum indicado de Lula ao STF foi rejeitado?",
+    "texto": "Sim. O Senado rejeitou Jorge Messias em 29 de abril de 2026, por 42 votos a 34. Segundo a Agência Senado, foi a primeira rejeição de um indicado ao STF em 132 anos.",
+    "destaque": false
+  },
+  {
+    "id": "fc-49",
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Picanha e cerveja ficam mais caras com alta da inflação\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/picanha-e-cerveja-ficam-mais-caras-com-alta-da-inflacao/",
+    "fonte_data": "2025-01-10",
+    "verificado_em": "2026-10-05",
+    "titulo": "O que aconteceu com o preço da carne depois da promessa da picanha?",
+    "texto": "Em 2024, segundo o IBGE, as carnes subiram 20,84% e a picanha, 8,74%, acima dos 7,69% do grupo Alimentação e Bebidas.",
+    "destaque": false
+  }
+]

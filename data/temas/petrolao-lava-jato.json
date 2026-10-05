@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lj-origem",
+    "data": "2014-03-17",
+    "titulo": "Origem: a primeira fase da operação",
+    "texto": "A primeira fase da Lava Jato foi deflagrada em 17 de março de 2014 contra quatro organizações criminosas. Em 20 de março, Paulo Roberto Costa, diretor da Petrobras, foi preso.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Ministério Público Federal – Linha do Tempo: Operação Lava Jato (2014)",
+    "fonte_url": "https://linhadotempo.mpf.mp.br/www/linha-do-tempo/2014",
+    "fonte_data": "s.d.",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-costa-partidos",
+    "data": "2014-10-08",
+    "titulo": "Paulo Roberto Costa: empreiteiras repassavam 3% dos contratos a PP, PT e PMDB",
+    "texto": "Em depoimento à Justiça Federal, o ex-diretor de Abastecimento da Petrobras disse que PP, PT e PMDB eram beneficiados com recursos de contratos superfaturados da estatal e que as empreiteiras repassavam 3% do valor desses contratos aos três partidos. Em nota, o PT repudiou \"com veemência e indignação\" as declarações, que chamou de \"caluniosas\"; o PP disse desconhecer as denúncias e o PMDB não comentou.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Depoimento de réu colaborador (delação). Afirmações do delator, contestadas pelo PT.",
+    "fonte_nome": "Agência Brasil – \"Petrobras: ex-diretor diz a juiz que PP, PT e PMDB receberam valor de contratos\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-10/petrobras-ex-diretor-diz-a-juiz-que-PP-PT-e-PMDB-receberam-valor-de-contratos",
+    "fonte_data": "2014-10-09",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-mpf-estimativa-2015",
+    "data": "2015-01-29",
+    "titulo": "Primeiro balanço do MPF: R$ 2,1 bilhões desviados da Petrobras",
+    "texto": "Em balanço divulgado em janeiro de 2015, o Ministério Público Federal estimou em R$ 2,1 bilhões os desvios dos investigados na Petrobras, com R$ 450 milhões recuperados, R$ 200 milhões em bens bloqueados e 12 acordos de delação premiada assinados até então.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Estimativa do órgão de acusação em janeiro de 2015.",
+    "fonte_nome": "Agência Brasil – \"MPF estima que desvios na Petrobras tenham chegado a R$ 2,1 bilhões\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-01/desvios-na-petrobras-chegaram-r-21-bilhoes-estima-mpf",
+    "fonte_data": "2015-01-29",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-petrobras-balanco-2014",
+    "data": "2015-04-22",
+    "titulo": "Petrobras reconhece em balanço perda de R$ 6,2 bilhões com os desvios",
+    "texto": "No balanço auditado de 2014, a Petrobras informou prejuízo de R$ 6,2 bilhões com os desvios investigados pela Lava Jato, calculado como 3% do valor dos contratos envolvidos. O resultado líquido de 2014 ficou negativo em R$ 21,6 bilhões; os ajustes de ativos somaram R$ 50,8 bilhões (os R$ 6,2 bilhões de gastos capitalizados indevidamente e R$ 44,6 bilhões de desvalorização de ativos). O exercício é do governo Dilma Rousseff.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Petrobras perde R$ 6,2 bi com corrupção e prejuízo soma R$ 21,6 bi em 2014\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2015-04/petrobras-teve-prejuizo-de-r-216-bilhoes-no-ano-passado",
+    "fonte_data": "2015-04-22",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-tcu-cartel",
+    "data": "2020-06-17",
+    "titulo": "TCU: cartel de empreiteiras causou prejuízo de R$ 12,3 bilhões (mais de R$ 18 bilhões atualizados)",
+    "texto": "Estudo econométrico aprovado pelo Tribunal de Contas da União (Acórdão 1568/2020 – Plenário, relator ministro Benjamin Zymler) apurou os prejuízos do cartel que atuou em contratações da Petrobras entre 2004 e 2012: R$ 12,3 bilhões, valor que, atualizado e com juros, superava R$ 18 bilhões. O estudo cobre 24 empresas e excluiu os aditivos contratuais. O período abrange os governos Lula (2004–2010) e Dilma (2011–2012).",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Tribunal de Contas da União – \"TCU aponta que cartel causou prejuízos de R$ 18 bilhões à Petrobras\"",
+    "fonte_url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-aponta-que-cartel-causou-prejuizos-de-r-18-bilhoes-a-petrobras",
+    "fonte_data": "2020-06",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-odebrecht-leniencia",
+    "data": "2016-12-01",
+    "titulo": "Odebrecht assina acordo de leniência com multa de cerca de R$ 6,8 bilhões",
+    "texto": "A Odebrecht assinou acordo de leniência com a força-tarefa da Lava Jato em 1º de dezembro de 2016, comprometendo-se a revelar práticas ilícitas e a pagar multa em torno de R$ 6,8 bilhões. Em comunicado, a empresa pediu desculpas ao país e admitiu \"práticas impróprias\". Em 30 de janeiro de 2017, a presidente do STF, ministra Cármen Lúcia, homologou as delações de 77 executivos e ex-funcionários da empresa, com mais de 800 depoimentos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Acordo de leniência assinado e delações homologadas. Homologação valida o acordo, não o conteúdo de cada relato.",
+    "fonte_nome": "Agência Brasil – \"Odebrecht assina acordo de leniência e pagará R$ 6,8 bilhões em multas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-12/odebrecth-assina-acordo-de-leniencia-e-pagara-r-68-bilhoes-em-multas",
+    "fonte_data": "2016-12-01",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Cármen Lúcia homologa delações da Odebrecht na Lava Jato\"",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-01/carmen-lucia-homologa-delacoes-da-odebrecht-na-lava-jato",
+        "data": "2017-01-30"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-leo-pinheiro",
+    "data": "2017-04-20",
+    "titulo": "Léo Pinheiro (OAS) afirma que Lula pediu a destruição de provas",
+    "texto": "Em depoimento ao juiz Sérgio Moro na ação do triplex, o ex-presidente da OAS disse que Lula pediu para destruir provas que pudessem fazer referência ao suposto pagamento de propina ao PT. Pinheiro negociava acordo de delação premiada, ainda não fechado na data. A defesa de Lula afirmou que ele contou uma \"versão acordada com o MPF\" para ter a delação aceita e chamou o relato de \"versão fabricada\".",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "Depoimento de corréu em ação penal posteriormente anulada pelo STF (2021). Afirmação contestada pela defesa.",
+    "fonte_nome": "Agência Brasil – \"Ex-presidente da OAS diz que Lula pediu para destruir provas da Lava Jato\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-04/ex-presidente-da-oas-diz-que-lula-pediu-para-destruir-provas-da-lava-jato",
+    "fonte_data": "2017-04-20",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-balanco-5-anos",
+    "data": "2019-03-17",
+    "titulo": "Cinco anos de operação: 242 condenações contra 155 pessoas",
+    "texto": "Segundo o Ministério Público Federal no Paraná, em cinco anos a Lava Jato em Curitiba resultou em 242 condenações contra 155 pessoas, em 50 processos sentenciados, por crimes como corrupção ativa e passiva, lavagem de dinheiro, fraude à licitação e organização criminosa. Parte dessas condenações foi anulada depois pelo STF.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Balanço de março de 2019. Várias condenações foram anuladas posteriormente (ver seção PT: condenados, presos e alianças).",
+    "fonte_nome": "Agência Brasil – \"Lava Jato completa cinco anos com 155 pessoas condenadas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-03/lava-jato-completa-cinco-anos-com-155-pessoas-condenadas",
+    "fonte_data": "2019-03-16",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "lj-valores-recuperados",
+    "data": "2021-12-28",
+    "titulo": "Valores devolvidos: Petrobras recuperou cerca de R$ 6,17 bilhões até 2021",
+    "texto": "A Petrobras informou que chegaria ao fim de 2021 com cerca de R$ 6,17 bilhões acumulados em recursos recuperados por meio de acordos de leniência, repatriações e delações premiadas, dos quais mais de R$ 1,2 bilhão naquele ano.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Petrobras supera R$ 6 bilhões em recursos recuperados da Lava Jato\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/petrobras-supera-r-6-bilhoes-em-recursos-recuperados-da-lava-jato",
+    "fonte_data": "2021-12-28",
+    "verificado_em": "2026-10-04"
+  }
+]

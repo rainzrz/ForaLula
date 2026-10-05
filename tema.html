@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tema – Dossiê Lula e PT</title>
+  <link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+  <header id="cabecalho"></header>
+  <section class="capa"><div class="largura">
+    <h1 id="titulo"></h1>
+    <p class="lide" id="escopo"></p>
+  </div></section>
+  <main class="largura">
+
+    <div class="filtros" id="filtros">
+      <div class="filtros-linha">
+        <input type="search" id="busca" placeholder="Buscar neste tema" aria-label="Buscar neste tema">
+      </div>
+      <div class="filtros-linha" id="filtro-classificacao" role="group" aria-label="Filtrar por classificação"></div>
+      <span class="fonte-data" id="contagem" aria-live="polite"></span>
+    </div>
+
+    <div id="conteudo"></div>
+  </main>
+  <footer class="rodape"><div class="largura">
+    <div id="rodape-fontes"></div>
+    <div id="rodape"></div>
+  </div></footer>
+  <script type="module" src="assets/js/tema.js"></script>
+</body>
+</html>

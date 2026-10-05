@@ -1,0 +1,158 @@
+[
+  {
+    "id": "bn-calotes",
+    "data": "2024-12",
+    "titulo": "Calotes de Venezuela, Cuba e Moçambique somam US$ 1,2 bilhão",
+    "texto": "Segundo o próprio BNDES, nos financiamentos a exportações de bens e serviços de engenharia para obras no exterior houve inadimplências de US$ 1,2 bilhão até dezembro de 2024, em vendas para Venezuela, Cuba e Moçambique. O banco afirma que não teve prejuízo porque foi integralmente ressarcido pelo Seguro de Crédito à Exportação, lastreado no Fundo de Garantia à Exportação (FGE), cujas receitas e despesas transitam pela Conta Única da União. O BNDES sustenta que o patrimônio do fundo é mais de cinco vezes maior que o total de indenizações pagas.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "BNDES – Perguntas e respostas sobre apoio à exportação",
+    "fonte_url": "https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/exportacao/perguntas-e-respostas-apoio-exportacao",
+    "fonte_data": "s.d.",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "bn-credito-2018",
+    "data": "2018-05-02",
+    "titulo": "Congresso libera R$ 1,16 bilhão para cobrir dívidas não pagas por Venezuela e Moçambique",
+    "texto": "O Congresso aprovou em 2 de maio de 2018 crédito suplementar de R$ 1,16 bilhão para o Fundo de Garantia à Exportação. Segundo o governo Temer, o recurso serviria para pagar garantias dadas pelo Tesouro a dívidas não quitadas por Venezuela e Moçambique, entre outros países, na contratação de serviços e produtos de empresas brasileiras.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Congresso aprova crédito para cobrir dívida deixada pela Venezuela\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-05/congresso-aprova-credito-para-cobrir-dividas-deixada-por-venezuela",
+    "fonte_data": "2018-05-03",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "bn-dyogo",
+    "data": "2018-09-18",
+    "titulo": "Presidente do BNDES em 2018: empréstimos a Cuba e Venezuela \"provavelmente não deveriam ter sido feitos\"",
+    "texto": "Dyogo Oliveira, presidente do BNDES no governo Temer, afirmou que a dívida dos dois países com o banco era de aproximadamente US$ 1 bilhão e declarou: \"Olhando hoje, fica claro que eles [Cuba e Venezuela] não tinham condições de pagar. Provavelmente não deveriam ter sido feitos, mas agora temos que ir atrás do dinheiro\". Segundo ele, a inadimplência não trazia grande impacto aos resultados do banco.",
+    "destaque": true,
+    "classificacao": "analise",
+    "fonte_nome": "Agência Brasil – \"BNDES: empréstimos para Cuba e Venezuela não deveriam ter sido feitos\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-09/bndes-emprestimos-para-cuba-e-venezuela-nao-deveriam-ter-sido-feitos",
+    "fonte_data": "2018-09-18",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "bn-jbs-bullish",
+    "data": "2017-05-12",
+    "titulo": "JBS: Operação Bullish investiga aportes do BNDES ao grupo",
+    "texto": "A Polícia Federal deflagrou em 12 de maio de 2017 a Operação Bullish para investigar fraudes e irregularidades em aportes do BNDES, com suspeita de favorecimento ao grupo JBS; foram 37 mandados de condução coercitiva e 20 de busca e apreensão.",
+    "destaque": true,
+    "classificacao": "acusacao",
+    "status_juridico": "MPF denunciou 12 pessoas em março de 2019. Em 23/05/2019 a Justiça Federal rejeitou a denúncia contra cinco funcionários do BNDES. Em 16/03/2023, Guido Mantega, Luciano Coutinho e Leonardo Mantega foram ABSOLVIDOS por falta de provas (12ª Vara Federal de Brasília). Situação dos demais denunciados não verificada por este site.",
+    "fonte_nome": "Agência Brasil – \"PF investiga fraudes em aportes de R$ 8,1 bilhões do BNDES ao grupo JBS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2017-05/policia-federal-investiga-fraudes-em-desembolsos-do-bndes",
+    "fonte_data": "2017-05-12",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Mantega e Coutinho são absolvidos em processo de empréstimos do BNDES\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/mantega-e-coutinho-sao-absolvidos-em-processo-de-emprestimos-do-bndes",
+        "data": "2023-03-16"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "bn-jbs-tcu",
+    "data": "2017-10-19",
+    "titulo": "JBS: auditoria do TCU estimou prejuízo de R$ 304 milhões; o tribunal depois concluiu que não houve débito",
+    "texto": "Auditoria do TCU apontou em 2017 indícios de irregularidade na compra de ações da JBS pela BNDESPar em 2008, com ágio de até 20%, e estimou prejuízo inicial de R$ 179,6 milhões (R$ 304 milhões atualizados). Ao julgar tomada de contas especial sobre o aporte para a compra da Swift, porém, o TCU concluiu pela inexistência dos débitos, acolheu as defesas e julgou regulares as contas dos responsáveis.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Tomada de contas especial julgada pelo TCU: débitos inexistentes, contas regulares.",
+    "fonte_nome": "Agência Brasil – \"TCU estima que BNDES teve prejuízo de R$ 304 milhões ao investir na JBS\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2017-10/tcu-estima-que-bndes-teve-prejuizo-de-r-304-mi-ao-investir-na-jbs",
+    "fonte_data": "2017-10-19",
+    "fontes_adicionais": [
+      {
+        "nome": "Tribunal de Contas da União – \"Compra de ações da empresa JBS pela BNDES Participações não gerou débitos\"",
+        "url": "https://portal.tcu.gov.br/imprensa/noticias/compra-de-acoes-da-empresa-jbs-pela-bndes-participacoes-nao-gerou-debitos",
+        "data": "s.d."
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "bn-saldo-2023",
+    "data": "2023-01-23",
+    "titulo": "Cuba e Venezuela: situação dos empréstimos em janeiro de 2023",
+    "texto": "Dados do BNDES reunidos pela CNN Brasil em 23 de janeiro de 2023: dos US$ 656 milhões emprestados a Cuba nos governos Lula e Dilma, US$ 214 milhões em atraso já haviam sido indenizados ao banco pelo Fundo de Garantia à Exportação (FGE), US$ 13 milhões estavam por indenizar e US$ 407 milhões ainda iam vencer. No caso da Venezuela, de um total de US$ 1,5 bilhão, o FGE havia coberto US$ 641 milhões não pagos, US$ 41 milhões estavam por indenizar e US$ 122 milhões ainda iam vencer. Os dois países ainda deviam US$ 529 milhões, 25% do total emprestado a eles.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Venezuela e Cuba ainda devem US$ 529 milhões ao Brasil de empréstimos do BNDES\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/venezuela-e-cuba-ainda-devem-us-529-milhoes-ao-brasil-de-emprestimos-do-bndes/",
+    "fonte_data": "2023-01-23",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "bn-jbs-absolvicao",
+    "data": "2023-03-16",
+    "titulo": "JBS: Mantega e Luciano Coutinho são absolvidos por falta de provas",
+    "texto": "O MPF denunciou 12 pessoas em março de 2019 por supostas fraudes em aportes do BNDES ao grupo JBS entre 2007 e 2011, com prejuízo estimado em R$ 1,8 bilhão; entre os denunciados estavam Joesley Batista, os ex-ministros Guido Mantega e Antonio Palocci e o ex-presidente do banco Luciano Coutinho. Em 23 de maio de 2019, a Justiça Federal rejeitou a denúncia contra cinco funcionários do BNDES. Em 16 de março de 2023, o juiz Marcus Vinicius Reis Bastos, da 12ª Vara Federal de Brasília, absolveu Guido Mantega, Luciano Coutinho e Leonardo Mantega: afirmou que o pagamento de propina não foi \"em momento algum provado nos autos\" e que o MPF sustentou a acusação \"unicamente nas declarações – genéricas e vazias – do colaborador Joesley Batista\".",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "ABSOLVIDOS em primeira instância em 16/03/2023 (12ª Vara Federal de Brasília), por falta de provas. Eventual recurso não verificado por este site.",
+    "fonte_nome": "Agência Brasil – \"Mantega e Coutinho são absolvidos em processo de empréstimos do BNDES\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/mantega-e-coutinho-sao-absolvidos-em-processo-de-emprestimos-do-bndes",
+    "fonte_data": "2023-03-16",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"MPF denuncia 12 por fraudes em aportes do BNDES para JBS\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-03/mpf-denuncia-12-por-fraudes-em-aportes-do-bndes-para-jbs",
+        "data": "2019-03-14"
+      },
+      {
+        "nome": "Agência Brasil – \"Justiça rejeita denúncia do MPF a cinco funcionários do BNDES\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-05/justica-rejeita-denuncia-do-mpf-cinco-funcionarios-do-bndes",
+        "data": "2019-05-23"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "bn-tesouro",
+    "data": "2023-02-06",
+    "titulo": "Tesouro emitiu cerca de R$ 430 bilhões em títulos para o BNDES entre 2008 e 2014",
+    "texto": "Entre 2008 e 2014 (governos Lula e Dilma), o Tesouro Nacional fez emissões diretas de títulos em favor do BNDES da ordem de R$ 430 bilhões, segundo o TCU. O ministro José Múcio registrou que grande parte dos empréstimos do banco tinha remuneração \"significativamente inferior\" aos juros pagos pelo Tesouro para captar, \"gerando um ônus para o Tesouro\". O principal mecanismo foi o Programa de Sustentação do Investimento (PSI), criado na crise de 2008, em que o banco emprestava a juros menores que a Selic. Em 2023, a nova direção do BNDES afirmou que não estava em pauta voltar a usar recursos do Tesouro.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Crédito subsidiado no BNDES foi caro e pouco efetivo, e mercado teme seu retorno\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/credito-subsidiado-no-bndes-foi-caro-e-pouco-efetivo-e-mercado-teme-seu-retorno/",
+    "fonte_data": "2023-02-06",
+    "fontes_adicionais": [
+      {
+        "nome": "TCU – \"TCU analisa gestão da dívida pública\"",
+        "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-analisa-gestao-da-divida-publica",
+        "data": "s.d."
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "bn-exportacao",
+    "data": "2019-04-05",
+    "titulo": "Obras no exterior: US$ 10,5 bilhões financiados, US$ 518 milhões em atraso em 2019",
+    "texto": "Dados divulgados pelo próprio BNDES: entre 1998 e março de 2019, o banco financiou US$ 10,499 bilhões em exportações de serviços de engenharia para 15 países. Os principais destinos foram Angola (US$ 3,27 bilhões), Argentina (US$ 2 bilhões), Venezuela (US$ 1,5 bilhão) e República Dominicana (US$ 1,2 bilhão). Em 31 de março de 2019, o saldo devedor era de US$ 3,119 bilhões, com US$ 518 milhões em prestações atrasadas. O período abrange os governos FHC, Lula, Dilma e Temer e o início do governo Bolsonaro. Segundo o banco, esses financiamentos representaram 1,3% dos seus desembolsos entre 2003 e 2018, e em caso de calote o BNDES é ressarcido pelas garantias.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"BNDES financia US$ 10 bi para exportação de serviços de engenharia\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-04/bndes-financia-us-10-bi-para-exportacao-de-servicos-de-engenharia",
+    "fonte_data": "2019-04-05",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "bn-eike",
+    "data": "2015-11-17",
+    "titulo": "Grupo EBX, de Eike Batista: R$ 10,4 bilhões aprovados, cerca de R$ 6 bilhões liberados",
+    "texto": "O então presidente do BNDES, Luciano Coutinho, informou ao Senado em agosto de 2015 que os empréstimos do banco às empresas de Eike Batista somaram cerca de R$ 6 bilhões, de um total de R$ 10,4 bilhões aprovados. Na CPI do BNDES, em 17 de novembro de 2015, Eike afirmou que os financiamentos foram pagos com juros e garantias e que \"o BNDES teve prejuízo zero\". Este site não verificou, em fonte oficial, se o banco teve perdas com participações acionárias no grupo.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Na CPI do BNDES, Eike Batista diz que banco não teve prejuízo com suas empresas\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-11/na-cpi-do-bndes-eike-batista-diz-que-banco-nao-teve-prejuizo-com-suas-empresas",
+    "fonte_data": "2015-11-17",
+    "verificado_em": "2026-10-05"
+  }
+]

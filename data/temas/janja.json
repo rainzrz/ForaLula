@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ja-roma",
+    "data": "2025-02-26",
+    "titulo": "Viagem a Roma: cerca de R$ 292,3 mil em passagens e diárias",
+    "texto": "Em viagem a Roma para a 48ª Sessão do Conselho de Governança do Fida, órgão vinculado à ONU, a primeira-dama Janja da Silva e assessores gastaram aproximadamente R$ 292,3 mil em passagens aéreas e diárias; a comitiva tinha 12 integrantes, e só as passagens da primeira-dama custaram R$ 34 mil. O deputado Kim Kataguiri (União-SP) acionou a CGU, argumentando que ela não tem cargo oficial que justifique o uso de dinheiro público.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Representação apresentada à CGU em 26/02/2025. Desfecho não verificado por este site.",
+    "fonte_nome": "CNN Brasil – \"Kim Kataguiri aciona CGU para apurar gastos de viagem de Janja a Roma\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/kim-kataguiri-aciona-cgu-para-apurar-gastos-de-viagem-de-janja-a-roma/",
+    "fonte_data": "2025-02-26",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ja-tcu",
+    "data": "2025-03-19",
+    "titulo": "TCU rejeita, por unanimidade, pedido de auditoria sobre as viagens",
+    "texto": "Em 19 de março de 2025, o Tribunal de Contas da União rejeitou por unanimidade o pedido de auditoria do deputado Gustavo Gayer (PL-GO) sobre os custos das viagens da primeira-dama.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Pedido de auditoria REJEITADO pelo TCU (19/03/2025).",
+    "fonte_nome": "CNN Brasil – \"TCU arquiva pedido de Gayer para investigar viagens de Janja\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/tcu-arquiva-pedido-de-gayer-para-investigar-viagens-de-janja/",
+    "fonte_data": "2025-03-19",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ja-agu",
+    "data": "2025-04-04",
+    "titulo": "Papel informal: AGU edita regras para o cônjuge do presidente após questionamentos",
+    "texto": "Depois de a primeira-dama ser alvo de questionamentos no TCU e na PGR, a Advocacia-Geral da União divulgou, a pedido da Casa Civil, orientações sobre a atuação do cônjuge do presidente em compromissos nacionais e internacionais. Para a AGU, essa atuação tem natureza jurídica própria, decorrente do vínculo civil com o chefe de Estado.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Após cobrança sobre Janja, AGU define regras de viagens de cônjuges\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/apos-cobranca-sobre-janja-agu-define-regras-de-viagens-de-conjuges/",
+    "fonte_data": "2025-04-04",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ja-paris",
+    "data": "2024-08-07",
+    "titulo": "Olimpíada de Paris: ao menos R$ 203,6 mil com a comitiva",
+    "texto": "O governo gastou ao menos R$ 203,6 mil com a comitiva da primeira-dama na abertura dos Jogos de Paris, em 2024, em que ela representou o presidente. As passagens de Janja, em classe executiva, custaram R$ 83,4 mil; ela não recebeu diárias. Cinco assessores viajaram em classe econômica (R$ 64,8 mil em passagens e R$ 55,1 mil em diárias). Houve ainda R$ 113,8 mil em passagens de oito agentes da Polícia Federal no mesmo período; a lei autoriza a segurança de familiares do presidente. Não havia informação sobre gastos com hotel.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Governo gasta mais de R$ 200 mil para Janja ir à Olimpíada\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/governo-gasta-mais-de-r-200-mil-para-janja-ir-as-olimpiadas/",
+    "fonte_data": "2024-08-07",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ja-tcu-2026",
+    "data": "2026-07-20",
+    "titulo": "TCU arquiva dois processos sobre viagens internacionais",
+    "texto": "Em julho de 2026, o TCU arquivou dois processos contra a primeira-dama. No caso de uma viagem aos Estados Unidos, relatado pelo ministro Jorge Oliveira, as acusações foram consideradas improcedentes; o tribunal não identificou \"elementos aptos a caracterizar desvio de finalidade ou irregularidade na utilização de recursos públicos\". No segundo, relatado por Bruno Dantas, o TCU registrou que as viagens estavam amparadas por decretos específicos.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "Processos ARQUIVADOS pelo TCU (julho de 2026).",
+    "fonte_nome": "CNN Brasil – \"TCU arquiva processos contra Janja sobre viagens internacionais\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/tcu-arquiva-processos-contra-janja-sobre-viagens-internacionais/",
+    "fonte_data": "2026-07-20",
+    "verificado_em": "2026-10-05"
+  }
+]

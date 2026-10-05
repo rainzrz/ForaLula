@@ -1,0 +1,105 @@
+[
+  {
+    "id": "ed-correios-serie",
+    "data": "2026-04-23",
+    "titulo": "Correios: de lucro de R$ 3,7 bilhões (2021) a prejuízo de R$ 8,5 bilhões (2025)",
+    "texto": "Resultados dos Correios por ano, segundo a CNN Brasil: 2020, lucro de R$ 1,5 bilhão; 2021, lucro de R$ 3,7 bilhões; 2022, prejuízo de R$ 767,58 milhões (governo Bolsonaro); 2023, prejuízo de R$ 596,6 milhões; 2024, prejuízo de R$ 2,6 bilhões; 2025, prejuízo de R$ 8,5 bilhões (governo Lula). O patrimônio líquido fechou 2025 negativo em R$ 13,1 bilhões. A empresa atribuiu o resultado de 2025 a provisões para obrigações judiciais, entre outros fatores.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Correios triplicam prejuízo em 2025, 4º ano seguido de resultado negativo\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/negocios/com-resultado-de-2025-correios-registram-prejuizo-pelo-4o-ano-seguido/",
+    "fonte_data": "2026-04-23",
+    "verificado_em": "2026-10-05",
+    "grafico": {
+      "titulo": "Resultado dos Correios por ano, em R$ bilhões (lucro positivo, prejuízo negativo)",
+      "rotulos": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "valores": [
+        1.5,
+        3.7,
+        -0.77,
+        -0.6,
+        -2.6,
+        -8.5
+      ]
+    }
+  },
+  {
+    "id": "ed-retirada-privatizacao",
+    "data": "2023-04-06",
+    "titulo": "Dez estatais retiradas dos programas de privatização",
+    "texto": "Por decreto publicado em 6 de abril de 2023, Lula determinou a retirada de 10 empresas públicas federais de programas de privatização, entre elas Correios, EBC, Dataprev e Serpro. A medida era promessa de campanha e constava do relatório da equipe de transição.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Governo exclui EBC, Correios, Serpro e outras estatais de privatização\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-04/governo-exclui-ebc-correios-serpro-e-outras-estatais-de-privatizacao",
+    "fonte_data": "2023-04-07",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ed-emprestimo-20bi",
+    "data": "2025-12-03",
+    "titulo": "Socorro: empréstimo de R$ 20 bilhões com garantia da União é reprovado pelo Tesouro",
+    "texto": "O Conselho de Administração dos Correios aprovou em 29 de novembro de 2025 um empréstimo de R$ 20 bilhões com um grupo de cinco bancos (Banco do Brasil, Citibank, BTG Pactual, ABC Brasil e Safra), com garantia da União. O Tesouro Nacional reprovou a operação: os bancos pediam juros de 136% do CDI, acima do limite de 120% do CDI para operações com garantia da União de dez anos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Tesouro reprova empréstimo de R$ 20 bilhões aos Correios\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/tesouro-reprova-emprestimo-de-r-20-bilhoes-aos-correios",
+    "fonte_data": "2025-12-03",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ed-deficit-2024",
+    "data": "2025-01-31",
+    "titulo": "Estatais fecham 2024 com déficit de R$ 8,07 bilhões, o pior da série do Banco Central",
+    "texto": "As estatais registraram déficit primário de R$ 8,073 bilhões em 2024, o pior resultado da série das Estatísticas Fiscais do Banco Central. Em 2023 o déficit havia sido de R$ 2,2 bilhões; em 2022, houve superávit de R$ 6,1 bilhões. Segundo reportagem de outubro de 2024 sobre a mesma série, o número reúne empresas federais e estaduais: de janeiro a agosto de 2024, as federais respondiam por R$ 3,3 bilhões do déficit e as estaduais, por R$ 3,8 bilhões.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Estatais registram em 2024 pior déficit da história\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/estatais-registram-em-2024-pior-deficit-da-historia/",
+    "fonte_data": "2025-01-31",
+    "fontes_adicionais": [
+      {
+        "nome": "CNN Brasil – \"Estatais têm rombo de R$ 7,2 bi em 2024, o maior em 22 anos\"",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/estatais-tem-rombo-de-r-72-bi-em-2024-o-maior-em-22-anos/",
+        "data": "2024-10-10"
+      }
+    ],
+    "verificado_em": "2026-10-05",
+    "grafico": {
+      "titulo": "Resultado primário das estatais, em R$ bilhões (2014–2024)",
+      "rotulos": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "valores": [
+        -4.2,
+        -4.3,
+        -1,
+        0.4,
+        4.4,
+        11.8,
+        3.6,
+        2.9,
+        6.1,
+        -2.2,
+        -8.1
+      ]
+    }
+  }
+]

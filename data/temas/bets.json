@@ -1,0 +1,95 @@
+[
+  {
+    "id": "be-2018-legalizacao",
+    "data": "2018-12-12",
+    "titulo": "Legalização: Lei 13.756, de 12 de dezembro de 2018 (governo Temer)",
+    "texto": "A Lei 13.756/2018 criou no artigo 29 a modalidade lotérica \"apostas de quota fixa\". A lei foi sancionada no governo Michel Temer; não é uma medida do governo Lula.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República – Lei nº 13.756, de 12 de dezembro de 2018",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
+    "fonte_data": "2018-12-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2023-regulamentacao",
+    "data": "2023-12-30",
+    "titulo": "Regulamentação: Lei 14.790, sancionada em 30 de dezembro de 2023 (governo Lula)",
+    "texto": "A Lei 14.790/2023, originada do PL 3.626/2023, de autoria do Executivo, regulamentou as apostas de quota fixa, as bets. Segundo a Agência Senado, a norma preencheu uma lacuna existente no mercado de apostas.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Senado – \"Regras para apostas: veja o que muda com a nova lei\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2024/01/05/regras-para-apostas-veja-o-que-muda-com-a-nova-lei",
+    "fonte_data": "2024-01-05",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2024-bolsa-familia",
+    "data": "2024-08",
+    "titulo": "Banco Central: beneficiários do Bolsa Família enviaram R$ 3 bilhões a bets em um mês",
+    "texto": "Nota técnica do Banco Central, feita a pedido do senador Omar Aziz (PSD-AM), estimou que beneficiários do Bolsa Família gastaram R$ 3 bilhões em bets via Pix em agosto de 2024: cerca de 5 milhões de um total aproximado de 20 milhões de beneficiários apostaram, com gasto médio de R$ 100. No total da população, as transferências mensais para bets variaram entre R$ 18 bilhões e R$ 21 bilhões; em agosto foram R$ 20,8 bilhões, mais de dez vezes o R$ 1,9 bilhão arrecadado pelas loterias da Caixa. Naquele mês, o Bolsa Família pagou R$ 14,12 bilhões a 20,76 milhões de beneficiários.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Beneficiários do Bolsa Família gastaram R$ 3 bi em bets em agosto\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-09/beneficiarios-do-bolsa-familia-gastaram-r-3-bi-em-bets-em-agosto",
+    "fonte_data": "2024-09-24",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2025-cpi",
+    "data": "2025-06-10",
+    "titulo": "CPI das Bets: crimes e redução do consumo das famílias mais pobres",
+    "texto": "O relatório final da CPI das Bets no Senado, de 541 páginas, apresentado pela relatora Soraya Thronicke (Podemos-MS), identificou crimes de lavagem de dinheiro, evasão fiscal, organização criminosa e manipulação algorítmica com possível fraude de resultados, e apontou as apostas on-line como responsáveis por redução do consumo das famílias, em especial das mais pobres.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Relatório de CPI (não é decisão judicial).",
+    "fonte_nome": "Agência Brasil – \"CPI das Bets: relatório aponta crimes e endividamento de famílias\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-06/cpi-das-bets-relatorio-aponta-crimes-e-endividamento-de-familias",
+    "fonte_data": "2025-06-10",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2025-arrecadacao",
+    "data": "2026-05-20",
+    "titulo": "Arrecadação: R$ 9 bilhões em tributos sobre apostas em 2025",
+    "texto": "A Receita Federal informou à Comissão de Finanças e Tributação da Câmara que a arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025. Na audiência, deputados cobraram transparência no uso dos recursos e alertaram para os impactos sociais dos jogos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Câmara – \"Receita Federal informa que arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025\"",
+    "fonte_url": "https://www.camara.leg.br/noticias/1274502-receita-federal-informa-que-arrecadacao-com-apostas-esportivas-foi-de-r$-9-bilhoes-em-2025",
+    "fonte_data": "2026-05-20",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2026-mp-proibicao",
+    "data": "2026-09-25",
+    "titulo": "Proibição por medida provisória, nove dias antes do primeiro turno",
+    "texto": "Em 25 de setembro de 2026, Lula assinou a Medida Provisória 1.394/2026, que altera a Lei 14.790/2023 e proíbe a exploração, oferta, intermediação e publicidade de apostas de quota fixa, com extinção das autorizações em 30 dias. O primeiro turno da eleição ocorreu em 4 de outubro de 2026, nove dias depois. Na exposição de motivos, o governo afirma que a experiência desde o início do mercado regulado mostrou que os mecanismos de controle não seriam suficientes para proteger a saúde, os consumidores e a estabilidade financeira das famílias; o próprio texto reconhece impacto negativo na arrecadação federal. A MP precisa ser aprovada pelo Congresso para virar lei em definitivo.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Medida provisória em vigor, pendente de votação no Congresso na data da fonte (28/09/2026).",
+    "fonte_nome": "Agência Senado – \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
+    "fonte_data": "2026-09-28",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"MP das Bets: veja o que muda e saiba datas para devolução de valores\"",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entenda-medida-provisoria-e-projeto-que-proibem-bets-no-brasil",
+        "data": "2026-09-26"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "be-2026-clubes",
+    "data": "2026-09-30",
+    "titulo": "Efeito no futebol: patrocínios de R$ 1,03 bilhão em 2025",
+    "texto": "Segundo a CNN Brasil, os patrocínios de casas de apostas movimentaram R$ 1,03 bilhão entre os clubes da Série A em 2025 (33% das receitas comerciais e 7,2% da receita total), e 14 dos 20 clubes tinham uma bet como patrocinadora máster. Após a MP, clubes passaram a discutir formas de reação, e a hipótese de paralisação do Campeonato Brasileiro circulou sem virar decisão.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Fim das bets pode paralisar o Brasileirão? Entenda o cenário\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fim-das-bets-pode-paralisar-o-brasileirao-entenda-o-cenario/",
+    "fonte_data": "2026-09-30",
+    "verificado_em": "2026-10-04"
+  }
+]

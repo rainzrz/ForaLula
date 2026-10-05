@@ -1,0 +1,155 @@
+[
+  {
+    "id": "pc-dirceu-mensalao",
+    "data": "2012-11-12",
+    "titulo": "José Dirceu (ex-ministro da Casa Civil) – mensalão",
+    "texto": "Condenado pelo STF na Ação Penal 470 a 7 anos e 11 meses por corrupção ativa. A condenação por formação de quadrilha (2 anos e 11 meses) foi revertida nos embargos infringentes em 2014.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado (corrupção ativa). Punibilidade extinta por indulto em 17/10/2016.",
+    "fonte_nome": "Supremo Tribunal Federal – \"Indulto extingue a punibilidade de José Dirceu na AP 470\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/",
+    "fonte_data": "2016-10-17",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-dirceu-lava-jato",
+    "data": "2016-05-18",
+    "titulo": "José Dirceu – Lava Jato",
+    "texto": "Condenado em primeira instância pelo juiz Sérgio Moro a 23 anos e três meses de prisão por corrupção, lavagem de dinheiro e pertinência a organização criminosa. Em 28 de outubro de 2024, o ministro Gilmar Mendes (STF) anulou as condenações oriundas da Lava Jato, excluindo todos os atos processuais praticados por Moro contra Dirceu. Em 17 de dezembro de 2024, o STJ encerrou os dois processos; com isso, Dirceu pode recuperar os direitos políticos.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenações ANULADAS pelo STF em 28/10/2024 (atos do ex-juiz Sérgio Moro). Processos encerrados no STJ em 17/12/2024. Não houve absolvição no mérito.",
+    "fonte_nome": "Agência Brasil – \"Dirceu é condenado a 23 anos de prisão por corrupção e lavagem de dinheiro\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-05/dirceu-e-condenado-23-anos-de-prisao-por-corrupcao-e-lavagem-de-dinheiro",
+    "fonte_data": "2016-05-18",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"STJ encerra processos da Lava Jato contra ex-ministro José Dirceu\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-12/stj-encerra-processos-da-lava-jato-contra-ex-ministro-jose-dirceu",
+        "data": "2024-12-17"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-genoino",
+    "data": "2012-11-12",
+    "titulo": "José Genoino (ex-presidente do PT) – mensalão",
+    "texto": "Condenado pelo STF na Ação Penal 470 a 4 anos e 8 meses por corrupção ativa, mais 180 dias-multa. A pena de 2 anos e 3 meses por formação de quadrilha foi fixada em 2012; Genoino está entre os réus absolvidos desse crime em 2014.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado por corrupção ativa (AP 470).",
+    "fonte_nome": "Supremo Tribunal Federal – \"STF fixa pena de Genoino por formação de quadrilha e corrupção ativa\"",
+    "fonte_url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-pena-de-genoino-por-formacao-de-quadrilha-e-corrupcao-ativa/",
+    "fonte_data": "2012-11-12",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-delubio",
+    "data": "2016-03-10",
+    "titulo": "Delúbio Soares (ex-tesoureiro do PT) – mensalão",
+    "texto": "Condenado na Ação Penal 470; cumpria pena de seis anos e oito meses em regime semiaberto quando recebeu o perdão da pena, concedido pelo ministro Luís Roberto Barroso em 10 de março de 2016.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Condenado; pena extinta por indulto em 10/03/2016.",
+    "fonte_nome": "Agência Brasil – \"STF concede perdão de pena ao ex-tesoureiro do PT Delúbio Soares\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/stf-concede-perdao-de-pena-ao-ex-tesoureiro-do-pt-delubio-soares",
+    "fonte_data": "2016-03-10",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-vaccari",
+    "data": "2015-09-21",
+    "titulo": "João Vaccari Neto (ex-tesoureiro do PT) – Lava Jato",
+    "texto": "Condenado em primeira instância pelo juiz Sérgio Moro, em setembro de 2015, a 15 anos e quatro meses de reclusão por corrupção, lavagem de dinheiro e associação criminosa, em processo sobre a Petrobras. Em outro processo (caso Keppel Fels), em que havia sido condenado a 24 anos, o ministro Edson Fachin (STF) anulou a ação por incompetência da 13ª Vara Federal de Curitiba; a decisão é de 19 de dezembro de 2023, publicada em 9 de janeiro de 2024.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "ANULADO: em 15/08/2025, o ministro Dias Toffoli (STF) anulou todos os procedimentos contra Vaccari na Lava Jato, aplicando os precedentes que consideraram Sergio Moro parcial. A condenação de 24 anos (caso Keppel Fels) já havia sido anulada por Edson Fachin por incompetência do juízo. Anulação processual não é absolvição.",
+    "fonte_nome": "Agência Brasil – \"Juiz Sérgio Moro condena Vaccari, Duque e mais oito réus da Lava Jato\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-09/juiz-condena-vaccari-duque-e-mais-oito-reus-da-lava-jato",
+    "fonte_data": "2015-09-21",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"Fachin anula condenação de ex-tesoureiro do PT condenado na Lava Jato\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-01/fachin-anula-condenacao-de-ex-tesoureiro-do-pt-condenado-na-lava-jato",
+        "data": "2024-01-10"
+      },
+      {
+        "nome": "Agência Brasil – \"Toffoli anula atos de Moro contra Vaccari Neto na Lava Jato\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-08/toffoli-anula-atos-de-moro-contra-vaccari-neto-na-lava-jato",
+        "data": "2025-08-15"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-palocci",
+    "data": "2017-06-26",
+    "titulo": "Antonio Palocci (ex-ministro da Fazenda e da Casa Civil) – Lava Jato",
+    "texto": "Condenado em primeira instância pelo juiz Sérgio Moro a 12 anos, dois meses e 20 dias de prisão por corrupção passiva e lavagem de dinheiro. O ministro Dias Toffoli (STF) anulou os processos contra Palocci na Lava Jato; em 15 de agosto de 2025, a Segunda Turma manteve a anulação por 3 votos a 2 (Toffoli, Gilmar Mendes e Nunes Marques; vencidos André Mendonça e Edson Fachin).",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Processos ANULADOS pelo STF, decisão mantida pela Segunda Turma em 15/08/2025. Não houve absolvição no mérito.",
+    "fonte_nome": "Agência Brasil – \"Palocci é condenado a 12 anos de prisão por corrupção e lavagem de dinheiro\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-06/palocci-e-condenado-12-anos-de-prisao-por-corrupcao-e-lavagem-de-dinheiro",
+    "fonte_data": "2017-06-26",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Brasil – \"STF mantém decisão que anulou processo contra Palocci na Lava Jato\"",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-08/stf-mantem-decisao-que-anulou-processo-contra-palocci-na-lava-jato",
+        "data": "2025-08-15"
+      }
+    ],
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-quadrilhao-absolvicao",
+    "data": "2019-12-04",
+    "titulo": "\"Quadrilhão do PT\": Lula, Dilma, Palocci, Mantega e Vaccari absolvidos",
+    "texto": "A 10ª Vara Federal de Brasília (juiz Marcos Vinicius Reis Bastos) absolveu sumariamente os ex-presidentes Lula e Dilma Rousseff, os ex-ministros Antonio Palocci e Guido Mantega e o ex-tesoureiro João Vaccari Neto da acusação de organização criminosa. A denúncia, da Procuradoria-Geral da República, sustentava que o grupo teria atuado entre 2002 e 2016.",
+    "destaque": false,
+    "classificacao": "fato",
+    "status_juridico": "ABSOLVIDOS (absolvição sumária) em 04/12/2019.",
+    "fonte_nome": "Agência Brasil – \"Vara Federal absolve ex-presidentes por crime de organização criminosa\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-12/vara-federal-absolve-ex-presidentes-por-crime-de-organiza%C3%A7%C3%A3o-criminosa",
+    "fonte_data": "2019-12-04",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-alianca-2002",
+    "data": "2002",
+    "titulo": "Alianças – eleição de 2002: PT, PL, PCdoB, PCB e PMN",
+    "texto": "A Convenção Nacional do PT aprovou em junho de 2002 a aliança PT, PL, PCdoB, PCB e PMN. O vice na chapa foi o senador José Alencar, do PL de Minas Gerais.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Presidência da República (Biblioteca da Presidência) – Biografia de Luiz Inácio Lula da Silva",
+    "fonte_url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/luiz-inacio-lula-da-silva-2/biografia",
+    "fonte_data": "2026-08-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "pc-alianca-maluf",
+    "data": "2012",
+    "titulo": "Alianças – 2012: Paulo Maluf (PP) apoia Fernando Haddad em São Paulo",
+    "texto": "Em 2012, ao lado de Lula, o deputado Paulo Maluf anunciou o apoio do seu partido, o Progressistas, à chapa de Fernando Haddad (PT) à Prefeitura de São Paulo. Haddad foi eleito.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Alckmin, Maluf, Marta: relembre movimentos políticos de Lula com críticos do PT\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/alckmin-maluf-marta-relembre-movimentos-politicos-de-lula-com-criticos-do-pt/",
+    "fonte_data": "2024-01-12",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "pc-alianca-centrao",
+    "data": "2023-08-04",
+    "titulo": "Alianças – 2023: PP e Republicanos, partidos do Centrão, entram no ministério",
+    "texto": "Em agosto de 2023, o ministro Alexandre Padilha afirmou que Lula havia decidido convidar os deputados André Fufuca (PP-MA) e Silvio Costa Filho (Republicanos-PE) para ministérios. Segundo a CNN Brasil, com os dois partidos a base do governo poderia chegar a 374 dos 513 deputados.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Lula já decidiu convidar Fufuca e Silvio Costa Filho para ministérios, diz Padilha\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/lula-ja-decidiu-convidar-fufuca-e-costa-filho-para-ministerios-diz-padilha/",
+    "fonte_data": "2023-08-04",
+    "verificado_em": "2026-10-05"
+  }
+]

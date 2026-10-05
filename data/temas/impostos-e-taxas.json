@@ -1,0 +1,94 @@
+[
+  {
+    "id": "im-carga-2024",
+    "data": "2025-03-28",
+    "titulo": "Carga tributária sobe de 30,26% para 32,32% do PIB em 2024",
+    "texto": "A prévia da carga tributária bruta do governo geral, divulgada pelo Tesouro Nacional, subiu para 32,32% do PIB em 2024, ante 30,26% em 2023: alta de 2,06 pontos percentuais. Segundo o Tesouro, o principal fator foi o crescimento da economia, que elevou a arrecadação dos tributos sobre bens e serviços.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Prévia da carga tributária sobe para 32,32% do PIB em 2024\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-03/previa-da-carga-tributaria-sobe-para-3232-do-pib-em-2024",
+    "fonte_data": "2025-03-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "im-blusinhas",
+    "data": "2024-06-28",
+    "titulo": "\"Taxa das blusinhas\": 20% de Imposto de Importação em compras de até US$ 50",
+    "texto": "Lula sancionou, com vetos, a Lei 14.902/2024, que instituiu a cobrança de 20% de Imposto de Importação sobre compras internacionais de até US$ 50 a partir de 1º de agosto de 2024. A mesma lei criou o programa Mover.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Rádio Senado – \"Lula sanciona taxação de 20% nas compras internacionais de até 50 dólares\"",
+    "fonte_url": "https://www12.senado.leg.br/radio/1/noticia/2024/06/28/lula-sanciona-taxacao-de-20-nas-compras-internacionais-de-ate-50-dolares",
+    "fonte_data": "2024-06-28",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "im-iof-2025",
+    "data": "2025-07-16",
+    "titulo": "IOF: decreto de aumento, derrubada pelo Congresso e validação no STF",
+    "texto": "No fim de maio de 2025, Lula editou decreto que aumentava o IOF sobre operações de crédito, de seguros e de câmbio, como parte de medidas da Fazenda para reforçar as receitas e atender às metas do arcabouço fiscal. Em junho, o Congresso votou a suspensão do decreto. PSOL, PL e a Advocacia-Geral da União levaram o caso ao Supremo, e em 16 de julho de 2025 o ministro Alexandre de Moraes manteve a validade do decreto presidencial.",
+    "destaque": true,
+    "classificacao": "fato",
+    "status_juridico": "Decisão monocrática do STF de 16/07/2025 mantendo o decreto.",
+    "fonte_nome": "Agência Brasil – \"STF: Alexandre de Moraes decide validar decreto do IOF\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-07/stf-alexandre-de-moraes-decide-validar-decreto-do-iof",
+    "fonte_data": "2025-07-16",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "im-bets",
+    "data": "2026-05-20",
+    "titulo": "Tributação das bets rendeu R$ 9 bilhões em 2025",
+    "texto": "A Receita Federal informou à Câmara que a arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Câmara – \"Receita Federal informa que arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025\"",
+    "fonte_url": "https://www.camara.leg.br/noticias/1274502-receita-federal-informa-que-arrecadacao-com-apostas-esportivas-foi-de-r$-9-bilhoes-em-2025",
+    "fonte_data": "2026-05-20",
+    "verificado_em": "2026-10-04"
+  },
+  {
+    "id": "im-blusinhas-fim",
+    "data": "2026-09-03",
+    "titulo": "\"Taxa das blusinhas\": criada em 2024, zerada por medida provisória em maio de 2026",
+    "texto": "Lula assinou em 12 de maio de 2026 a MP 1.357, que autorizou o Ministério da Fazenda a zerar o Imposto de Importação sobre remessas internacionais de até US$ 50; a alíquota zero passou a valer em 13 de maio. O Congresso aprovou a MP em 3 de setembro de 2026 e o texto seguiu para sanção. O ICMS estadual continua sendo cobrado. A cobrança de 20% havia sido sancionada pelo próprio Lula em 2024, após acordo entre governo e Congresso. Segundo a CNN Brasil, o imposto rendeu R$ 2,88 bilhões entre agosto e dezembro de 2024, R$ 5 bilhões em 2025 e R$ 1,78 bilhão nos quatro primeiros meses de 2026; a Fazenda estima perda de arrecadação de R$ 1,94 bilhão em 2026, R$ 3,54 bilhões em 2027 e R$ 4,24 bilhões em 2028.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Entenda o que muda após Congresso aprovar fim da taxa das blusinhas\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-o-que-muda-apos-camara-aprovar-fim-da-taxa-das-blusinhas/",
+    "fonte_data": "2026-09-03",
+    "fontes_adicionais": [
+      {
+        "nome": "Agência Senado – \"Senado zera 'taxa das blusinhas' nas remessas internacionais de até US$ 50\"",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+        "data": "2026-09-03"
+      }
+    ],
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "im-iva",
+    "data": "2024-12-15",
+    "titulo": "Reforma tributária: alíquota estimada em 28,55%, acima dos 27% da Hungria",
+    "texto": "Depois das exceções incluídas no Senado na regulamentação da reforma tributária (PLP 68), o relator, Eduardo Braga (MDB-AM), apresentou cálculo preliminar de alíquota padrão de 28,55% para o Imposto sobre Valor Agregado (IVA). O índice supera o da Hungria, de 27%, o mais alto entre os países que cobram esse tipo de tributo. O texto que saiu da Câmara previa 27,97%. O cálculo parte da premissa de não elevar a carga tributária total: cada tratamento especial dado a um setor aumenta a alíquota dos demais. O texto prevê uma trava: se a alíquota de referência ficar acima de 26,5%, o governo terá de propor corte de incentivos. Bernard Appy, secretário da reforma no Ministério da Fazenda, disse que o governo \"preferiria que houvesse menos exceções\".",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Brasil terá maior alíquota do mundo após reforma tributária no Senado\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2024-12/reforma-tributaria-pode-elevar-iva-para-28-estima-relator",
+    "fonte_data": "2024-12-15",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "im-pix",
+    "data": "2025-01-15",
+    "titulo": "Monitoramento do Pix: Receita revoga a própria norma em janeiro de 2025",
+    "texto": "Regras da Receita Federal que passariam a valer em 2025 ampliavam a lista de instituições obrigadas a informar movimentações financeiras: operadoras de cartão e instituições de pagamento passariam a enviar dados de quem movimentasse R$ 5 mil ou mais por mês (pessoa física) ou R$ 15 mil (empresa). Bancos já informavam movimentações acima de R$ 2 mil e R$ 6 mil. Em 15 de janeiro de 2025, a Receita anunciou a revogação do ato. O secretário Robinson Barreirinhas atribuiu o recuo à repercussão de notícias falsas, entre elas a de que o Pix seria taxado. Segundo a CNN Brasil, a norma não criava imposto nem daria ao Fisco acesso à origem ou ao destino das transferências.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Monitoramento do Pix: relembre trajetória até revogação de norma\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/economia/financas/monitoramento-do-pix-relembre-trajetoria-ate-revogacao-de-norma/",
+    "fonte_data": "2025-01-16",
+    "verificado_em": "2026-10-05"
+  }
+]

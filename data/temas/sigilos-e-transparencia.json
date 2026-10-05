@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sg-1339",
+    "data": "2024-06-05",
+    "titulo": "Levantamento: governo Lula impôs sigilo de 100 anos em 1.339 pedidos de informação em 2023",
+    "texto": "Segundo a CNN Brasil, levantamento do jornal O Estado de S. Paulo divulgado em março de 2024 mostrou que o governo Lula impôs sigilo de 100 anos em 1.339 pedidos de informação feitos em 2023, na maior parte sob a justificativa de proteção de dados pessoais. O uso desse dispositivo no governo Bolsonaro era alvo de críticas frequentes de Lula, que na campanha prometeu revogar os sigilos do antecessor e atuar de forma transparente.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"CGU estuda mudar lei que autoriza 100 anos de sigilo sobre informações confidenciais\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/cgu-estuda-mudar-lei-que-autoriza-100-anos-de-sigilo-sobre-informacoes-confidenciais/",
+    "fonte_data": "2024-06-05",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "sg-cgu",
+    "data": "2024-06-05",
+    "titulo": "Resposta do governo: CGU diz estudar mudança na lei",
+    "texto": "O ministro da CGU, Vinícius Marques de Carvalho, disse que a pasta estuda reformar o artigo 31 da Lei de Acesso à Informação, que prevê até 100 anos de restrição para dados pessoais: \"Os 100 anos de sigilo quase que se transformam em um sigilo eterno, e dados pessoais podem perder a relevância ao longo do tempo\".",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"CGU estuda mudar lei que autoriza 100 anos de sigilo sobre informações confidenciais\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/cgu-estuda-mudar-lei-que-autoriza-100-anos-de-sigilo-sobre-informacoes-confidenciais/",
+    "fonte_data": "2024-06-05",
+    "verificado_em": "2026-10-05"
+  }
+]

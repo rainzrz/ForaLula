@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ne-renda",
+    "data": "2026-05-08",
+    "titulo": "Renda: o menor rendimento do país continua no Nordeste",
+    "texto": "Segundo o IBGE, em 2025 o rendimento médio mensal domiciliar per capita foi de R$ 1.470 no Nordeste, o menor entre as regiões (Norte: R$ 1.558; Sudeste: R$ 2.669; Centro-Oeste: R$ 2.712; Sul: R$ 2.734). O Maranhão teve o menor valor entre os estados, R$ 1.231.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Renda média das famílias chega a R$ 2.264 e é recorde em 2025\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/renda-media-das-familias-chega-r-2264-e-e-recorde-em-2025",
+    "fonte_data": "2026-05-08",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-dependencia",
+    "data": "2026-05-08",
+    "titulo": "Dependência de transferências: 32,6% da renda não vem do trabalho",
+    "texto": "No Nordeste, 67,4% do rendimento das famílias vêm do trabalho e 32,6% de outras fontes; na média nacional, 75,1% vêm do trabalho e 24,9% de outras fontes. Aposentadorias e pensões representam 20,4% do rendimento na região, ante 16,4% no país.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Renda média das famílias chega a R$ 2.264 e é recorde em 2025\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/renda-media-das-familias-chega-r-2264-e-e-recorde-em-2025",
+    "fonte_data": "2026-05-08",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-analfabetismo",
+    "data": "2026-06-19",
+    "titulo": "Educação: o Nordeste concentra 57,4% dos analfabetos do país",
+    "texto": "A PNAD Contínua Educação 2025, do IBGE, registra 8,4 milhões de analfabetos no Brasil, dos quais 4,8 milhões (57,4%) no Nordeste. A taxa nacional caiu de 6,7% em 2016 para 4,9% em 2025.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"IBGE: país tem 8,4 milhões de analfabetos, menor número desde 2016\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ibge-pais-tem-84-milhoes-de-analfabetos-menor-numero-desde-2016",
+    "fonte_data": "2026-06-19",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-inseguranca-2023",
+    "data": "2024-04-25",
+    "titulo": "Fome no Nordeste: 6,2% dos domicílios em insegurança alimentar grave em 2023",
+    "texto": "Segundo a PNAD Contínua: Segurança Alimentar 2023, do IBGE, a insegurança alimentar grave atingia 6,2% dos domicílios do Nordeste e 7,7% dos do Norte, acima das demais regiões: 3,6% no Centro-Oeste, 2,9% no Sudeste e 2% no Sul. A média nacional era de 4,1%.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Insegurança alimentar: fome atingiu 3,2 milhões de lares brasileiros em 2023, diz IBGE\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/nacional/inseguranca-alimentar-fome-atingiu-32-milhoes-de-lares-brasileiros-em-2023-diz-ibge/",
+    "fonte_data": "2024-04-25",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-esgoto",
+    "data": "2024-02-23",
+    "titulo": "Saneamento: 58,1% com esgoto adequado no Nordeste, contra 90,7% no Sudeste",
+    "texto": "Segundo o Censo 2022 do IBGE, 58,1% da população do Nordeste tinha esgotamento sanitário adequado, ante 43,2% em 2010. As demais regiões: Sudeste, 90,7%; Sul, 83,9%; Centro-Oeste, 73,4%; Norte, 46,4%.",
+    "destaque": false,
+    "classificacao": "fato",
+    "fonte_nome": "CNN Brasil – \"Sistema de esgoto adequado é acessado por 3 em cada 4 brasileiros\"",
+    "fonte_url": "https://www.cnnbrasil.com.br/nacional/sistema-de-esgoto-adequado-e-acessado-por-3-em-cada-4-brasileiros/",
+    "fonte_data": "2024-02-23",
+    "verificado_em": "2026-10-05"
+  },
+  {
+    "id": "ne-trabalho-2025",
+    "data": "2026-02-20",
+    "titulo": "Trabalho em 2025: as três maiores taxas de desemprego e os menores rendimentos estão no Nordeste",
+    "texto": "Dados do IBGE para 2025: Piauí (9,3%), Bahia (8,7%) e Pernambuco (8,7%) tiveram as maiores taxas de desemprego do país, cuja média foi de 5,6%. A informalidade era de 58,7% no Maranhão, 52,8% na Bahia, 52,6% no Piauí e 51% no Ceará, ante 38,1% na média nacional. Os menores rendimentos médios do trabalho eram os do Maranhão (R$ 2.228) e da Bahia (R$ 2.284). O mesmo levantamento registra que 19 estados e o Distrito Federal tiveram em 2025 o menor desemprego de suas séries.",
+    "destaque": true,
+    "classificacao": "fato",
+    "fonte_nome": "Agência Brasil – \"Dezenove estados e DF têm em 2025 o menor desemprego já registrado\"",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dezenove-estados-e-df-tem-em-2025-o-menor-desemprego-ja-registrado",
+    "fonte_data": "2026-02-20",
+    "verificado_em": "2026-10-05"
+  }
+]
