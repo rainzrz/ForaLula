@@ -7,7 +7,7 @@
     "destaque": true,
     "classificacao": "acusacao",
     "status_juridico": "Depoimento de réu colaborador. Afirmações do delator, contestadas pelo PT.",
-    "fonte_nome": "Agência Brasil – \"Petrobras: ex-diretor diz a juiz que PP, PT e PMDB receberam valor de contratos\"",
+    "fonte_nome": "Agência Brasil: \"Petrobras: ex-diretor diz a juiz que PP, PT e PMDB receberam valor de contratos\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-10/petrobras-ex-diretor-diz-a-juiz-que-PP-PT-e-PMDB-receberam-valor-de-contratos",
     "fonte_data": "2014-10-09",
     "verificado_em": "2026-10-04"
@@ -20,7 +20,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Decisão do TCU de 23/07/2014 responsabilizando ex-diretores. Conselho de Administração (incluindo Dilma Rousseff) isentado pelo TCU.",
-    "fonte_nome": "Agência Senado – \"TCU responsabiliza diretores da Petrobras por compra da refinaria de Pasadena\"",
+    "fonte_nome": "Agência Senado: \"TCU responsabiliza diretores da Petrobras por compra da refinaria de Pasadena\"",
     "fonte_url": "https://www12.senado.leg.br/noticias/materias/2014/07/23/tcu-responsabiliza-diretores-da-petrobras-por-compra-da-refinaria-de-pasadena",
     "fonte_data": "2014-07-23",
     "verificado_em": "2026-10-04"
@@ -32,7 +32,7 @@
     "texto": "Segundo a Agência Senado, o custo total da Refinaria Abreu e Lima (PE), orçado inicialmente em pouco mais de R$ 2 bilhões, havia atingido R$ 41 bilhões em novembro de 2014. O TCU aponta desde o início das obras irregularidades consideradas graves, como superfaturamento e falhas de projeto; as irregularidades formalmente apuradas em obras da Petrobras chegavam a R$ 1,1 bilhão, com outros R$ 1,9 bilhão em exame (incluindo Pasadena e Comperj).",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "Agência Senado – \"TCU aponta irregularidades em Abreu e Lima desde 2008\"",
+    "fonte_nome": "Agência Senado: \"TCU aponta irregularidades em Abreu e Lima desde 2008\"",
     "fonte_url": "https://www12.senado.leg.br/noticias/materias/2014/11/14/tcu-aponta-irregularidades-em-abreu-e-lima-desde-2008",
     "fonte_data": "2014-11-14",
     "verificado_em": "2026-10-04"
@@ -41,10 +41,10 @@
     "id": "pb-cartel-tcu",
     "data": "2020-06-17",
     "titulo": "Cartel nas contratações (2004–2012): prejuízo de R$ 12,3 bilhões, segundo o TCU",
-    "texto": "Estudo econométrico aprovado pelo TCU (Acórdão 1568/2020 – Plenário) calculou em R$ 12,3 bilhões o prejuízo causado pelo cartel em contratações da Petrobras entre 2004 e 2012; atualizado e com juros, o valor superava R$ 18 bilhões.",
+    "texto": "Estudo econométrico aprovado pelo TCU (Acórdão 1568/2020, Plenário) calculou em R$ 12,3 bilhões o prejuízo causado pelo cartel em contratações da Petrobras entre 2004 e 2012; atualizado e com juros, o valor superava R$ 18 bilhões.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "Tribunal de Contas da União – \"TCU aponta que cartel causou prejuízos de R$ 18 bilhões à Petrobras\"",
+    "fonte_nome": "Tribunal de Contas da União: \"TCU aponta que cartel causou prejuízos de R$ 18 bilhões à Petrobras\"",
     "fonte_url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-aponta-que-cartel-causou-prejuizos-de-r-18-bilhoes-a-petrobras",
     "fonte_data": "2020-06",
     "verificado_em": "2026-10-04"
@@ -56,7 +56,7 @@
     "texto": "A Petrobras reconheceu R$ 6,2 bilhões de perdas com os desvios investigados pela Lava Jato e R$ 44,6 bilhões de desvalorização de ativos. O resultado líquido de 2014 ficou negativo em R$ 21,6 bilhões (governo Dilma Rousseff).",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "Agência Brasil – \"Petrobras perde R$ 6,2 bi com corrupção e prejuízo soma R$ 21,6 bi em 2014\"",
+    "fonte_nome": "Agência Brasil: \"Petrobras perde R$ 6,2 bi com corrupção e prejuízo soma R$ 21,6 bi em 2014\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2015-04/petrobras-teve-prejuizo-de-r-216-bilhoes-no-ano-passado",
     "fonte_data": "2015-04-22",
     "verificado_em": "2026-10-04"
@@ -65,11 +65,11 @@
     "id": "pb-tcu-refinarias",
     "data": "2018-08-08",
     "titulo": "Comperj, Abreu e Lima e refinarias Premium: TCU aponta atos de gestão ilegítimos e antieconômicos",
-    "texto": "Auditoria do TCU relatada pelo ministro José Mucio Monteiro (Acórdão 1.839/2018 – Plenário, sessão de 8 de agosto de 2018) avaliou a conduta do Conselho de Administração da Petrobras nos projetos do Complexo Petroquímico do Rio de Janeiro (Comperj), da Refinaria Abreu e Lima e das refinarias Premium I e II. O tribunal constatou vulnerabilidades na governança do Estado sobre a empresa e atos de gestão ilegítimos e antieconômicos cometidos por membros do conselho entre 2006 e 2015. Segundo o TCU, alguns desses atos podem ter contribuído para o prejuízo patrimonial de cerca de R$ 43 bilhões reconhecido nos balanços de 2014 a 2016.",
+    "texto": "Auditoria do TCU relatada pelo ministro José Mucio Monteiro (Acórdão 1.839/2018, Plenário, sessão de 8 de agosto de 2018) avaliou a conduta do Conselho de Administração da Petrobras nos projetos do Complexo Petroquímico do Rio de Janeiro (Comperj), da Refinaria Abreu e Lima e das refinarias Premium I e II. O tribunal constatou vulnerabilidades na governança do Estado sobre a empresa e atos de gestão ilegítimos e antieconômicos cometidos por membros do conselho entre 2006 e 2015. Segundo o TCU, alguns desses atos podem ter contribuído para o prejuízo patrimonial de cerca de R$ 43 bilhões reconhecido nos balanços de 2014 a 2016.",
     "destaque": false,
     "classificacao": "fato",
     "status_juridico": "Processo TC 003.502/2016-3. O acórdão determinou a oitiva de ministérios e do Conselho Nacional de Política Energética. Responsabilização individual e desfecho não verificados por este site.",
-    "fonte_nome": "TCU – \"Gestão antieconômica de refinarias pode ter gerado prejuízo à Petrobras\"",
+    "fonte_nome": "TCU: \"Gestão antieconômica de refinarias pode ter gerado prejuízo à Petrobras\"",
     "fonte_url": "https://portal.tcu.gov.br/imprensa/noticias/gestao-antieconomica-de-refinarias-pode-ter-gerado-prejuizo-a-petrobras",
     "fonte_data": "s.d.",
     "verificado_em": "2026-10-05"
@@ -82,12 +82,12 @@
     "destaque": true,
     "classificacao": "acusacao",
     "status_juridico": "Ação de improbidade de 2017; desfecho não verificado por este site. Em processo administrativo distinto, a CVM absolveu por unanimidade, em 2 de fevereiro de 2021, Guido Mantega e outros sete ex-conselheiros da acusação de induzir investidores a erro com a política de preços.",
-    "fonte_nome": "Agência Brasil – \"MPF denuncia Graça Foster e Guido Mantega por prejuízos à Petrobras\"",
+    "fonte_nome": "Agência Brasil: \"MPF denuncia Graça Foster e Guido Mantega por prejuízos à Petrobras\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/mpf-processa-graca-foster-e-guido-mantega-por-prejuizos-petrobras",
     "fonte_data": "2017-12-06",
     "fontes_adicionais": [
       {
-        "nome": "CNN Brasil – \"CVM absolve Mantega e ex-conselheiros da Petrobras em caso de política de preços\"",
+        "nome": "CNN Brasil: \"CVM absolve Mantega e ex-conselheiros da Petrobras em caso de política de preços\"",
         "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/cvm-absolve-mantega-e-ex-conselheiros-da-petrobras-em-caso-de-politica-de-precos/",
         "data": "2021-02-02"
       }

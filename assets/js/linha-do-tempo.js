@@ -14,7 +14,7 @@ $('#rodape-fontes').innerHTML = htmlRodapeFontes(registro, ocultos);
 const filtros = { busca: '', classificacoes: new Set(Object.keys(CLASSIFICACOES)), categoria: '', destaques: false };
 
 $('#filtro-classificacao').innerHTML = Object.entries(CLASSIFICACOES).map(([chave, c]) =>
-  `<label class="caixa"><input type="checkbox" value="${chave}" checked> ${c.emoji} ${esc(c.rotulo)}</label>`).join('');
+  `<label class="caixa"><input type="checkbox" value="${chave}" checked> <span class="selo selo-${chave}">${esc(c.rotulo)}</span></label>`).join('');
 const categoriasUsadas = [...new Set(eventos.map(e => e.categoria))];
 $('#filtro-categoria').innerHTML = '<option value="">Todas as categorias</option>' +
   categoriasUsadas.map(c => `<option value="${esc(c)}">${esc(site.categorias[c] ?? c)}</option>`).join('');

@@ -171,7 +171,18 @@ const olho = new IntersectionObserver(entradas => {
   for (const { target: el, isIntersecting } of entradas) {
     if (!isIntersecting) continue;
     olho.unobserve(el);
-    if (!el.matches(FOLHAS)) { el.classList.add('visto'); continue; }
+    // cartão de carrossel não é "colado": quem cuida da opacidade dele é o foco do carrossel
+    if (!el.classList.contains('colar')) {
+      el.classList.add('visto');
+      // conta todos os números do carrossel de uma vez, inclusive as cópias do laço, para nenhum recomeçar depois
+      if (el.matches('.cartao-numero')) {
+        for (const irmao of el.parentElement.querySelectorAll('.cartao-numero:not(.contado)')) {
+          irmao.classList.add('contado');
+          contar(irmao.querySelector('.numero'), 0);
+        }
+      }
+      continue;
+    }
     const atraso = Math.min(ordem++, 6) * 70;
     el.style.setProperty('--atraso', `${atraso}ms`);
     el.classList.add('colado');
@@ -195,7 +206,7 @@ function preparar() {
     } else if (el.matches('.grafico')) {
       el.classList.add('crescer');
       el.querySelectorAll('rect').forEach((barra, i) => { barra.style.transitionDelay = `${i * 60}ms`; });
-    } else {
+    } else if (!el.closest('.carrossel')) {
       el.classList.add('colar');
     }
     olho.observe(el);

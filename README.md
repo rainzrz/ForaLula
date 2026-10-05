@@ -22,6 +22,7 @@ metodologia.html        regras editoriais
 assets/css/site.css
 assets/js/core.js       validação, renderização de itens, fontes, correções
 assets/js/efeitos.js    efeitos visuais (retícula da capa, folhas coladas, contagem, grifo)
+assets/js/carrossel.js  carrossel dos números e dos temas na página inicial
 data/site.json          nome do site, categorias, contato para correções
 data/temas.json         lista dos temas; "arquivo": null = ainda sem itens
 data/linha-do-tempo.json

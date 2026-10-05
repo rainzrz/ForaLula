@@ -6,7 +6,7 @@
     "texto": "Na véspera de reunião do Copom, Lula disse sobre Roberto Campos Neto: \"Um presidente do BC que não demonstra nenhuma capacidade de autonomia, que tem lado político, e que, na minha opinião, trabalha muito mais para prejudicar o país do que para ajudar o país. Não tem explicação a taxa de juros do jeito que está\". Chamou o comportamento do Banco Central de \"coisa desajustada\".",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Campos Neto tem lado político e trabalha para prejudicar o país, diz Lula\"",
+    "fonte_nome": "CNN Brasil: \"Campos Neto tem lado político e trabalha para prejudicar o país, diz Lula\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/campos-neto-tem-lado-politico-e-trabalha-para-prejudicar-o-pais-diz-lula/",
     "fonte_data": "2024-06-18",
     "verificado_em": "2026-10-04"
@@ -18,7 +18,7 @@
     "texto": "Em 18 de dezembro de 2024, o dólar fechou cotado acima de R$ 6,26, renovando a máxima histórica, em meio ao temor do mercado sobre a aprovação do pacote fiscal do governo no Congresso.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Dólar dispara e fecha a R$ 6,26, nova máxima histórica; bolsa cai mais de 3%\"",
+    "fonte_nome": "CNN Brasil: \"Dólar dispara e fecha a R$ 6,26, nova máxima histórica; bolsa cai mais de 3%\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-hoje-ibovespa-dolar-18-dezembro-2024/",
     "fonte_data": "2024-12-18",
     "verificado_em": "2026-10-04"
@@ -30,7 +30,7 @@
     "texto": "O dólar encerrou 2024 em R$ 6,179, alta de 27,36% no ano. No último pregão, o Banco Central vendeu US$ 1,815 bilhão à vista para conter a alta da moeda.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Dólar sobe 27,3% em 2024 e fecha ano em R$ 6,18; Ibovespa cai 10%\"",
+    "fonte_nome": "CNN Brasil: \"Dólar sobe 27,3% em 2024 e fecha ano em R$ 6,18; Ibovespa cai 10%\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-hoje-ibovespa-dolar-30-dezembro-2024/",
     "fonte_data": "2024-12-30",
     "verificado_em": "2026-10-04"
@@ -42,7 +42,7 @@
     "texto": "O Copom elevou a Selic em 0,25 ponto percentual, para 15% ao ano, em 18 de junho de 2025, por decisão unânime dos diretores. É o patamar mais alto desde maio de 2006, quando a taxa foi fixada em 15,25%.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"BC sobe juros para 15% ao ano e sinaliza fim do ciclo de alta\"",
+    "fonte_nome": "CNN Brasil: \"BC sobe juros para 15% ao ano e sinaliza fim do ciclo de alta\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/copom-junho-2025/",
     "fonte_data": "2025-06-18",
     "verificado_em": "2026-10-04"
@@ -54,12 +54,12 @@
     "texto": "O endividamento das famílias chegou a 49,9% em fevereiro de 2026, o maior patamar da série histórica do Banco Central, segundo o Relatório de Estatísticas Monetárias e de Crédito; o comprometimento da renda das pessoas físicas com dívidas foi de 29,7%. Na pesquisa mensal da Confederação Nacional do Comércio (Peic), o percentual de famílias com dívidas alcançou 80,4% em março de 2026, recorde da série.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Endividamento das famílias sobe para 49,9% e bate recorde, aponta BC\"",
+    "fonte_nome": "CNN Brasil: \"Endividamento das famílias sobe para 49,9% e bate recorde, aponta BC\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/endividamento-das-familias-sobe-para-499-e-bate-recorde-aponta-bc/",
     "fonte_data": "2026-04-27",
     "fontes_adicionais": [
       {
-        "nome": "CNN Brasil – \"CNC: Endividamento das famílias atinge novo recorde e chega a 80,4%\"",
+        "nome": "CNN Brasil: \"CNC: Endividamento das famílias atinge novo recorde e chega a 80,4%\"",
         "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/cnc-endividamento-das-familias-atinge-novo-recorde-e-chega-a-80-4/",
         "data": "2026-04-07"
       }

@@ -7,7 +7,7 @@
     "destaque": true,
     "classificacao": "acusacao",
     "status_juridico": "Acusação pública de 2005. Os fatos foram julgados pelo STF na Ação Penal 470 (2012).",
-    "fonte_nome": "Folha de S.Paulo – \"Jefferson denuncia mesada paga pelo tesoureiro do PT\" (Renata Lo Prete)",
+    "fonte_nome": "Folha de S.Paulo: \"Jefferson denuncia mesada paga pelo tesoureiro do PT\" (Renata Lo Prete)",
     "fonte_url": "https://www1.folha.uol.com.br/fsp/brasil/fc0606200502.htm",
     "fonte_data": "2005-06-06",
     "verificado_em": "2026-10-04"
@@ -20,7 +20,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Relatório de CPI (não é decisão judicial). O texto isentou Lula de \"responsabilidade objetiva\".",
-    "fonte_nome": "Agência Senado – \"Veja os principais pontos do relatório final da CPI dos Correios\"",
+    "fonte_nome": "Agência Senado: \"Veja os principais pontos do relatório final da CPI dos Correios\"",
     "fonte_url": "https://www12.senado.leg.br/noticias/materias/2006/04/07/veja-os-principais-pontos-do-relatorio-final-da-cpi-dos-correios",
     "fonte_data": "2006-04-07",
     "verificado_em": "2026-10-04"
@@ -33,7 +33,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Denúncia recebida em 2007; ação penal julgada em 2012.",
-    "fonte_nome": "Supremo Tribunal Federal – \"Inquérito do mensalão é convertido na Ação Penal 470\"",
+    "fonte_nome": "Supremo Tribunal Federal: \"Inquérito do mensalão é convertido na Ação Penal 470\"",
     "fonte_url": "https://noticias.stf.jus.br/postsnoticias/inquerito-do-mensalao-e-convertido-na-acao-penal-470/",
     "fonte_data": "2007-11-12",
     "verificado_em": "2026-10-04"
@@ -46,7 +46,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Julgado pelo Plenário do STF em 2012.",
-    "fonte_nome": "Supremo Tribunal Federal – \"Julgamentos relevantes marcaram a pauta do STF em 2012\"",
+    "fonte_nome": "Supremo Tribunal Federal: \"Julgamentos relevantes marcaram a pauta do STF em 2012\"",
     "fonte_url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=227869&ori=1",
     "fonte_data": "2013-01-04",
     "verificado_em": "2026-10-04"
@@ -59,12 +59,12 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Condenado por corrupção ativa (7 anos e 11 meses). Absolvido do crime de quadrilha nos embargos infringentes (27/02/2014). Punibilidade extinta por indulto em 17/10/2016.",
-    "fonte_nome": "Supremo Tribunal Federal – \"AP 470: Plenário fixa penas de José Dirceu\"",
+    "fonte_nome": "Supremo Tribunal Federal: \"AP 470: Plenário fixa penas de José Dirceu\"",
     "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-plenario-fixa-penas-de-jose-dirceu/",
     "fonte_data": "2012-11-12",
     "fontes_adicionais": [
       {
-        "nome": "Supremo Tribunal Federal – \"Indulto extingue a punibilidade de José Dirceu na AP 470\"",
+        "nome": "Supremo Tribunal Federal: \"Indulto extingue a punibilidade de José Dirceu na AP 470\"",
         "url": "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/",
         "data": "2016-10-17"
       }
@@ -79,7 +79,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Condenado por corrupção ativa. Está entre os oito réus absolvidos do crime de quadrilha nos embargos infringentes (27/02/2014).",
-    "fonte_nome": "Supremo Tribunal Federal – \"STF fixa pena de Genoino por formação de quadrilha e corrupção ativa\"",
+    "fonte_nome": "Supremo Tribunal Federal: \"STF fixa pena de Genoino por formação de quadrilha e corrupção ativa\"",
     "fonte_url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-pena-de-genoino-por-formacao-de-quadrilha-e-corrupcao-ativa/",
     "fonte_data": "2012-11-12",
     "verificado_em": "2026-10-04"
@@ -92,7 +92,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Condenado; pena extinta por indulto em 10/03/2016.",
-    "fonte_nome": "Agência Brasil – \"STF concede perdão de pena ao ex-tesoureiro do PT Delúbio Soares\"",
+    "fonte_nome": "Agência Brasil: \"STF concede perdão de pena ao ex-tesoureiro do PT Delúbio Soares\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/stf-concede-perdao-de-pena-ao-ex-tesoureiro-do-pt-delubio-soares",
     "fonte_data": "2016-03-10",
     "verificado_em": "2026-10-04"
@@ -105,7 +105,7 @@
     "destaque": false,
     "classificacao": "fato",
     "status_juridico": "Absolvição apenas quanto ao crime de quadrilha; as condenações por corrupção e outros crimes permaneceram.",
-    "fonte_nome": "Agência Brasil – \"Maioria do STF absolve condenados no mensalão do crime de quadrilha\"",
+    "fonte_nome": "Agência Brasil: \"Maioria do STF absolve condenados no mensalão do crime de quadrilha\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2014-02/maioria-do-stf-absolve-condenados-no-mensalao-de-quadrilha",
     "fonte_data": "2014-02-27",
     "verificado_em": "2026-10-04"
@@ -118,7 +118,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Declarações públicas documentadas. Sobre a responsabilização de Lula, ver o item da CPI dos Correios.",
-    "fonte_nome": "CNN Brasil – \"Mensalão completa 20 anos: saiba como Lula reagiu ao escândalo\"",
+    "fonte_nome": "CNN Brasil: \"Mensalão completa 20 anos: saiba como Lula reagiu ao escândalo\"",
     "fonte_url": "https://www.cnnbrasil.com.br/politica/mensalao-completa-20-anos-saiba-como-lula-reagiu-ao-escandalo/",
     "fonte_data": "2025-06-06",
     "verificado_em": "2026-10-04"
@@ -131,12 +131,12 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Julgamento concluído pelo STF em 2012; cumprimento das penas determinado a partir de 13/11/2013.",
-    "fonte_nome": "STF – \"AP 470: baixe a íntegra do acórdão\"",
+    "fonte_nome": "STF: \"AP 470: baixe a íntegra do acórdão\"",
     "fonte_url": "https://noticias.stf.jus.br/postsnoticias/ap-470-baixe-a-integra-do-acordao/",
     "fonte_data": "s.d.",
     "fontes_adicionais": [
       {
-        "nome": "Agência Câmara – \"STF determina cumprimento de penas de 22 condenados no processo do mensalão\"",
+        "nome": "Agência Câmara: \"STF determina cumprimento de penas de 22 condenados no processo do mensalão\"",
         "url": "https://www.camara.leg.br/noticias/420868-stf-determina-cumprimento-de-penas-de-22-condenados-no-processo-do-mensalao/",
         "data": "2013-11-13"
       }
@@ -151,12 +151,12 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Lula não foi denunciado nem réu na Ação Penal 470.",
-    "fonte_nome": "Agência Câmara – \"Ministério Público denuncia 40 envolvidos com mensalão\"",
+    "fonte_nome": "Agência Câmara: \"Ministério Público denuncia 40 envolvidos com mensalão\"",
     "fonte_url": "https://www.camara.leg.br/noticias/83476-ministerio-publico-denuncia-40-envolvidos-com-mensalao/",
     "fonte_data": "2006-04-11",
     "fontes_adicionais": [
       {
-        "nome": "STF – \"Cronologia do inquérito do mensalão no STF\"",
+        "nome": "STF: \"Cronologia do inquérito do mensalão no STF\"",
         "url": "https://noticias.stf.jus.br/postsnoticias/cronologia-do-inquerito-do-mensalao-no-stf/",
         "data": "s.d."
       }

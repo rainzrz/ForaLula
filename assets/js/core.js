@@ -2,9 +2,9 @@
 // renderização de itens, lista de fontes e botão de correção.
 
 export const CLASSIFICACOES = {
-  fato: { emoji: '🟢', rotulo: 'Fato comprovado', descricao: 'Documento oficial, decisão judicial ou dado estatístico.' },
-  acusacao: { emoji: '🟡', rotulo: 'Acusação / delação / investigação', descricao: 'Ainda não julgado, ou anulado.' },
-  analise: { emoji: '🔵', rotulo: 'Análise / opinião', descricao: 'Avaliação de economistas, juristas ou jornalistas, com o nome do autor.' },
+  fato: { rotulo: 'Fato comprovado', descricao: 'Documento oficial, decisão judicial ou dado estatístico.' },
+  acusacao: { rotulo: 'Acusação / delação / investigação', descricao: 'Ainda não julgado, ou anulado.' },
+  analise: { rotulo: 'Análise / opinião', descricao: 'Avaliação de economistas, juristas ou jornalistas, com o nome do autor.' },
 };
 
 const OBRIGATORIOS = ['fonte_nome', 'fonte_url', 'fonte_data', 'classificacao', 'verificado_em'];
@@ -59,7 +59,7 @@ export const anoDe = iso => iso.slice(0, 4);
 
 export function seloClassificacao(chave) {
   const c = CLASSIFICACOES[chave];
-  return `<span class="selo selo-${esc(chave)}" title="${esc(c.descricao)}">${c.emoji} ${esc(c.rotulo)}</span>`;
+  return `<span class="selo selo-${esc(chave)}" title="${esc(c.descricao)}">${esc(c.rotulo)}</span>`;
 }
 
 // Numera as fontes na ordem em que aparecem, sem repetir o mesmo link.
@@ -177,7 +177,7 @@ export async function montarMoldura(paginaAtual) {
     if (!url.reportValidity() || !texto.reportValidity()) return;
     const corpo = `${alvo}\nFonte: ${url.value}\nCorreção: ${texto.value}`;
     if (site.contato_correcoes) {
-      location.href = `mailto:${site.contato_correcoes}?subject=${encodeURIComponent('Correção – ' + site.nome)}&body=${encodeURIComponent(corpo)}`;
+      location.href = `mailto:${site.contato_correcoes}?subject=${encodeURIComponent('Correção: ' + site.nome)}&body=${encodeURIComponent(corpo)}`;
     } else {
       $('#erro-saida').textContent = `Canal de envio ainda não configurado (campo "contato_correcoes" em data/site.json). Copie a mensagem:\n\n${corpo}`;
     }

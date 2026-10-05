@@ -7,7 +7,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Liminar monocrática de 16/03/2023, derrubada pelo Plenário em 09/05/2024.",
-    "fonte_nome": "Agência Brasil – \"Ministro do STF suspende parte da Lei das Estatais\"",
+    "fonte_nome": "Agência Brasil: \"Ministro do STF suspende parte da Lei das Estatais\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/ministro-do-stf-suspende-parte-da-lei-das-estatais",
     "fonte_data": "2023-03-16",
     "verificado_em": "2026-10-05"
@@ -20,7 +20,7 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Julgado pelo Plenário do STF em 09/05/2024.",
-    "fonte_nome": "Agência Brasil – \"STF mantém proibição de políticos em diretorias de estatais\"",
+    "fonte_nome": "Agência Brasil: \"STF mantém proibição de políticos em diretorias de estatais\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-05/stf-mantem-proibicao-de-politicos-em-diretorias-de-estatais",
     "fonte_data": "2024-05-09",
     "verificado_em": "2026-10-05"
@@ -33,12 +33,12 @@
     "destaque": true,
     "classificacao": "acusacao",
     "status_juridico": "Em outubro de 2019, o MPF denunciou 26 pessoas em três ações penais sobre aportes de Funcef, Petros e Postalis no FIP Multiner (2009–2014), com pedido de R$ 3,1 bilhões por danos e devolução de cerca de R$ 1 bilhão. Julgamento dessas ações não verificado por este site.",
-    "fonte_nome": "Agência Brasil – \"PF investiga fraudes nos quatro maiores fundos de pensão do país\"",
+    "fonte_nome": "Agência Brasil: \"PF investiga fraudes nos quatro maiores fundos de pensão do país\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2016-09/pf-investiga-fraudes-nos-quatro-maiores-fundos-de-pensao-do-pais",
     "fonte_data": "2016-09-05",
     "fontes_adicionais": [
       {
-        "nome": "Agência Brasil – \"Operação Greenfield: MPF denuncia 26 pessoas por fraudes contra planos\"",
+        "nome": "Agência Brasil: \"Operação Greenfield: MPF denuncia 26 pessoas por fraudes contra planos\"",
         "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-10/operacao-greenfield-mpf-denuncia-26-pessoas-por-fraudes-contra-planos",
         "data": "2019-10-07"
       }
@@ -52,12 +52,12 @@
     "texto": "Em janeiro de 2024, segundo apuração da CNN Brasil, o ministro de Minas e Energia telefonou a acionistas da Vale, a pedido de Lula, defendendo o ex-ministro Guido Mantega para a presidência da mineradora, privatizada em 1997; os acionistas rejeitaram. Em março de 2025, Lula indicou Mantega para o conselho fiscal da Eletrobras, cargo com remuneração de R$ 12,6 mil. Mantega havia sido inabilitado pelo TCU em 2016 para cargos públicos por causa das \"pedaladas fiscais\"; a Justiça anulou essa decisão em 2023.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Lula indica Mantega para Eletrobras: cargo tem salário de R$ 12,6 mil\"",
+    "fonte_nome": "CNN Brasil: \"Lula indica Mantega para Eletrobras: cargo tem salário de R$ 12,6 mil\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/negocios/lula-indica-mantega-para-eletrobras-cargo-tem-salario-de-r-126-mil/",
     "fonte_data": "2025-03-28",
     "fontes_adicionais": [
       {
-        "nome": "CNN Brasil – \"Acionistas da Vale rejeitam interferência de Lula e Mantega na presidência, dizem fontes\"",
+        "nome": "CNN Brasil: \"Acionistas da Vale rejeitam interferência de Lula e Mantega na presidência, dizem fontes\"",
         "url": "https://www.cnnbrasil.com.br/politica/acionistas-da-vale-rejeitam-interferencia-de-lula-e-mantega-na-presidencia-dizem-fontes/",
         "data": "2024-01-25"
       }
@@ -71,7 +71,7 @@
     "texto": "Em 15 de maio de 2024, dia seguinte à notícia da saída de Jean Paul Prates da presidência da Petrobras, as ações fecharam em queda de cerca de 7% e a empresa perdeu R$ 34 bilhões em valor de mercado, segundo cálculo do analista Einar Rivero, com temor de interferência política. A Petrobras informou que a saída ocorreu a pedido de Prates e \"de forma negociada\"; Magda Chambriard foi indicada pelo Ministério de Minas e Energia.",
     "destaque": false,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Petrobras perde R$ 34 bilhões em valor de mercado e ação recua 7% após demissão de Prates\"",
+    "fonte_nome": "CNN Brasil: \"Petrobras perde R$ 34 bilhões em valor de mercado e ação recua 7% após demissão de Prates\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/mercado/acoes-da-petrobras-caem-apos-demissao-de-prates-alimentar-temor-de-interferencia-politica/",
     "fonte_data": "2024-05-15",
     "verificado_em": "2026-10-05"

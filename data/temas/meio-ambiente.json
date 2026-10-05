@@ -6,7 +6,7 @@
     "texto": "Dados do Inpe: 278.299 focos de incêndio florestal no Brasil em 2024, aumento de 46,5% sobre os 189.901 de 2023. É o maior número desde 2010, quando foram 319.383.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Brasil registrou 278,3 mil focos de incêndio em 2024, diz Inpe\"",
+    "fonte_nome": "CNN Brasil: \"Brasil registrou 278,3 mil focos de incêndio em 2024, diz Inpe\"",
     "fonte_url": "https://www.cnnbrasil.com.br/nacional/brasil-registrou-2783-mil-focos-de-incendio-em-2024-diz-inpe/",
     "fonte_data": "2025-01-02",
     "verificado_em": "2026-10-05"
@@ -18,7 +18,7 @@
     "texto": "Em 20 de outubro de 2025, a Petrobras obteve do Ibama a licença para pesquisa exploratória na Margem Equatorial, no bloco FZA-M-059, com perfuração prevista para começar \"imediatamente\". A região é apontada como novo pré-sal pelo potencial petrolífero.",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "Agência Brasil – \"Petrobras recebe licença do Ibama para perfurar Margem Equatorial\"",
+    "fonte_nome": "Agência Brasil: \"Petrobras recebe licença do Ibama para perfurar Margem Equatorial\"",
     "fonte_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-10/petrobras-recebe-licenca-do-ibama-para-perfurar-margem-equatorial",
     "fonte_data": "2025-10-20",
     "verificado_em": "2026-10-05"
@@ -30,12 +30,12 @@
     "texto": "O Ministério da Saúde registrou inicialmente 363 mortes em território Yanomami em 2023, quase 6% acima das 343 de 2022; a pasta alegou subnotificação nos anos anteriores. Em balanço posterior do próprio ministério, o número de 2023 aparece como 428. Em 2024 houve queda de 21%, para 337 mortes, com redução das mortes por infecções respiratórias (47%), malária (42%) e desnutrição (20%).",
     "destaque": true,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Mortes de Yanomami crescem quase 6%: governo alega subnotificação\"",
+    "fonte_nome": "CNN Brasil: \"Mortes de Yanomami crescem quase 6%: governo alega subnotificação\"",
     "fonte_url": "https://www.cnnbrasil.com.br/nacional/mortes-de-yanomami-crescem-quase-6-governo-alega-subnotificacao/",
     "fonte_data": "2024-02-23",
     "fontes_adicionais": [
       {
-        "nome": "Agência Brasil – \"Número de óbitos no território Yanomami teve redução de 21% em 2024\"",
+        "nome": "Agência Brasil: \"Número de óbitos no território Yanomami teve redução de 21% em 2024\"",
         "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-05/numero-de-obitos-no-territorio-yanomami-teve-reducao-de-21-em-2024",
         "data": "2025-05-05"
       }
@@ -49,7 +49,7 @@
     "texto": "O asfaltamento da BR-319, entre Porto Velho e Manaus, foi incluído no Novo PAC e é visto por ambientalistas como estímulo ao desmatamento ilegal. Em maio de 2024, a ministra do Meio Ambiente, Marina Silva, defendeu exigir uma Avaliação Ambiental Estratégica para o trecho central, de cerca de 400 quilômetros, e disse que uma rodovia assim tende a gerar impactos numa faixa de 30 a 50 quilômetros de cada lado.",
     "destaque": false,
     "classificacao": "fato",
-    "fonte_nome": "CNN Brasil – \"Marina quer modelo de licenciamento da Foz do Amazonas em obra polêmica de rodovia\"",
+    "fonte_nome": "CNN Brasil: \"Marina quer modelo de licenciamento da Foz do Amazonas em obra polêmica de rodovia\"",
     "fonte_url": "https://www.cnnbrasil.com.br/economia/macroeconomia/marina-quer-modelo-de-licenciamento-da-foz-do-amazonas-em-obra-polemica-de-rodovia/",
     "fonte_data": "2024-05-23",
     "verificado_em": "2026-10-05"

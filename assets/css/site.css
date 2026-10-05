@@ -14,11 +14,8 @@
   --sombra-rosa: #d9b5b3;
   --fita: #c8b188;
   --fato: #1d6a3a;
-  --fato-fundo: #e2f0e5;
   --acusacao: #7a5a00;
-  --acusacao-fundo: #f8eecb;
   --analise: #1d4f8f;
-  --analise-fundo: #e2ebf7;
   --titulo: "Amarante", "Bodoni MT", Georgia, serif;
   --mao: "Caveat", "Segoe Print", "Bradley Hand", cursive;
   --sans: "Manrope", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -66,12 +63,13 @@ main .rabisco { color: var(--acento); }
   clip-path: polygon(3% 0, 97% 4%, 100% 50%, 96% 100%, 4% 96%, 0 45%); }
 .bilhete::before { top: -.65rem; left: 50%; margin-left: -2.6rem; transform: rotate(4deg); }
 
-/* Selos de classificação: etiquetas arredondadas */
-.selo { display: inline-block; font-size: .74rem; font-weight: 600; padding: .12rem .65rem; border-radius: 99px; border: 1.5px solid currentColor; white-space: nowrap; }
-.selo-fato { color: var(--fato); background: var(--fato-fundo); }
-.selo-acusacao { color: var(--acusacao); background: var(--acusacao-fundo); }
-.selo-analise { color: var(--analise); background: var(--analise-fundo); }
+/* Selos de classificação: anotação à mão na cor da classe */
+.selo { display: inline-block; font: 500 1.2rem/1 var(--mao); white-space: nowrap; }
+.selo-fato { color: var(--fato); }
+.selo-acusacao { color: var(--acusacao); }
+.selo-analise { color: var(--analise); }
 .legenda { list-style: none; padding: 0; display: grid; gap: .6rem; }
+.legenda .selo { margin-right: .35rem; }
 .legenda span:last-child { color: var(--tinta-suave); font-size: .9rem; }
 
 /* Itens: folhas de papel com sombra rosada e fita no canto */
@@ -217,6 +215,20 @@ details[open] > p { background: var(--rosa); padding: .7rem .9rem; }
 .cartao-tema.inclinado { transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(-3px); box-shadow: 9px 10px 0 var(--acento); }
 .cartao-tema.inclinado::after { opacity: 1; }
 .faixa-pior.inclinado { background-image: radial-gradient(20rem circle at var(--mx, 50%) var(--my, 50%), rgb(255 255 255 / .2), transparent 65%); }
+
+/* Carrossel (assets/js/carrossel.js): cartões lado a lado, o do centro em foco e as bordas sumindo */
+.carrossel { position: relative; display: flex; grid-template-columns: none; gap: 1rem; margin: 0 -1.1rem; padding: 1.5rem max(1.1rem, calc(50% - 9.5rem)) 1.7rem; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent); mask-image: linear-gradient(90deg, transparent, #000 5%, #000 95%, transparent); }
+.carrossel::-webkit-scrollbar { display: none; }
+.carrossel > * { flex: 0 0 min(19rem, 62vw); scroll-snap-align: center; opacity: .5; scale: .9; cursor: pointer; transition: opacity .35s ease, scale .35s ease, transform .15s ease, box-shadow .15s ease; }
+.carrossel > .em-foco { opacity: 1; scale: 1; cursor: auto; }
+.carrossel-salto { scroll-snap-type: none; }
+.carrossel-salto > * { transition: none; }
+.carrossel-controles { display: flex; align-items: center; justify-content: center; gap: 1.1rem; margin: 0 0 2.4rem; }
+.carrossel-conta { min-width: 4.5rem; text-align: center; font: 700 1.35rem/1 var(--mao); color: var(--acento); font-variant-numeric: tabular-nums; }
+.carrossel-seta { font: 800 1.1rem/1 var(--sans); width: 2.6rem; height: 2.6rem; color: var(--tinta); background: var(--papel); border: 1.5px solid var(--tinta); border-radius: 50%; cursor: pointer; box-shadow: 3px 3px 0 var(--sombra-rosa); }
+.carrossel-seta:hover:not(:disabled) { background: var(--acento); border-color: var(--acento); color: #fff; }
+.carrossel-seta:disabled { opacity: .35; cursor: default; }
 
 /* Letreiro com os temas, numa tira escura logo abaixo da capa */
 .letreiro { overflow: hidden; padding: 1.6rem 0; margin-bottom: -1.2rem; }

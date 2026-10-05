@@ -1,4 +1,5 @@
 import { $, esc, carregarJSON, separarValidos, seloClassificacao, formatarData, textoBuscavel, normalizarBusca, montarMoldura, CLASSIFICACOES, RegistroFontes, htmlRodapeFontes } from './core.js';
+import { montarCarrossel } from './carrossel.js';
 
 await montarMoldura('index.html');
 const temas = await carregarJSON('data/temas.json');
@@ -40,12 +41,15 @@ $('#temas').innerHTML =
       <p>${esc(t.escopo)}</p><span class="situacao">${n ? `${n} itens verificados` : 'Em verificação de fontes'}</span></a>`;
   }).join('');
 
+montarCarrossel($('#destaques'));
+montarCarrossel($('#temas'));
+
 // Letreiro decorativo: a lista vai duas vezes para o laço emendar sem salto.
 $('#letreiro').innerHTML = temas.map(t => `<span>${esc(t.titulo)}</span>`).join('').repeat(2);
 
 const filtroClasse = $('#busca-classificacao');
 filtroClasse.innerHTML = '<option value="">Todas as classificações</option>' +
-  Object.entries(CLASSIFICACOES).map(([chave, c]) => `<option value="${chave}">${c.emoji} ${esc(c.rotulo)}</option>`).join('');
+  Object.entries(CLASSIFICACOES).map(([chave, c]) => `<option value="${chave}">${esc(c.rotulo)}</option>`).join('');
 
 function buscar() {
   const q = normalizarBusca($('#busca').value);

@@ -7,12 +7,12 @@
     "destaque": true,
     "classificacao": "fato",
     "status_juridico": "Medida provisória em vigor, pendente de votação no Congresso na data da fonte (28/09/2026).",
-    "fonte_nome": "Agência Senado – \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
+    "fonte_nome": "Agência Senado: \"MP proíbe bets e determina encerramento das operações em 30 dias\"",
     "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
     "fonte_data": "2026-09-28",
     "fontes_adicionais": [
       {
-        "nome": "Agência Câmara – \"Receita Federal informa que arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025\"",
+        "nome": "Agência Câmara: \"Receita Federal informa que arrecadação com apostas esportivas foi de R$ 9 bilhões em 2025\"",
         "url": "https://www.camara.leg.br/noticias/1274502-receita-federal-informa-que-arrecadacao-com-apostas-esportivas-foi-de-r$-9-bilhoes-em-2025",
         "data": "2026-05-20"
       }
@@ -27,7 +27,7 @@
     "destaque": true,
     "classificacao": "acusacao",
     "status_juridico": "Aije 0602230-49.2026.6.00.0000 admitida para tramitação em 28/09/2026. Admitir a ação não é julgar o mérito: não há condenação. Liminares não analisadas até essa data. Andamento posterior não verificado por este site.",
-    "fonte_nome": "TSE – \"TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin\"",
+    "fonte_nome": "TSE: \"TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin\"",
     "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
     "fonte_data": "2026-09-28",
     "verificado_em": "2026-10-05"
@@ -40,7 +40,7 @@
     "destaque": false,
     "classificacao": "acusacao",
     "status_juridico": "Ação protocolada em 28/09/2026. Nenhuma decisão do TSE sobre ela foi verificada por este site.",
-    "fonte_nome": "CNN Brasil – \"Flávio pede cassação de Lula por abuso de poder por atos ligados à Cultura\"",
+    "fonte_nome": "CNN Brasil: \"Flávio pede cassação de Lula por abuso de poder por atos ligados à Cultura\"",
     "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-cassacao-de-lula-por-abuso-de-poder-por-atos-ligados-a-cultura/",
     "fonte_data": "2026-09-28",
     "verificado_em": "2026-10-05"
@@ -52,7 +52,7 @@
     "texto": "Com 99,99% das urnas apuradas à 0h11 de 5 de outubro de 2026, o TSE informou que Flávio Bolsonaro (PL) recebeu 56.104.268 votos (47,03% dos válidos) e Lula (PT), 53.876.617 votos (45,16%). Os dois disputam o segundo turno. Houve 2.300.781 votos brancos (1,84%) e 3.674.149 nulos (2,93%); os votos válidos somaram 125.272.513.",
     "destaque": false,
     "classificacao": "fato",
-    "fonte_nome": "TSE – \"Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República\"",
+    "fonte_nome": "TSE: \"Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República\"",
     "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
     "fonte_data": "2026-10-05",
     "verificado_em": "2026-10-05"
@@ -65,12 +65,12 @@
     "destaque": false,
     "classificacao": "acusacao",
     "status_juridico": "Liminares NEGADAS pelo TSE em 12/02/2026, por unanimidade. Julgamento de mérito das representações não verificado por este site.",
-    "fonte_nome": "TSE – \"TSE nega liminares em ações sobre desfile de escola de samba em homenagem ao presidente Lula\"",
+    "fonte_nome": "TSE: \"TSE nega liminares em ações sobre desfile de escola de samba em homenagem ao presidente Lula\"",
     "fonte_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Fevereiro/tse-nega-liminares-em-acoes-sobre-desfile-de-escola-de-samba-em-homenagem-ao-presidente-lula",
     "fonte_data": "2026-02-12",
     "fontes_adicionais": [
       {
-        "nome": "CNN Brasil – \"PL e Novo acionam PGR e TCU para barrar homenagem a Lula no Carnaval\"",
+        "nome": "CNN Brasil: \"PL e Novo acionam PGR e TCU para barrar homenagem a Lula no Carnaval\"",
         "url": "https://www.cnnbrasil.com.br/politica/pl-e-novo-acionam-justica-para-barrar-homenagem-a-lula-no-carnaval/",
         "data": "2026-02-03"
       }
@@ -85,7 +85,7 @@
     "destaque": false,
     "classificacao": "acusacao",
     "status_juridico": "Ação admitida para tramitação em 18/09/2026. Admitir a ação não é julgar o mérito. Andamento posterior não verificado por este site.",
-    "fonte_nome": "CNN Brasil – \"TSE aceita abrir ação contra Lula por desfile no Carnaval do Rio de Janeiro\"",
+    "fonte_nome": "CNN Brasil: \"TSE aceita abrir ação contra Lula por desfile no Carnaval do Rio de Janeiro\"",
     "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/tse-aceita-abrir-acao-contra-lula-por-desfile-no-carnaval-do-rio-de-janeiro/",
     "fonte_data": "2026-09-18",
     "verificado_em": "2026-10-05"

@@ -8,7 +8,7 @@ if (!tema) {
   $('#titulo').textContent = 'Tema não encontrado';
   $('#conteudo').innerHTML = '<p class="vazio">Volte ao <a href="index.html">início</a> e escolha um tema.</p>';
 } else {
-  document.title = `${tema.titulo} – Dossiê Lula e PT`;
+  document.title = `${tema.titulo} | Dossiê Lula e PT`;
   $('#titulo').textContent = `${tema.numero}. ${tema.titulo}`;
   $('#escopo').textContent = tema.escopo;
 
@@ -24,7 +24,7 @@ if (!tema) {
   } else {
     const ativas = new Set(Object.keys(CLASSIFICACOES));
     $('#filtro-classificacao').innerHTML = Object.entries(CLASSIFICACOES).map(([chave, c]) =>
-      `<label class="caixa"><input type="checkbox" value="${chave}" checked> ${c.emoji} ${esc(c.rotulo)}</label>`).join('');
+      `<label class="caixa"><input type="checkbox" value="${chave}" checked> <span class="selo selo-${chave}">${esc(c.rotulo)}</span></label>`).join('');
     const desenhar = () => {
       const q = normalizarBusca($('#busca').value);
       const visiveis = validos.filter(i => ativas.has(i.classificacao) && (!q || textoBuscavel(i).includes(q)));
